@@ -1,0 +1,3707 @@
+,movieid,name,genre,rating
+0,1,Toy Story  ,"Animation,Children,Comedy",4
+1,2,Jumanji  ,"Adventure,Children,Fantasy",3
+2,3,Grumpier Old Men  ,"Comedy,Romance",3
+3,4,Waiting to Exhale  ,"Comedy,Drama",3
+4,5,Father of the Bride Part II  ,Comedy,3
+5,6,Heat  ,"Action,Crime,Thriller",4
+6,7,Sabrina  ,"Comedy,Romance",3
+7,8,Tom and Huck  ,"Adventure,Children",3
+8,9,Sudden Death  ,Action,3
+9,10,GoldenEye  ,"Action,Adventure,Thriller",4
+10,11,American President,"Comedy,Drama,Romance",4
+11,12,Dracula: Dead and Loving It  ,"Comedy,Horror",2
+12,13,Balto  ,"Animation,Children",3
+13,14,Nixon  ,Drama,4
+14,15,Cutthroat Island  ,"Action,Adventure,Romance",2
+15,16,Casino  ,"Drama,Thriller",4
+16,17,Sense and Sensibility  ,"Drama,Romance",4
+17,18,Four Rooms  ,Thriller,3
+18,19,Ace Ventura: When Nature Calls  ,Comedy,2
+19,20,Money Train  ,Action,3
+20,21,Get Shorty  ,"Action,Comedy,Drama",4
+21,22,Copycat  ,"Crime,Drama,Thriller",3
+22,23,Assassins  ,Thriller,3
+23,24,Powder  ,"Drama,SciFi",3
+24,25,Leaving Las Vegas  ,"Drama,Romance",4
+25,26,Othello  ,Drama,4
+26,27,Now and Then  ,Drama,3
+27,28,Persuasion  ,Romance,4
+28,29,City of Lost Children,"Adventure,SciFi",4
+29,30,Shanghai Triad (Yao a yao yao dao waipo qiao)  ,Drama,4
+30,31,Dangerous Minds  ,Drama,3
+31,32,Twelve Monkeys  ,"Drama,SciFi",4
+32,33,Wings of Courage  ,"Adventure,Romance",3
+33,34,Babe  ,"Children,Comedy,Drama",4
+34,35,Carrington  ,"Drama,Romance",3
+35,36,Dead Man Walking  ,Drama,4
+36,37,Across the Sea of Time  ,Documentary,4
+37,38,It Takes Two  ,Comedy,3
+38,39,Clueless  ,"Comedy,Romance",4
+39,40,Cry,Drama,4
+40,41,Richard III  ,"Drama,War",4
+41,42,Dead Presidents  ,"Action,Crime,Drama",3
+42,43,Restoration  ,Drama,3
+43,44,Mortal Kombat  ,"Action,Adventure",3
+44,45,To Die For  ,"Comedy,Drama",3
+45,46,How to Make an American Quilt  ,"Drama,Romance",3
+46,47,Seven (Se7en)  ,"Crime,Thriller",4
+47,48,Pocahontas  ,"Animation,Children,Musical",3
+48,49,When Night Is Falling  ,"Drama,Romance",4
+49,50,Usual Suspects,"Crime,Thriller",5
+50,52,Mighty Aphrodite  ,Comedy,4
+51,53,Lamerica  ,Drama,5
+52,54,Big Green,"Children,Comedy",3
+53,55,Georgia  ,Drama,3
+54,56,Kids of the Round Table  ,"Adventure,Children,Fantasy",2
+55,57,Home for the Holidays  ,Drama,3
+56,58,Postino,"Drama,Romance",4
+57,59,Confessional,"Drama,Mystery",3
+58,60,Indian in the Cupboard,"Adventure,Children,Fantasy",3
+59,61,Eye for an Eye  ,"Drama,Thriller",3
+60,62,Mr. Holland's Opus  ,Drama,4
+61,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood  ,Comedy,3
+62,64,Two if by Sea  ,"Comedy,Romance",2
+63,65,Bio-Dome  ,Comedy,2
+64,66,Lawnmower Man 2: Beyond Cyberspace  ,"SciFi,Thriller",2
+65,67,Two Bits  ,Drama,3
+66,68,French Twist (Gazon maudit)  ,"Comedy,Romance",3
+67,69,Friday  ,Comedy,4
+68,70,From Dusk Till Dawn  ,"Action,Comedy,Crime,Thriller",3
+69,71,Fair Game  ,Action,2
+70,72,Kicking and Screaming  ,"Comedy,Drama",4
+71,73,Misérables,"Drama,Musical",4
+72,74,Bed of Roses  ,"Drama,Romance",3
+73,75,Big Bully  ,"Comedy,Drama",2
+74,76,Screamers  ,"SciFi,Thriller",3
+75,77,Nico Icon  ,Documentary,4
+76,78,Crossing Guard,Drama,3
+77,79,Juror,"Drama,Thriller",3
+78,80,White Balloon,Drama,4
+79,81,Things to Do in Denver when You're Dead  ,"Crime,Drama,Romance",3
+80,82,Antonia's Line (Antonia)  ,Drama,4
+81,83,Once Upon a Time... When We Were Colored  ,Drama,4
+82,84,Last Summer in the Hamptons  ,"Comedy,Drama",3
+83,85,Angels and Insects  ,"Drama,Romance",3
+84,86,White Squall  ,"Adventure,Drama",3
+85,87,Dunston Checks In  ,"Children,Comedy",2
+86,88,Black Sheep  ,Comedy,3
+87,89,Nick of Time  ,"Action,Thriller",3
+88,90,Journey of August King,Drama,4
+89,92,Mary Reilly  ,"Drama,Thriller",2
+90,93,Vampire in Brooklyn  ,"Comedy,Romance",2
+91,94,Beautiful Girls  ,Drama,4
+92,95,Broken Arrow  ,"Action,Thriller",3
+93,96,In the Bleak Midwinter  ,Comedy,4
+94,97,Hate (Haine,Drama,4
+95,98,Shopping  ,"Action,Thriller",2
+96,99,Heidi Fleiss: Hollywood Madam  ,Documentary,3
+97,100,City Hall  ,"Drama,Thriller",3
+98,101,Bottle Rocket  ,Comedy,4
+99,102,Mr. Wrong  ,Comedy,2
+100,103,Unforgettable  ,Thriller,3
+101,104,Happy Gilmore  ,Comedy,4
+102,105,Bridges of Madison County,"Drama,Romance",3
+103,106,Nobody Loves Me (Keiner liebt mich)  ,"Comedy,Drama",4
+104,107,Muppet Treasure Island  ,"Adventure,Children,Comedy",3
+105,108,Catwalk  ,Documentary,3
+106,110,Braveheart  ,"Action,Drama,War",4
+107,111,Taxi Driver  ,"Drama,Thriller",4
+108,112,Rumble in the Bronx  ,"Action,Adventure,Crime",3
+109,113,Before and After  ,"Drama,Mystery",3
+110,114,Margaret's Museum  ,Drama,3
+111,116,Anne Frank Remembered  ,Documentary,4
+112,117,Young Poisoner's Handbook,Crime,4
+113,118,If Lucy Fell  ,"Comedy,Romance",3
+114,119,Steal Big,Comedy,2
+115,120,Race the Sun  ,Drama,3
+116,121,Boys of St. Vincent,Drama,4
+117,122,Boomerang  ,"Comedy,Romance",3
+118,123,Chungking Express  ,"Drama,Mystery,Romance",4
+119,124,Star Maker,Drama,3
+120,125,Flirting With Disaster  ,Comedy,4
+121,126,NeverEnding Story III,"Adventure,Children,Fantasy",2
+122,127,Silence of the Palace,Drama,1
+123,128,Jupiter's Wife  ,Documentary,4
+124,129,Pie in the Sky  ,"Comedy,Romance",3
+125,130,Angela  ,Drama,4
+126,131,Frankie Starlight  ,"Drama,Romance",3
+127,132,Jade  ,Thriller,2
+128,133,Nueba Yol  ,"Comedy,Drama",1
+129,134,Sonic Outlaws  ,Documentary,4
+130,135,Down Periscope  ,Comedy,3
+131,136,From the Journals of Jean Seberg  ,Documentary,3
+132,137,Man of the Year  ,Documentary,3
+133,138,Neon Bible,Drama,2
+134,139,Target  ,"Action,Drama",4
+135,140,Up Close and Personal  ,"Drama,Romance",3
+136,141,Birdcage,Comedy,4
+137,142,Shadows (Cienie)  ,Drama,1
+138,144,Brothers McMullen,Comedy,3
+139,145,Bad Boys  ,Action,3
+140,146,Amazing PandaAdventure,"Adventure,Children",3
+141,147,Basketball Diaries,Drama,4
+142,148,Awfully BigAdventure,Drama,3
+143,149,Amateur  ,"Crime,Drama,Thriller",4
+144,150,Apollo 13  ,Drama,4
+145,151,Rob Roy  ,"Drama,Romance,War",4
+146,152,Addiction,Horror,3
+147,153,Batman Forever  ,"Action,Adventure,Comedy",3
+148,154,Belle de jour  ,Drama,4
+149,155,Beyond Rangoon  ,"Drama,War",3
+150,156,Blue in the Face  ,Comedy,4
+151,157,Canadian Bacon  ,"Comedy,War",3
+152,158,Casper  ,"Adventure,Children",3
+153,159,Clockers  ,Drama,3
+154,160,Congo  ,"Action,Adventure,Mystery",2
+155,161,Crimson Tide  ,"Drama,Thriller,War",4
+156,162,Crumb  ,Documentary,4
+157,163,Desperado  ,"Action,Romance,Thriller",3
+158,164,Devil in a Blue Dress  ,"Crime,Noir,Mystery",4
+159,165,Die Hard: With a Vengeance  ,"Action,Thriller",4
+160,166,Doom Generation,"Comedy,Drama",2
+161,167,Feast of July  ,Drama,4
+162,168,First Knight  ,"Action,Adventure,Drama",3
+163,169,Free Willy 2: TheAdventureHome  ,"Adventure,Children,Drama",2
+164,170,Hackers  ,"Action,Crime,Thriller",3
+165,171,Jeffrey  ,Comedy,4
+166,172,Johnny Mnemonic  ,"Action,SciFi,Thriller",3
+167,173,Judge Dredd  ,"Action,Adventure,SciFi",2
+168,174,Jury Duty  ,Comedy,2
+169,175,Kids  ,Drama,3
+170,176,Living in Oblivion  ,Comedy,4
+171,177,Lord of Illusions  ,Horror,3
+172,178,Love & Human Remains  ,Comedy,3
+173,179,Mad Love  ,"Drama,Romance",2
+174,180,Mallrats  ,Comedy,4
+175,181,Mighty Morphin Power Rangers: The Movie  ,"Action,Children",2
+176,182,Moonlight and Valentino  ,"Drama,Romance",3
+177,183,Mute Witness  ,Thriller,3
+178,184,Nadja  ,Drama,3
+179,185,Net,"SciFi,Thriller",3
+180,186,Nine Months  ,Comedy,3
+181,187,Party Girl  ,Comedy,3
+182,188,Prophecy,Horror,3
+183,189,Reckless  ,Comedy,3
+184,190,Safe  ,Thriller,4
+185,191,Scarlet Letter,Drama,2
+186,192,Show,Documentary,3
+187,193,Showgirls  ,Drama,2
+188,194,Smoke  ,Drama,4
+189,195,Something to Talk About  ,"Comedy,Drama,Romance",3
+190,196,Species  ,"Horror,SciFi",3
+191,197,Stars Fell on Henrietta,Drama,3
+192,198,Strange Days  ,"Action,Crime,SciFi",3
+193,199,Umbrellas of Cherbourg,"Drama,Musical",4
+194,200,Tie That Binds,Thriller,2
+195,201,Three Wishes  ,Drama,3
+196,202,Total Eclipse  ,"Drama,Romance",2
+197,203,To Wong Foo,Comedy,3
+198,204,Under Siege 2: Dark Territory  ,Action,3
+199,205,Unstrung Heroes  ,"Comedy,Drama",4
+200,206,Unzipped  ,Documentary,4
+201,207,Walk in the Clouds,"Drama,Romance",3
+202,208,Waterworld  ,"Action,Adventure",3
+203,209,White Man's Burden  ,Drama,2
+204,210,Wild Bill  ,Western,3
+205,211,Browning Version,Drama,4
+206,212,Bushwhacked  ,Comedy,2
+207,213,Burnt By the Sun (Utomlyonnye solntsem)  ,Drama,4
+208,214,Before the Rain (Pred dozhdot)  ,Drama,4
+209,215,Before Sunrise  ,"Drama,Romance",4
+210,216,Billy Madison  ,Comedy,3
+211,217,Babysitter,"Drama,Thriller",3
+212,218,Boys on the Side  ,"Comedy,Drama",3
+213,219,Cure,"Drama,Drama",3
+214,220,Castle Freak  ,Horror,2
+215,222,Circle of Friends  ,"Drama,Romance",4
+216,223,Clerks  ,Comedy,4
+217,224,Don Juan DeMarco  ,"Comedy,Drama,Romance",3
+218,225,Disclosure  ,"Drama,Thriller",3
+219,226,Dream Man  ,Thriller,2
+220,227,Drop Zone  ,Action,3
+221,228,Destiny Turns on the Radio  ,Comedy,2
+222,229,Death and the Maiden  ,"Drama,Thriller",4
+223,230,Dolores Claiborne  ,"Drama,Thriller",3
+224,231,Dumb & Dumber  ,Comedy,3
+225,232,Eat Drink Man Woman  ,"Comedy,Drama",4
+226,233,Exotica  ,Drama,4
+227,234,Exit to Eden  ,Comedy,2
+228,235,Ed Wood  ,"Comedy,Drama",4
+229,236,French Kiss  ,"Comedy,Romance",3
+230,237,Forget Paris  ,"Comedy,Romance",3
+231,238,Far From Home: TheAdventures of Yellow Dog  ,"Adventure,Children",3
+232,239,Goofy Movie,"Animation,Children,Comedy",3
+233,240,Hideaway  ,Thriller,3
+234,241,Fluke  ,"Children,Drama",3
+235,242,Farinelli: il castrato  ,"Drama,Musical",4
+236,243,Gordy  ,Comedy,2
+237,244,Gumby: The Movie  ,"Animation,Children",2
+238,245,Glass Shield,"Crime,Drama",3
+239,246,Hoop Dreams  ,Documentary,4
+240,247,Heavenly Creatures  ,"Drama,Fantasy,Romance",4
+241,248,Houseguest  ,Comedy,3
+242,249,Immortal Beloved  ,"Drama,Romance",4
+243,250,Heavyweights  ,"Children,Comedy",3
+244,251,Hunted,Action,3
+245,252,I.Q.  ,"Comedy,Romance",3
+246,253,Interview with the Vampire  ,"Drama,Horror",4
+247,254,Jefferson in Paris  ,Drama,3
+248,255,Jerky Boys,Comedy,2
+249,256,Junior  ,"Comedy,SciFi",3
+250,257,Just Cause  ,"Mystery,Thriller",3
+251,258,Kid in King Arthur's Court,"Adventure,Children,Comedy,Romance",2
+252,259,Kiss of Death  ,"Crime,Drama,Thriller",3
+253,260,StarWars: Episode IV - A New Hope  ,"Action,Adventure,Fantasy",4
+254,261,Little Women  ,Drama,4
+255,262,Little Princess,"Children,Drama",4
+256,263,Ladybird Ladybird  ,Drama,4
+257,264,Enfer,Drama,3
+258,265,Like Water for Chocolate (Como agua para chocolate)  ,"Drama,Romance",4
+259,266,Legends of the Fall  ,"Drama,Romance,War",3
+260,267,Major Payne  ,Comedy,3
+261,268,Little Odessa  ,Drama,3
+262,269,My Crazy Life (Mi vida loca)  ,Drama,4
+263,270,Love Affair  ,"Drama,Romance",3
+264,271,Losing Isaiah  ,Drama,3
+265,272,Madness of King George,Drama,4
+266,273,Mary Shelley's Frankenstein  ,"Drama,Horror",3
+267,274,Man of the House  ,Comedy,2
+268,275,Mixed Nuts  ,Comedy,3
+269,276,Milk Money  ,"Comedy,Romance",3
+270,277,Miracle on 34th Street  ,Drama,3
+271,278,Miami Rhapsody  ,Comedy,3
+272,279,My Family  ,Drama,4
+273,280,Murder in the First  ,"Drama,Thriller",4
+274,281,Nobody's Fool  ,Drama,4
+275,282,Nell  ,Drama,3
+276,283,New Jersey Drive  ,"Crime,Drama",3
+277,286,Nemesis 2: Nebula  ,"Action,SciFi,Thriller",3
+278,287,Nina Takes a Lover  ,"Comedy,Romance",3
+279,288,Natural Born Killers  ,"Action,Thriller",3
+280,289,Only You  ,"Comedy,Romance",3
+281,290,Once WereWarriors  ,"Crime,Drama",4
+282,291,Poison Ivy II  ,Thriller,2
+283,292,Outbreak  ,"Action,Drama,Thriller",3
+284,293,Professional,"Crime,Drama,Romance",4
+285,294,Perez Family,"Comedy,Romance",3
+286,295,Pyromaniac's Love Story,"Comedy,Romance",3
+287,296,Pulp Fiction  ,"Crime,Drama",4
+288,297,Panther  ,Drama,3
+289,298,Pushing Hands  ,Comedy,4
+290,299,Priest  ,Drama,4
+291,300,Quiz Show  ,Drama,4
+292,301,Picture Bride  ,"Drama,Romance",3
+293,302,Queen Margot (La Reine Margot)  ,"Drama,Romance",4
+294,303,Quick and the Dead,"Action,Adventure,Western",3
+295,304,Roommates  ,"Comedy,Drama",3
+296,305,Ready to Wear (Pret-A-Porter)  ,Comedy,3
+297,306,Three Colors: Red  ,Drama,4
+298,307,Three Colors: Blue  ,Drama,4
+299,308,Three Colors: White  ,Drama,4
+300,309,Red Firecracker,Drama,4
+301,310,Rent-a-Kid  ,Comedy,3
+302,311,Relative Fear  ,"Horror,Thriller",3
+303,312,Stuart Saves His Family  ,Comedy,2
+304,313,Swan Princess,"Animation,Children",3
+305,314,Secret of Roan Inish,Drama,4
+306,315,Specialist,Action,3
+307,316,Stargate  ,"Action,Adventure,SciFi",3
+308,317,Santa Clause,"Children,Comedy,Fantasy",3
+309,318,Shawshank Redemption,Drama,5
+310,319,Shallow Grave  ,Thriller,4
+311,320,Suture  ,"Noir,Thriller",3
+312,321,Strawberry and Chocolate (Fresa y chocolate)  ,Drama,4
+313,322,Swimming with Sharks  ,"Comedy,Drama",4
+314,324,Sum of Us,Comedy,4
+315,325,National Lampoon's Senior Trip  ,Comedy,2
+316,326,To Live (Huozhe)  ,Drama,4
+317,327,Tank Girl  ,"Action,Comedy,Musical",3
+318,328,Tales From the Crypt Presents: Demon Knight  ,Horror,3
+319,329,Star Trek: Generations  ,"Action,Adventure,SciFi",3
+320,330,Tales from the Hood  ,"Comedy,Horror",3
+321,331,Tom & Viv  ,Drama,3
+322,332,Village of the Damned  ,"Horror,SciFi",3
+323,333,Tommy Boy  ,Comedy,4
+324,334,Vanya on 42nd Street  ,Drama,4
+325,335,Underneath,"Mystery,Thriller",3
+326,336,Walking Dead,"Drama,War",3
+327,337,What's Eating Gilbert Grape  ,Drama,4
+328,338,Virtuosity  ,"SciFi,Thriller",3
+329,339,While You Were Sleeping  ,"Comedy,Romance",3
+330,340,War,"Adventure,Drama",3
+331,341,Double Happiness  ,Drama,4
+332,342,Muriel's Wedding  ,"Comedy,Romance",4
+333,343,Baby-Sitters Club,Children,2
+334,344,Ace Ventura: Pet Detective  ,Comedy,3
+335,345,Adventures of Priscilla,"Comedy,Drama",4
+336,346,Backbeat  ,"Drama,Musical",4
+337,347,Bitter Moon  ,Drama,3
+338,348,Bullets Over Broadway  ,Comedy,4
+339,349,Clear and Present Danger  ,"Action,Adventure,Thriller",4
+340,350,Client,"Drama,Mystery",3
+341,351,Corrina,"Comedy,Drama",3
+342,352,Crooklyn  ,Comedy,3
+343,353,Crow,"Action,Romance",3
+344,354,Cobb  ,Drama,3
+345,355,Flintstones,"Children,Comedy",2
+346,356,Forrest Gump  ,"Comedy,Romance,War",4
+347,357,Four Weddings and a Funeral  ,"Comedy,Romance",4
+348,358,Higher Learning  ,Drama,3
+349,359,I Like It Like That  ,"Comedy,Drama,Romance",3
+350,360,I Love Trouble  ,"Action,Comedy",2
+351,361,It Could Happen to You  ,"Drama,Romance",3
+352,362,Jungle Book,"Adventure,Children",3
+353,363,Wonderful,Documentary,4
+354,364,Lion King,"Animation,Children",4
+355,365,Little Buddha  ,Drama,3
+356,366,Wes Craven's New Nightmare  ,Horror,3
+357,367,Mask,"Comedy,Crime",3
+358,368,Maverick  ,"Action,Comedy,Western",4
+359,369,Mrs. Parker and the Vicious Circle  ,Drama,3
+360,370,Naked Gun 33 1/3: The Final Insult  ,Comedy,3
+361,371,Paper,"Comedy,Drama",3
+362,372,Reality Bites  ,"Comedy,Drama",3
+363,373,Red Rock West  ,Thriller,4
+364,374,Richie Rich  ,"Children,Comedy",2
+365,375,Safe Passage  ,Drama,3
+366,376,River Wild,"Action,Thriller",3
+367,377,Speed  ,"Action,Romance,Thriller",4
+368,378,Speechless  ,"Comedy,Romance",3
+369,379,Timecop  ,"Action,SciFi",3
+370,380,True Lies  ,"Action,Adventure,Comedy",4
+371,381,When a Man Loves a Woman  ,Drama,3
+372,382,Wolf  ,"Drama,Horror",3
+373,383,Wyatt Earp  ,Western,3
+374,384,Bad Company  ,Action,3
+375,385,Man of No Importance,Drama,3
+376,386,S.F.W.  ,Drama,3
+377,387,Low Down Dirty Shame,"Action,Comedy",3
+378,388,Boys Life  ,Drama,4
+379,389,Colonel Chabert,"Drama,Romance",4
+380,390,Faster Pussycat! Kill! Kill!  ,"Action,Comedy,Drama",4
+381,391,Jason's Lyric  ,"Crime,Drama",3
+382,392,SecretAdventures of Tom Thumb,"Adventure,Children",3
+383,393,Street Fighter  ,Action,2
+384,394,Coldblooded  ,Action,4
+385,396,Fall Time  ,Drama,4
+386,397,Fear,Horror,2
+387,398,Frank and Ollie  ,Documentary,4
+388,401,Mirage  ,"Action,Thriller",3
+389,402,Open Season  ,Comedy,3
+390,404,Brother Minister: The Assassination of Malcolm X  ,Documentary,4
+391,405,Highlander III: The Sorcerer  ,"Action,SciFi",2
+392,406,Federal Hill  ,Drama,4
+393,407,In the Mouth of Madness  ,"Horror,Thriller",3
+394,408,8 Seconds  ,Drama,3
+395,409,Above the Rim  ,Drama,3
+396,410,Addams Family Values  ,Comedy,3
+397,411,You So Crazy  ,Comedy,3
+398,412,Age of Innocence,Drama,4
+399,413,Airheads  ,Comedy,3
+400,414,Air Up There,Comedy,3
+401,415,Another Stakeout  ,"Comedy,Thriller",2
+402,416,Bad Girls  ,Western,2
+403,417,Barcelona  ,"Comedy,Romance",3
+404,418,Being Human  ,Drama,3
+405,419,Beverly Hillbillies,Comedy,2
+406,420,Beverly Hills Cop III  ,"Action,Comedy",3
+407,421,Black Beauty  ,"Adventure,Children",3
+408,422,Blink  ,Thriller,3
+409,423,Blown Away  ,"Action,Thriller",3
+410,424,Blue Chips  ,Drama,3
+411,425,Blue Sky  ,"Drama,Romance",4
+412,426,Body Snatchers  ,"Horror,SciFi,Thriller",3
+413,427,Boxing Helena  ,"Mystery,Romance,Thriller",2
+414,428,Bronx Tale,Drama,4
+415,429,Cabin Boy  ,Comedy,2
+416,430,Calendar Girl  ,Drama,2
+417,431,Carlito's Way  ,"Crime,Drama",4
+418,432,City Slickers II: The Legend of Curly's Gold  ,"Comedy,Western",3
+419,433,Clean Slate  ,Comedy,3
+420,434,Cliffhanger  ,"Action,Adventure,Crime",3
+421,435,Coneheads  ,"Comedy,SciFi",3
+422,436,Color of Night  ,"Drama,Thriller",3
+423,437,Cops and Robbersons  ,Comedy,2
+424,438,Cowboy Way,"Action,Comedy",3
+425,439,Dangerous Game  ,Drama,4
+426,440,Dave  ,"Comedy,Romance",4
+427,441,Dazed and Confused  ,Comedy,4
+428,442,Demolition Man  ,"Action,SciFi",3
+429,443,Endless Summer 2,Documentary,3
+430,444,Even Cowgirls Get the Blues  ,"Comedy,Romance",2
+431,445,Fatal Instinct  ,Comedy,3
+432,446,Farewell My Concubine  ,"Drama,Romance",4
+433,447,Favor,"Comedy,Romance",2
+434,448,Fearless  ,Drama,4
+435,449,Fear of a Black Hat  ,Comedy,4
+436,450,With Honors  ,"Comedy,Drama",3
+437,451,Flesh and Bone  ,"Drama,Mystery,Romance",3
+438,452,Widows' Peak  ,Drama,3
+439,453,For Love or Money  ,Comedy,3
+440,454,Firm,"Drama,Thriller",4
+441,455,Free Willy  ,"Adventure,Children,Drama",3
+442,456,Fresh  ,Drama,4
+443,457,Fugitive,"Action,Thriller",4
+444,458,Geronimo: An American Legend  ,"Drama,Western",3
+445,459,Getaway,Action,3
+446,460,Getting Even with Dad  ,Comedy,2
+447,461,Go Fish  ,"Drama,Romance",3
+448,462,Good Man in Africa,"Action,Adventure",3
+449,463,Guilty as Sin  ,"Crime,Drama,Thriller",3
+450,464,Hard Target  ,"Action,Adventure,Crime",3
+451,465,Heaven & Earth  ,"Action,Drama,War",3
+452,466,Hot Shots! Part Deux  ,"Action,Comedy,War",3
+453,467,Live Nude Girls  ,Comedy,3
+454,468,Englishman Who Went Up a Hill,Comedy,3
+455,469,House of the Spirits,"Drama,Romance",3
+456,470,House Party 3  ,Comedy,2
+457,471,Hudsucker Proxy,"Comedy,Romance",4
+458,472,I'll Do Anything  ,"Comedy,Drama",3
+459,473,In the Army Now  ,"Comedy,War",2
+460,474,In the Line of Fire  ,"Action,Thriller",4
+461,475,In the Name of the Father  ,Drama,4
+462,476,Inkwell,"Comedy,Drama",3
+463,477,What's Love Got to Do with It?  ,Drama,3
+464,478,Jimmy Hollywood  ,Comedy,2
+465,479,Judgment Night  ,Action,3
+466,480,Jurassic Park  ,"Action,Adventure,SciFi",4
+467,481,Kalifornia  ,"Drama,Thriller",3
+468,482,Killing Zoe  ,Thriller,4
+469,483,King of the Hill  ,Drama,4
+470,484,Lassie  ,"Adventure,Children",3
+471,485,LastActionHero  ,"Action,Comedy",3
+472,486,Life with Mikey  ,Comedy,3
+473,487,Lightning Jack  ,"Comedy,Western",3
+474,488,M. Butterfly  ,Drama,3
+475,489,Made in America  ,Comedy,2
+476,490,Malice  ,Thriller,3
+477,491,Man Without a Face,Drama,3
+478,492,Manhattan MurderMystery ,"Comedy,Mystery",4
+479,493,Menace II Society  ,"Action,Crime,Drama",4
+480,494,Executive Decision  ,"Action,Thriller",3
+481,495,In the Realm of the Senses (Ai no corrida)  ,Drama,3
+482,496,What Happened Was...  ,"Comedy,Drama,Romance",3
+483,497,Much Ado About Nothing  ,"Comedy,Romance",4
+484,498,Mr. Jones  ,"Drama,Romance",3
+485,499,Mr. Wonderful  ,"Comedy,Romance",3
+486,500,Mrs. Doubtfire  ,Comedy,3
+487,501,Naked  ,Drama,4
+488,502,Next Karate Kid,"Action,Children",2
+489,503,New Age,Drama,4
+490,504,No Escape  ,"Action,SciFi",3
+491,505,North  ,Comedy,2
+492,506,Orlando  ,Drama,3
+493,507,Perfect World,"Action,Drama",4
+494,508,Philadelphia  ,Drama,4
+495,509,Piano,"Drama,Romance",4
+496,510,Poetic Justice  ,Drama,2
+497,511,Program,"Action,Drama",3
+498,512,Robert A. Heinlein's The Puppet Masters  ,"Horror,SciFi",3
+499,513,Radioland Murders  ,"Comedy,Mystery,Romance",3
+500,514,Ref,Comedy,4
+501,515,Remains of the Day,Drama,4
+502,516,Renaissance Man  ,"Comedy,Drama,War",3
+503,517,Rising Sun  ,"Action,Drama,Mystery",3
+504,518,Road to Wellville,Comedy,2
+505,519,Robocop 3  ,"SciFi,Thriller",2
+506,520,Robin Hood: Men in Tights  ,Comedy,3
+507,521,Romeo Is Bleeding  ,"Crime,Thriller",3
+508,522,Romper Stomper  ,"Action,Drama",4
+509,523,Ruby in Paradise  ,Drama,4
+510,524,Rudy  ,Drama,4
+511,525,Saint of Fort Washington,Drama,3
+512,526,Savage Nights (Nuits fauves,Drama,2
+513,527,Schindler's List  ,"Drama,War",5
+514,528,Scout,Drama,3
+515,529,Searching for Bobby Fischer  ,Drama,4
+516,530,Second Best  ,Drama,4
+517,531,Secret Garden,"Children,Drama",4
+518,532,Serial Mom  ,"Comedy,Crime,Horror",3
+519,533,Shadow,Action,3
+520,534,Shadowlands  ,"Drama,Romance",4
+521,535,Short Cuts  ,Drama,4
+522,536,Simple Twist of Fate,Drama,3
+523,537,Sirens  ,"Comedy,Drama",3
+524,538,Six Degrees of Separation  ,Drama,4
+525,539,Sleepless in Seattle  ,"Comedy,Romance",4
+526,540,Sliver  ,Thriller,2
+527,541,Blade Runner  ,"Noir,SciFi",4
+528,542,Son in Law  ,Comedy,3
+529,543,So I Married an Axe Murderer  ,"Comedy,Romance,Thriller",3
+530,544,Striking Distance  ,Action,3
+531,545,Harlem  ,Drama,2
+532,546,Super Mario Bros.  ,"Action,Adventure,Children",2
+533,547,Surviving the Game  ,"Action,Adventure,Thriller",3
+534,548,Terminal Velocity  ,Action,3
+535,549,Thirty-Two Short Films About Glenn Gould  ,Documentary,4
+536,550,Threesome  ,"Comedy,Romance",3
+537,551,Nightmare Before Christmas,"Children,Comedy",4
+538,552,Three Musketeers,"Action,Adventure",3
+539,553,Tombstone  ,Western,4
+540,554,Trial by Jury  ,Thriller,3
+541,555,TrueRomance,"Action,Crime,Romance",4
+542,556,WarRoom,Documentary,4
+543,557,Mamma Roma  ,Drama,4
+544,558,Pagemaster,"Action,Adventure,Children,Fantasy",3
+545,559,Paris,Comedy,3
+546,560,Beans of Egypt,Drama,4
+547,561,Killer (Bulletproof Heart)  ,Thriller,4
+548,562,Welcome to the Dollhouse  ,"Comedy,Drama",4
+549,563,Germinal  ,Drama,3
+550,564,Chasers  ,Comedy,2
+551,565,Cronos  ,Horror,3
+552,566,Naked in New York  ,"Comedy,Romance",3
+553,567,Kika  ,Drama,4
+554,568,Bhaji on the Beach  ,"Comedy,Drama",4
+555,569,Little Big League  ,"Children,Comedy",3
+556,570,Slingshot,"Comedy,Drama",3
+557,571,Wedding Gift,Drama,4
+558,572,Foreign Student  ,Drama,3
+559,573,Ciao,Drama,4
+560,574,Spanking the Monkey  ,"Comedy,Drama",3
+561,575,Little Rascals,"Children,Comedy",3
+562,576,Fausto  ,Comedy,3
+563,577,Andre  ,"Adventure,Children",3
+564,578,Hour of the Pig,"Drama,Mystery",4
+565,579,Scorta,Thriller,2
+566,580,Princess Caraboo  ,Drama,3
+567,581,Celluloid Closet,Documentary,4
+568,582,Metisse (Café au Lait)  ,Comedy,3
+569,583,Dear Diary (Caro Diario)  ,"Comedy,Drama",4
+570,584,I Don't Want to Talk About It (De eso no se habla)  ,Drama,4
+571,585,Brady Bunch Movie,Comedy,3
+572,586,Home Alone  ,"Children,Comedy",3
+573,587,Ghost  ,"Comedy,Romance,Thriller",3
+574,588,Aladdin  ,"Animation,Children,Comedy",4
+575,589,Terminator 2: Judgment Day  ,"Action,SciFi,Thriller",4
+576,590,Dances with Wolves  ,"Adventure,Drama,Western",4
+577,591,Tough and Deadly  ,"Action,Drama,Thriller",2
+578,592,Batman  ,"Action,Adventure,Crime",4
+579,593,Silence of the Lambs,"Drama,Thriller",4
+580,594,Snow White and the Seven Dwarfs  ,"Animation,Children,Musical",4
+581,595,Beauty and the Beast  ,"Animation,Children,Musical",4
+582,596,Pinocchio  ,"Animation,Children",4
+583,597,Pretty Woman  ,"Comedy,Romance",4
+584,598,Window to Paris  ,Comedy,4
+585,599,Wild Bunch,Western,4
+586,600,Love and a .45  ,Thriller,3
+587,601,Wooden Man's Bride,Drama,3
+588,602,Great Day in Harlem,Documentary,4
+589,603,Bye Bye,Comedy,3
+590,605,One Fine Day  ,"Drama,Romance",3
+591,606,Candyman: Farewell to the Flesh  ,Horror,2
+592,607,Century  ,Drama,2
+593,608,Fargo  ,"Crime,Drama,Thriller",4
+594,609,Homeward Bound II: Lost in San Francisco  ,"Adventure,Children",3
+595,610,Heavy Metal  ,"Action,Adventure,Animation,SciFi",4
+596,611,Hellraiser: Bloodline  ,"Action,Horror,SciFi",2
+597,612,Pallbearer,Comedy,2
+598,613,Jane Eyre  ,"Drama,Romance",4
+599,614,Loaded  ,"Drama,Thriller",3
+600,615,Bread and Chocolate (Pane e cioccolata)  ,Drama,4
+601,616,Aristocats,"Animation,Children",3
+602,617,Flower of My Secret,Drama,4
+603,618,Two Much  ,"Comedy,Romance",2
+604,619,Ed  ,Comedy,3
+605,621,My Favorite Season  ,Drama,4
+606,623,Modern Affair,Romance,3
+607,624,Condition Red  ,"Action,Drama,Thriller",4
+608,626,Thin Line Between Love and Hate,Comedy,2
+609,627,Last Supper,"Drama,Thriller",4
+610,628,Primal Fear  ,"Drama,Thriller",4
+611,630,Carried Away  ,"Drama,Romance",3
+612,631,All Dogs Go to Heaven 2  ,"Animation,Children,Musical",2
+613,632,Land and Freedom (Tierra y libertad)  ,War,4
+614,633,Denise Calls Up  ,Comedy,4
+615,634,Theodore Rex  ,Comedy,2
+616,635,Family Thing,"Comedy,Drama",4
+617,637,Sgt. Bilko  ,Comedy,3
+618,638,Jack and Sarah  ,Romance,3
+619,639,Girl 6  ,Comedy,3
+620,640,Diabolique  ,"Drama,Thriller",3
+621,641,Little Indian,Comedy,1
+622,642,Roula  ,Drama,2
+623,643,Peanuts - Die Bank zahlt alles  ,Comedy,2
+624,644,Happy Weekend  ,Comedy,2
+625,645,Nelly & Monsieur Arnaud  ,Drama,4
+626,647,Courage Under Fire  ,"Drama,War",4
+627,648,Mission: Impossible  ,"Action,Adventure,Mystery",3
+628,649,Cold Fever (Á köldum klaka)  ,"Comedy,Drama",4
+629,650,Moll Flanders  ,Drama,3
+630,651,Superweib,Comedy,2
+631,652,301,Mystery,3
+632,653,Dragonheart  ,"Action,Adventure,Fantasy",3
+633,655,Mutters Courage  ,Comedy,1
+634,656,Eddie  ,Comedy,3
+635,657,Yankee Zulu  ,"Comedy,Drama",3
+636,658,Billy's Holiday  ,Drama,3
+637,659,Purple Noon  ,"Crime,Thriller",4
+638,660,August  ,Drama,2
+639,661,James and the Giant Peach  ,"Animation,Children,Musical",3
+640,662,Fear  ,Thriller,3
+641,663,Kids in the Hall: Brain Candy  ,Comedy,3
+642,664,Faithful  ,Comedy,3
+643,665,Underground  ,War,4
+644,666,All Things Fair  ,Drama,3
+645,667,Bloodsport 2  ,Action,2
+646,668,Pather Panchali  ,Drama,4
+647,669,Aparajito  ,Drama,4
+648,670,World of Apu,Drama,4
+649,671,Mystery Science Theater 3000: The Movie  ,"Comedy,SciFi",4
+650,672,Tarantella  ,Drama,2
+651,673,Space Jam  ,"Adventure,Animation,Children,Fantasy",3
+652,674,Barbarella  ,"Adventure,SciFi",3
+653,678,Some Folks Call It a Sling Blade  ,"Drama,Thriller",4
+654,679,Run of the Country,Drama,4
+655,680,Alphaville  ,SciFi,3
+656,681,Clean Slate (Coup de Torchon)  ,Crime,4
+657,682,Tigrero: A Film That Was Never Made  ,"Documentary,Drama",4
+658,684,Windows  ,Drama,1
+659,685,It's My Party  ,Drama,3
+660,687,Country Life  ,"Drama,Romance",3
+661,688,Operation Dumbo Drop  ,"Action,Adventure,Comedy",2
+662,690,Promise,Romance,2
+663,691,Mrs. Winterbourne  ,"Comedy,Romance",3
+664,692,Solo  ,"Action,SciFi,Thriller",2
+665,694,Substitute,Action,3
+666,695,TrueCrime,"Mystery,Thriller",3
+667,696,Butterfly Kiss  ,Thriller,3
+668,697,Feeling Minnesota  ,"Drama,Romance",3
+669,698,Delta of Venus  ,Drama,2
+670,700,Angus  ,Comedy,3
+671,701,Daens  ,Drama,4
+672,702,Faces  ,Drama,4
+673,703,Boys  ,Drama,2
+674,704,Quest,"Action,Adventure",2
+675,705,Cosi  ,Comedy,4
+676,706,Sunset Park  ,Drama,2
+677,707,Mulholland Falls  ,"Crime,Noir,Thriller",3
+678,708,Truth About Cats & Dogs,"Comedy,Romance",3
+679,709,Oliver & Company  ,"Animation,Children",3
+680,710,Celtic Pride  ,Comedy,2
+681,711,Flipper  ,"Adventure,Children",2
+682,712,Captives  ,Drama,4
+683,714,Dead Man  ,Western,4
+684,715,Horseman on the Roof,Drama,4
+685,716,Switchblade Sisters  ,Crime,3
+686,717,Mouth to Mouth (Boca a boca)  ,Comedy,4
+687,718,Visitors,"Comedy,SciFi",3
+688,719,Multiplicity  ,Comedy,3
+689,720,Wallace & Gromit: The Best of AardmanAnimation ,Animation,4
+690,722,Haunted World of Edward D. Wood Jr.,Documentary,4
+691,724,Craft,"Drama,Horror",3
+692,725,Great White Hype,Comedy,3
+693,726,Last Dance  ,Drama,3
+694,728,Cold Comfort Farm  ,Comedy,4
+695,729,Institute Benjamenta,Drama,4
+696,730,Low Life,Drama,1
+697,731,Heaven's Prisoners  ,"Mystery,Thriller",3
+698,732,Original Gangstas  ,Crime,3
+699,733,Rock,"Action,Adventure",4
+700,734,Getting Away With Murder  ,Comedy,3
+701,735,Cemetery Man (Dellamorte Dellamore)  ,"Comedy,Horror",3
+702,736,Twister  ,"Action,Adventure,Romance",3
+703,737,Barb Wire  ,"Action,SciFi",2
+704,741,Ghost in the Shell (Kokaku kidotai)  ,"Animation,SciFi",4
+705,742,Thinner  ,"Horror,Thriller",3
+706,743,Spy Hard  ,Comedy,3
+707,744,Brothers in Trouble  ,Drama,2
+708,745,Close Shave,"Animation,Comedy",5
+709,746,Force of Evil  ,Noir,4
+710,747,Stupids,Comedy,2
+711,748,Arrival,"Action,SciFi",3
+712,749,Man from Down Under,Drama,3
+713,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb  ,"SciFi,War",4
+714,751,Careful  ,Comedy,4
+715,753,Month by the Lake,"Comedy,Drama",3
+716,754,Gold Diggers: The Secret of Bear Mountain  ,"Adventure,Children",3
+717,755,Kim  ,"Children,Drama",4
+718,756,Carmen Miranda: Bananas Is My Business  ,Documentary,3
+719,757,Ashes of Time  ,Drama,4
+720,758,Jar,Drama,4
+721,759,Maya Lin: A Strong Clear Vision  ,Documentary,4
+722,760,Stalingrad  ,War,4
+723,761,Phantom,Adventure,3
+724,762,Striptease  ,"Comedy,Crime",2
+725,763,Last of the High Kings,Drama,3
+726,764,Heavy  ,"Drama,Romance",3
+727,765,Jack  ,"Comedy,Drama",3
+728,766,I Shot AndyWarhol  ,Drama,4
+729,767,Grass Harp,Drama,3
+730,769,Marlene Dietrich: Shadow and Light  ,Documentary,3
+731,771,Vie est belle,"Comedy,Drama",4
+732,774,Wend Kuuni (God's Gift)  ,Drama,4
+733,775,Spirits of the Dead (Tre Passi nel Delirio)  ,Horror,3
+734,776,Babyfever  ,"Comedy,Drama",3
+735,778,Trainspotting  ,Drama,4
+736,779,Til There Was You  ,"Drama,Romance",3
+737,780,Independence Day (ID4)  ,"Action,SciFi,War",4
+738,781,Stealing Beauty  ,Drama,3
+739,782,Fan,Thriller,3
+740,783,Hunchback of Notre Dame,"Animation,Children",3
+741,784,Cable Guy,Comedy,3
+742,785,Kingpin  ,Comedy,3
+743,786,Eraser  ,"Action,Thriller",3
+744,787,Gate of Heavenly Peace,Documentary,5
+745,788,Nutty Professor,"Comedy,Fantasy,SciFi",3
+746,789,I,Drama,3
+747,790,An Unforgettable Summer  ,Drama,3
+748,791,Last Klezmer: Leopold Kozlowski,Documentary,4
+749,792,Hungarian Fairy Tale,Fantasy,4
+750,793,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud)  ,Drama,3
+751,796,Very Natural Thing,Drama,3
+752,798,Daylight  ,"Action,Adventure,Thriller",3
+753,799,Frighteners,"Comedy,Horror",3
+754,800,Lone Star  ,"Drama,Mystery",4
+755,801,Harriet the Spy  ,"Children,Comedy",3
+756,802,Phenomenon  ,"Drama,Romance",3
+757,803,Walking and Talking  ,Romance,4
+758,804,She's the One  ,"Comedy,Romance",3
+759,805,Time to Kill,Drama,4
+760,806,American Buffalo  ,Drama,3
+761,807,Rendezvous in Paris (Rendez-vous de Paris,"Comedy,Romance",3
+762,808,Alaska  ,"Adventure,Children",3
+763,809,Fled  ,"Action,Adventure",3
+764,810,Kazaam  ,"Children,Comedy,Fantasy",1
+765,811,Bewegte Mann,Comedy,4
+766,813,Larger Than Life  ,Comedy,3
+767,814,Boy Called Hate,Drama,3
+768,815,Power 98  ,"Action,Mystery,Thriller",2
+769,818,Very Brady Sequel,Comedy,3
+770,820,Death in the Garden (Mort en ce jardin,Drama,3
+771,821,Crude Oasis,Romance,2
+772,823,Collectionneuse,Drama,3
+773,824,Kaspar Hauser  ,Drama,4
+774,826,Diebinnen  ,Drama,1
+775,827,Convent,Drama,3
+776,828,Adventures of Pinocchio,"Adventure,Children",3
+777,829,Joe's Apartment  ,"Comedy,Musical",2
+778,830,First Wives Club,Comedy,3
+779,831,Stonewall  ,Drama,4
+780,832,Ransom  ,"Drama,Thriller",3
+781,833,High School High  ,Comedy,2
+782,834,Phat Beach  ,Comedy,2
+783,835,Foxfire  ,Drama,3
+784,836,Chain ReAction ,"Action,Adventure,Thriller",3
+785,837,Matilda  ,"Children,Comedy",3
+786,838,Emma  ,"Comedy,Drama,Romance",4
+787,839,Crow: City of Angels,"Action,Thriller",2
+788,840,House Arrest  ,Comedy,3
+789,841,Eyes Without a Face  ,Horror,3
+790,842,Tales from the Crypt Presents: Bordello of Blood  ,Horror,3
+791,843,Lotto Land  ,Drama,1
+792,844,Story of Xinghua,Drama,4
+793,846,Flirt  ,Drama,4
+794,847,Big Squeeze,"Comedy,Drama",2
+795,848,Spitfire Grill,Drama,3
+796,849,Escape from L.A.  ,"Action,Adventure,SciFi",3
+797,850,Cyclo  ,"Crime,Drama",4
+798,851,Basquiat  ,Drama,3
+799,852,Tin Cup  ,"Comedy,Romance",3
+800,853,Dingo  ,Drama,4
+801,854,Ballad of Narayama,Drama,4
+802,858,Godfather,"Action,Crime",5
+803,859,Hippie Revolution,Documentary,2
+804,860,Maybe,Comedy,4
+805,861,Supercop  ,"Action,Thriller",4
+806,862,Manny & Lo  ,Drama,4
+807,863,Celestial Clockwork  ,Comedy,4
+808,864,Wife,"Comedy,Drama",4
+809,865,Small Faces  ,Drama,2
+810,866,Bound  ,"Crime,Drama,Romance",4
+811,867,Carpool  ,"Comedy,Crime",2
+812,868,Death in Brunswick  ,Comedy,3
+813,869,Kansas City  ,Crime,3
+814,870,Gone Fishin'  ,Comedy,2
+815,872,Aiqing wansui  ,Drama,3
+816,874,Killer: A Journal of Murder  ,"Crime,Drama",3
+817,875,Nothing to Lose  ,Drama,3
+818,876,Police Story 4: Project S (Chao ji ji hua)  ,Action,3
+819,877,Girls Town  ,Drama,3
+820,878,Bye-Bye  ,Drama,4
+821,879,Relic,Horror,3
+822,880,Island of Dr. Moreau,"SciFi,Thriller",2
+823,881,First Kid  ,"Children,Comedy",3
+824,882,Trigger Effect,"Drama,Thriller",3
+825,884,Sweet Nothing  ,Drama,3
+826,885,Bogus  ,"Children,Drama,Fantasy",3
+827,886,Bulletproof  ,Action,3
+828,887,Talk of Angels  ,Drama,2
+829,888,Land Before Time III: The Time of the Great Giving  ,"Animation,Children",2
+830,889,1-900  ,Romance,2
+831,891,Halloween: The Curse of Michael Myers  ,"Horror,Thriller",2
+832,892,Twelfth Night  ,"Comedy,Drama,Romance",4
+833,893,Mother Night  ,Drama,4
+834,895,Venice/Venice  ,Drama,1
+835,896,Wild Reeds  ,Drama,3
+836,897,For Whom the Bell Tolls  ,"Adventure,War",4
+837,898,Philadelphia Story,"Comedy,Romance",4
+838,899,Singin' in the Rain  ,"Musical,Romance",4
+839,900,American in Paris,"Musical,Romance",4
+840,901,Funny Face  ,"Comedy,Musical",4
+841,902,Breakfast at Tiffany's  ,"Drama,Romance",4
+842,903,Vertigo  ,"Mystery,Thriller",4
+843,904,Rear Window  ,"Mystery,Thriller",4
+844,905,It Happened One Night  ,Comedy,4
+845,906,Gaslight  ,"Mystery,Thriller",4
+846,907,Gay Divorcee,"Comedy,Musical",4
+847,908,North by Northwest  ,"Drama,Thriller",4
+848,909,Apartment,"Comedy,Drama",4
+849,910,Some Like It Hot  ,"Comedy,Crime",4
+850,911,Charade  ,"Comedy,Mystery,Romance",4
+851,912,Casablanca  ,"Drama,Romance,War",4
+852,913,Maltese Falcon,"Noir,Mystery",4
+853,914,My Fair Lady  ,"Musical,Romance",4
+854,915,Sabrina  ,"Comedy,Romance",4
+855,916,Roman Holiday  ,"Comedy,Romance",4
+856,917,Little Princess,"Children,Drama",4
+857,918,Meet Me in St. Louis  ,Musical,4
+858,919,Wizard of Oz,"Adventure,Children,Musical",4
+859,920,Gone with the Wind  ,"Drama,Romance,War",4
+860,921,My Favorite Year  ,Comedy,4
+861,922,Sunset Blvd. (a.k.a. Sunset Boulevard)  ,Noir,4
+862,923,Citizen Kane  ,Drama,4
+863,924,2001: A Space Odyssey  ,"Drama,Mystery,SciFi",4
+864,925,Golden Earrings  ,"Adventure,Romance",3
+865,926,All About Eve  ,Drama,4
+866,927,Women,Comedy,4
+867,928,Rebecca  ,"Romance,Thriller",4
+868,929,Foreign Correspondent  ,Thriller,4
+869,930,Notorious  ,"Noir,Romance,Thriller",4
+870,931,Spellbound  ,"Mystery,Romance,Thriller",4
+871,932,Affair to Remember,Romance,4
+872,933,To Catch a Thief  ,"Comedy,Romance,Thriller",4
+873,934,Father of the Bride  ,Comedy,4
+874,935,Band Wagon,"Comedy,Musical",4
+875,936,Ninotchka  ,"Comedy,Romance",4
+876,937,Love in the Afternoon  ,"Comedy,Romance",4
+877,938,Gigi  ,Musical,4
+878,939,Reluctant Debutante,"Comedy,Drama",3
+879,940,Adventures of Robin Hood,"Action,Adventure",4
+880,941,Mark of Zorro,Adventure,4
+881,942,Laura  ,"Crime,Noir,Mystery",4
+882,943,Ghost and Mrs. Muir,"Drama,Romance",4
+883,944,Lost Horizon  ,Drama,4
+884,945,Top Hat  ,"Comedy,Musical,Romance",4
+885,946,To Be or Not to Be  ,"Comedy,Drama,War",4
+886,947,My Man Godfrey  ,Comedy,4
+887,948,Giant  ,Drama,4
+888,949,East of Eden  ,Drama,4
+889,950,Thin Man,Mystery,4
+890,951,His Girl Friday  ,Comedy,4
+891,952,Around the World in 80 Days  ,"Adventure,Comedy",4
+892,953,It's a Wonderful Life  ,Drama,4
+893,954,Mr. Smith Goes to Washington  ,Drama,4
+894,955,Bringing Up Baby  ,Comedy,4
+895,956,Penny Serenade  ,"Drama,Romance",4
+896,957,Scarlet Letter,Drama,3
+897,958,Lady of Burlesque  ,"Comedy,Mystery",3
+898,959,Of Human Bondage  ,Drama,4
+899,960,Angel on My Shoulder  ,"Crime,Drama",3
+900,961,Little Lord Fauntleroy  ,Drama,3
+901,962,They Made Me a Criminal  ,"Crime,Drama",4
+902,963,Inspector General,Musical,4
+903,964,Angel and the Badman  ,Western,3
+904,965,39 Steps,Thriller,4
+905,966,Walk in the Sun,Drama,4
+906,967,Outlaw,Western,3
+907,968,Night of the Living Dead  ,"Horror,SciFi",4
+908,969,African Queen,"Action,Adventure,War",4
+909,970,Beat the Devil  ,"Comedy,Drama",3
+910,971,Cat on a Hot Tin Roof  ,Drama,4
+911,972,Last Time I Saw Paris,Drama,3
+912,973,Meet John Doe  ,Drama,4
+913,974,Algiers  ,"Drama,Romance",4
+914,975,Something to Sing About  ,"Comedy,Musical",2
+915,976,Farewell to Arms,"Romance,War",4
+916,977,Moonlight Murder  ,Mystery,2
+917,978,Blue Angel,Drama,4
+918,980,In the Line of Duty 2  ,Action,3
+919,981,Dangerous Ground  ,Drama,3
+920,982,Picnic  ,Drama,4
+921,984,Pompatus of Love,"Comedy,Drama",3
+922,985,Small Wonders  ,Documentary,4
+923,986,Fly Away Home  ,"Adventure,Children",4
+924,987,Bliss  ,"Drama,Romance",3
+925,988,Grace of My Heart  ,"Comedy,Drama",3
+926,989,Schlafes Bruder (Brother of Sleep)  ,Drama,5
+927,990,Maximum Risk  ,"Action,Adventure,Thriller",3
+928,991,Michael Collins  ,"Drama,War",4
+929,992,Rich Man's Wife,Thriller,3
+930,993,Infinity  ,Drama,3
+931,994,Big Night  ,Drama,4
+932,996,Last Man Standing  ,"Action,Drama,Western",3
+933,997,Caught  ,"Drama,Thriller",3
+934,998,Set It Off  ,"Action,Crime",3
+935,999,2 Days in the Valley  ,Crime,3
+936,1000,Curdled  ,Crime,3
+937,1002,Ed's Next Move  ,Comedy,4
+938,1003,Extreme Measures  ,"Drama,Thriller",3
+939,1004,Glimmer Man,"Action,Thriller",3
+940,1005,D3: The Mighty Ducks  ,"Children,Comedy",2
+941,1006,Chamber,Drama,3
+942,1007,Apple Dumpling Gang,"Children,Comedy",3
+943,1008,Davy Crockett,Western,3
+944,1009,Escape to Witch Mountain  ,"Adventure,Children,Fantasy",3
+945,1010,Love Bug,"Children,Comedy",3
+946,1011,Herbie Rides Again  ,"Adventure,Children,Comedy",3
+947,1012,Old Yeller  ,"Children,Drama",4
+948,1013,Parent Trap,"Children,Drama",4
+949,1014,Pollyanna  ,"Children,Comedy,Drama",3
+950,1015,Homeward Bound: The Incredible Journey  ,"Adventure,Children",3
+951,1016,Shaggy Dog,"Children,Comedy",3
+952,1017,Swiss Family Robinson  ,"Adventure,Children",4
+953,1018,That Darn Cat!  ,"Children,Comedy,Mystery",3
+954,1019,20,"Adventure,Children,SciFi",4
+955,1020,Cool Runnings  ,Comedy,3
+956,1021,Angels in the Outfield  ,"Children,Comedy",3
+957,1022,Cinderella  ,"Animation,Children,Musical",4
+958,1023,Winnie the Pooh and the Blustery Day  ,"Animation,Children",4
+959,1024,Three Caballeros,"Animation,Children",3
+960,1025,Sword in the Stone,"Animation,Children",4
+961,1026,So Dear to My Heart  ,"Children,Drama",4
+962,1027,Robin Hood: Prince of Thieves  ,Drama,3
+963,1028,Mary Poppins  ,"Children,Comedy,Musical",4
+964,1029,Dumbo  ,"Animation,Children,Musical",4
+965,1030,Pete's Dragon  ,"Adventure,Animation,Children",3
+966,1031,Bedknobs and Broomsticks  ,"Adventure,Children,Musical",3
+967,1032,Alice in Wonderland  ,"Animation,Children,Musical",4
+968,1033,Fox and the Hound,"Animation,Children",3
+969,1034,Freeway  ,Crime,4
+970,1035,Sound of Music,Musical,4
+971,1036,Die Hard  ,"Action,Thriller",4
+972,1037,Lawnmower Man,"Action,SciFi",3
+973,1038,Unhook the Stars  ,Drama,3
+974,1039,Synthetic Pleasures  ,Documentary,4
+975,1040,Secret Agent,Drama,3
+976,1041,Secrets & Lies  ,Drama,4
+977,1042,That Thing You Do!  ,Comedy,3
+978,1043,To Gillian on Her 37th Birthday  ,"Drama,Romance",3
+979,1044,Surviving Picasso  ,Drama,3
+980,1046,Beautiful Thing  ,"Drama,Romance",4
+981,1047,Long Kiss Goodnight,"Action,Thriller",3
+982,1049,Ghost and the Darkness,"Action,Adventure",3
+983,1050,Looking for Richard  ,"Documentary,Drama",4
+984,1051,Trees Lounge  ,Drama,3
+985,1053,Normal Life  ,"Crime,Drama",3
+986,1054,Get on the Bus  ,Drama,3
+987,1055,Shadow Conspiracy  ,Thriller,3
+988,1056,Jude  ,Drama,4
+989,1057,Everyone Says I Love You  ,"Comedy,Musical,Romance",4
+990,1058,Bitter Sugar (Azucar Amargo)  ,Drama,3
+991,1059,William Shakespeare's Romeo and Juliet  ,"Drama,Romance",3
+992,1060,Swingers  ,"Comedy,Drama",4
+993,1061,Sleepers  ,"Crime,Drama",4
+994,1062,Sunchaser,Drama,2
+995,1063,Johns  ,Drama,3
+996,1064,Aladdin and the King of Thieves  ,"Animation,Children,Comedy",3
+997,1066,Shall We Dance?  ,"Comedy,Musical,Romance",4
+998,1067,Damsel in Distress,"Comedy,Musical",4
+999,1068,Crossfire  ,"Crime,Noir",4
+1000,1069,Murder,"Noir,Thriller",4
+1001,1070,Macao  ,Adventure,3
+1002,1071,For the Moment  ,"Romance,War",3
+1003,1073,Willy Wonka and the Chocolate Factory  ,"Adventure,Children,Comedy",4
+1004,1076,Innocents,Thriller,4
+1005,1077,Sleeper  ,"Comedy,SciFi",4
+1006,1078,Bananas  ,"Comedy,War",4
+1007,1079,Fish Called Wanda,Comedy,4
+1008,1080,Monty Python's Life of Brian  ,Comedy,4
+1009,1081,Victor/Victoria  ,"Comedy,Musical",4
+1010,1082,Candidate,Drama,4
+1011,1083,Great Race,"Comedy,Musical",4
+1012,1084,Bonnie and Clyde  ,"Crime,Drama",4
+1013,1085,Old Man and the Sea,"Adventure,Drama",4
+1014,1086,Dial M for Murder  ,"Mystery,Thriller",4
+1015,1087,Madame Butterfly  ,Musical,3
+1016,1088,Dirty Dancing  ,"Musical,Romance",3
+1017,1089,Reservoir Dogs  ,"Crime,Thriller",4
+1018,1090,Platoon  ,"Drama,War",4
+1019,1091,Weekend at Bernie's  ,Comedy,3
+1020,1092,Basic Instinct  ,"Mystery,Thriller",4
+1021,1093,Doors,"Drama,Musical",3
+1022,1094,Crying Game,"Drama,Romance",4
+1023,1095,Glengarry Glen Ross  ,Drama,4
+1024,1096,Sophie's Choice  ,Drama,4
+1025,1097,E.T. the Extra-Terrestrial  ,"Children,Drama,Fantasy",4
+1026,1098,Search for One-eye Jimmy,Comedy,2
+1027,1099,Christmas Carol,Drama,4
+1028,1100,Days of Thunder  ,"Action,Romance",3
+1029,1101,Top Gun  ,"Action,Romance",4
+1030,1102,American Strays  ,Action,2
+1031,1103,Rebel Without a Cause  ,Drama,4
+1032,1104,Streetcar Named Desire,Drama,4
+1033,1105,Children of the Corn IV: The Gathering  ,Horror,2
+1034,1107,Loser  ,Comedy,2
+1035,1111,Microcosmos (Microcosmos: Le peuple de l'herbe)  ,Documentary,4
+1036,1112,Palookaville  ,"Action,Drama",3
+1037,1113,Associate,Comedy,3
+1038,1114,Funeral,Drama,3
+1039,1115,Sleepover  ,"Comedy,Drama",1
+1040,1116,Single Girl,Drama,3
+1041,1117,Eighth Day,Drama,4
+1042,1118,Tashunga  ,"Adventure,Western",2
+1043,1119,Drunks  ,Drama,3
+1044,1120,People vs. Larry Flynt,Drama,4
+1045,1121,Glory Daze  ,Drama,3
+1046,1123,Perfect Candidate,Documentary,4
+1047,1124,On Golden Pond  ,Drama,4
+1048,1125,Return of the Pink Panther,Comedy,4
+1049,1126,Drop Dead Fred  ,"Comedy,Fantasy",2
+1050,1127,Abyss,"Action,Adventure,Thriller",4
+1051,1128,Fog,Horror,3
+1052,1129,Escape from New York  ,"Action,Adventure,SciFi",3
+1053,1130,Howling,Horror,3
+1054,1131,Jean de Florette  ,Drama,4
+1055,1132,Manon of the Spring (Manon des sources)  ,Drama,4
+1056,1133,Talking About Sex  ,"Comedy,Drama",2
+1057,1134,Johnny 100 Pesos  ,"Action,Drama",3
+1058,1135,Private Benjamin  ,Comedy,3
+1059,1136,Monty Python and the Holy Grail  ,Comedy,4
+1060,1138,Dadetown  ,Documentary,4
+1061,1139,Everything Relative  ,Drama,4
+1062,1142,Get Over It  ,Drama,1
+1063,1144,Line King: Al Hirschfeld,Documentary,4
+1064,1145,Snowriders  ,Documentary,2
+1065,1147,When We Were Kings  ,Documentary,4
+1066,1148,Wrong Trousers,"Animation,Comedy",5
+1067,1149,JLG/JLG - autoportrait de décembre  ,"Documentary,Drama",4
+1068,1150,Return of Martin Guerre,Drama,4
+1069,1151,Faust  ,"Animation,Comedy,Thriller",3
+1070,1152,He Walked by Night  ,"Crime,Noir,Thriller",3
+1071,1153,Raw Deal  ,Noir,3
+1072,1154,T-Men  ,Noir,4
+1073,1160,Six of a Kind  ,Comedy,2
+1074,1161,Tin Drum,Drama,4
+1075,1162,Ruling Class,Comedy,4
+1076,1163,Mina Tannenbaum  ,Drama,3
+1077,1164,Two or Three Things I Know About Her  ,Drama,4
+1078,1165,Bloody Child,"Drama,Thriller",1
+1079,1167,Dear God  ,Comedy,3
+1080,1168,Bad Moon  ,Horror,2
+1081,1169,American Dream  ,Documentary,4
+1082,1170,Best of the Best 3: No Turning Back  ,Action,2
+1083,1171,Bob Roberts  ,Comedy,4
+1084,1172,Cinema Paradiso  ,"Comedy,Drama,Romance",4
+1085,1173,Cook the Thief His Wife & Her Lover,Drama,3
+1086,1174,Grosse Fatigue  ,Comedy,4
+1087,1175,Delicatessen  ,"Comedy,SciFi",4
+1088,1176,Double Life of Veronique,Drama,4
+1089,1177,Enchanted April  ,Drama,4
+1090,1178,Paths of Glory  ,"Drama,War",4
+1091,1179,Grifters,"Crime,Drama",4
+1092,1180,Hear My Song  ,Comedy,4
+1093,1181,Shooter,Action,3
+1094,1183,English Patient,"Drama,Romance",4
+1095,1184,Mediterraneo  ,"Comedy,War",4
+1096,1185,My Left Foot  ,Drama,4
+1097,1186,Sex,Drama,4
+1098,1187,Passion Fish  ,Drama,4
+1099,1188,Strictly Ballroom  ,"Comedy,Romance",4
+1100,1189,Thin Blue Line,Documentary,4
+1101,1190,Tie Me Up! Tie Me Down!  ,Drama,4
+1102,1191,Madonna: Truth or Dare  ,Documentary,3
+1103,1192,Paris Is Burning  ,Documentary,4
+1104,1193,One Flew Over the Cuckoo's Nest  ,Drama,4
+1105,1194,Up in Smoke  ,Comedy,3
+1106,1196,StarWars: Episode V - The Empire Strikes Back  ,"Action,Adventure,Drama,War",4
+1107,1197,Princess Bride,"Action,Adventure,Romance",4
+1108,1198,Raiders of the Lost Ark  ,"Action,Adventure",4
+1109,1199,Brazil  ,SciFi,4
+1110,1200,Aliens  ,"Action,SciFi,Thriller",4
+1111,1201,Good,Action,4
+1112,1202,Withnail and I  ,Comedy,4
+1113,1203,12 Angry Men  ,Drama,4
+1114,1204,Lawrence of Arabia  ,"Adventure,War",4
+1115,1205,Transformers: The Movie,"Action,Animation,SciFi,Thriller",3
+1116,1206,Clockwork Orange,SciFi,4
+1117,1207,To Kill a Mockingbird  ,Drama,4
+1118,1208,Apocalypse Now  ,"Drama,War",4
+1119,1209,Once Upon a Time in the West  ,Western,4
+1120,1210,StarWars: Episode VI - Return of the Jedi  ,"Action,Adventure,Romance,War",4
+1121,1211,Wings of Desire (Der Himmel über Berlin)  ,"Comedy,Drama,Romance",4
+1122,1212,Third Man,"Mystery,Thriller",4
+1123,1213,GoodFellas  ,"Crime,Drama",4
+1124,1214,Alien  ,"Action,Horror,SciFi",4
+1125,1215,Army of Darkness  ,"Action,Adventure,Comedy,SciFi",4
+1126,1216,Big Blue,"Adventure,Romance",4
+1127,1217,Ran  ,"Drama,War",4
+1128,1218,Killer,"Action,Thriller",4
+1129,1219,Psycho  ,"Horror,Thriller",4
+1130,1220,Blues Brothers,"Action,Comedy",4
+1131,1221,Godfather: Part II,"Action,Crime",4
+1132,1222,Full Metal Jacket  ,"Action,Drama,War",4
+1133,1223,Grand Day Out,"Animation,Comedy",4
+1134,1224,Henry V  ,"Drama,War",4
+1135,1225,Amadeus  ,Drama,4
+1136,1226,Quiet Man,"Comedy,Romance",4
+1137,1227,Once Upon a Time in America  ,"Crime,Drama,Thriller",4
+1138,1228,Raging Bull  ,Drama,4
+1139,1230,Annie Hall  ,"Comedy,Romance",4
+1140,1231,Right Stuff,Drama,4
+1141,1232,Stalker  ,"Mystery,SciFi",4
+1142,1233,Boat,"Action,Drama",4
+1143,1234,Sting,"Comedy,Crime",4
+1144,1235,Harold and Maude  ,Comedy,4
+1145,1236,Trust  ,"Comedy,Drama",4
+1146,1237,Seventh Seal,Drama,4
+1147,1238,Local Hero  ,Comedy,4
+1148,1240,Terminator,"Action,SciFi",4
+1149,1241,Braindead  ,"Comedy,Horror",3
+1150,1242,Glory  ,"Action,Drama,War",4
+1151,1243,Rosencrantz and Guildenstern Are Dead  ,"Comedy,Drama",4
+1152,1244,Manhattan  ,"Comedy,Drama,Romance",4
+1153,1245,Miller's Crossing  ,Drama,4
+1154,1246,Dead Poets Society  ,Drama,4
+1155,1247,Graduate,"Drama,Romance",4
+1156,1248,Touch of Evil  ,"Noir,Thriller",4
+1157,1249,Nikita (La Femme Nikita)  ,Thriller,4
+1158,1250,Bridge on the River Kwai,"Drama,War",4
+1159,1251,8 1/2,Drama,4
+1160,1252,Chinatown  ,"Noir,Mystery,Thriller",4
+1161,1253,Day the Earth Stood Still,"Drama,SciFi",4
+1162,1254,Treasure of the Sierra Madre,Adventure,4
+1163,1255,Bad Taste  ,"Comedy,Horror",3
+1164,1256,Duck Soup  ,"Comedy,War",4
+1165,1257,Better Off Dead...  ,Comedy,4
+1166,1258,Shining,Horror,4
+1167,1259,Stand by Me  ,"Adventure,Comedy,Drama",4
+1168,1260,M  ,"Crime,Noir,Thriller",4
+1169,1261,Evil Dead II (Dead By Dawn)  ,"Action,Adventure,Comedy",4
+1170,1262,Great Escape,"Adventure,War",4
+1171,1263,Deer Hunter,"Drama,War",4
+1172,1264,Diva  ,"Action,Drama,Mystery,Thriller",4
+1173,1265,Groundhog Day  ,"Comedy,Romance",4
+1174,1266,Unforgiven  ,Western,4
+1175,1267,Manchurian Candidate,"Noir,Thriller",4
+1176,1268,Pump Up the Volume  ,Drama,3
+1177,1269,Arsenic and Old Lace  ,"Comedy,Mystery,Thriller",4
+1178,1270,Back to the Future  ,"Comedy,SciFi",4
+1179,1271,Fried Green Tomatoes  ,Drama,4
+1180,1272,Patton  ,"Drama,War",4
+1181,1273,Down by Law  ,"Comedy,Drama",4
+1182,1274,Akira  ,"Adventure,Animation,SciFi",4
+1183,1275,Highlander  ,"Action,Adventure",4
+1184,1276,Cool Hand Luke  ,"Comedy,Drama",4
+1185,1277,Cyrano de Bergerac  ,"Action,Drama,Romance",4
+1186,1278,Young Frankenstein  ,"Comedy,Horror",4
+1187,1279,Night on Earth  ,"Comedy,Drama",4
+1188,1280,Raise the Red Lantern  ,Drama,4
+1189,1281,Great Dictator,Comedy,4
+1190,1282,Fantasia  ,"Animation,Children,Musical",4
+1191,1283,High Noon  ,Western,4
+1192,1284,Big Sleep,"Noir,Mystery",4
+1193,1285,Heathers  ,Comedy,4
+1194,1286,Somewhere in Time  ,"Drama,Romance",4
+1195,1287,Ben-Hur  ,"Action,Adventure,Drama",4
+1196,1288,This Is Spinal Tap  ,"Comedy,Drama,Musical",4
+1197,1289,Koyaanisqatsi  ,"Documentary,War",4
+1198,1290,Some Kind of Wonderful  ,"Drama,Romance",4
+1199,1291,Indiana Jones and the Last Crusade  ,"Action,Adventure",4
+1200,1292,Being There  ,Comedy,4
+1201,1293,Gandhi  ,Drama,4
+1202,1294,M*A*S*H  ,"Comedy,War",4
+1203,1295,Unbearable Lightness of Being,Drama,4
+1204,1296,Room with a View,"Drama,Romance",4
+1205,1297,Real Genius  ,Comedy,4
+1206,1298,Pink Floyd - The Wall  ,"Drama,Musical,War",4
+1207,1299,Killing Fields,"Drama,War",4
+1208,1300,My Life as a Dog (Mitt liv som hund)  ,Drama,4
+1209,1301,Forbidden Planet  ,SciFi,4
+1210,1302,Field of Dreams  ,Drama,4
+1211,1303,Man Who Would Be King,Adventure,4
+1212,1304,Butch Cassidy and the Sundance Kid  ,"Action,Comedy,Western",4
+1213,1305,Paris,Drama,4
+1214,1306,Until the End of the World (Bis ans Ende der Welt)  ,"Drama,SciFi",4
+1215,1307,When Harry Met Sally...  ,"Comedy,Romance",4
+1216,1310,Hype!  ,Documentary,4
+1217,1311,Santa with Muscles  ,Comedy,1
+1218,1312,Female Perversions  ,Drama,3
+1219,1313,Mad Dog Time  ,Crime,2
+1220,1315,Paris Was a Woman  ,Documentary,2
+1221,1316,Anna  ,Drama,4
+1222,1317,I'm Not Rappaport  ,Comedy,3
+1223,1320,Alien³  ,"Action,Horror,SciFi",3
+1224,1321,American Werewolf in London,Horror,4
+1225,1322,Amityville 1992: It's About Time  ,Horror,2
+1226,1323,Amityville 3-D  ,Horror,1
+1227,1324,Amityville: Dollhouse  ,Horror,2
+1228,1325,Amityville: A New Generation  ,Horror,2
+1229,1326,Amityville II: The Possession  ,Horror,2
+1230,1327,AmityvilleHorror,Horror,3
+1231,1328,Amityville Curse,Horror,2
+1232,1329,Blood For Dracula (AndyWarhol's Dracula)  ,Horror,3
+1233,1330,April Fool's Day  ,"Comedy,Horror",3
+1234,1331,Audrey Rose  ,Horror,3
+1235,1332,Believers,"Horror,Thriller",3
+1236,1333,Birds,Horror,4
+1237,1334,Blob,"Horror,SciFi",3
+1238,1335,Blood Beach  ,"Action,Horror",2
+1239,1336,Body Parts  ,Horror,2
+1240,1337,Body Snatcher,Horror,4
+1241,1339,Bram Stoker's Dracula  ,"Horror,Romance",3
+1242,1340,Bride of Frankenstein  ,Horror,4
+1243,1341,Burnt Offerings  ,Horror,3
+1244,1342,Candyman  ,Horror,3
+1245,1343,Cape Fear  ,Thriller,4
+1246,1344,Cape Fear  ,"Noir,Thriller",4
+1247,1345,Carrie  ,Horror,4
+1248,1346,Cat People  ,Horror,3
+1249,1347,Nightmare on Elm Street,Horror,3
+1250,1348,Nosferatu (Nosferatu,Horror,4
+1251,1349,Nosferatu a Venezia  ,Horror,3
+1252,1350,Omen,Horror,4
+1253,1351,Blood & Wine  ,Drama,3
+1254,1352,Albino Alligator  ,"Crime,Thriller",3
+1255,1353,Mirror Has Two Faces,"Comedy,Romance",3
+1256,1354,Breaking the Waves  ,Drama,4
+1257,1355,Nightwatch  ,"Horror,Thriller",3
+1258,1356,Star Trek: First Contact  ,"Action,Adventure,SciFi",4
+1259,1357,Shine  ,"Drama,Romance",4
+1260,1358,Sling Blade  ,"Drama,Thriller",4
+1261,1359,Jingle All the Way  ,"Adventure,Children,Comedy",2
+1262,1360,Identification of a Woman (Identificazione di una donna)  ,Drama,4
+1263,1361,Paradise Lost: The Child Murders at Robin Hood Hills  ,Documentary,4
+1264,1362,Garden of Finzi-Contini,Drama,4
+1265,1363,Preacher's Wife,Drama,3
+1266,1364,Zero Kelvin (Kjærlighetens kjøtere)  ,Action,4
+1267,1365,Ridicule  ,Drama,4
+1268,1366,Crucible,Drama,3
+1269,1367,101 Dalmatians  ,"Children,Comedy",3
+1270,1369,I Can't Sleep (J'ai pas sommeil)  ,"Drama,Thriller",4
+1271,1370,Die Hard 2  ,"Action,Thriller",4
+1272,1371,Star Trek: The Motion Picture  ,"Action,Adventure,SciFi",3
+1273,1372,Star Trek VI: The Undiscovered Country  ,"Action,Adventure,SciFi",3
+1274,1373,Star Trek V: The Final Frontier  ,"Action,Adventure,SciFi",3
+1275,1374,Star Trek: The Wrath of Khan  ,"Action,Adventure,SciFi",4
+1276,1375,Star Trek III: The Search for Spock  ,"Action,Adventure,SciFi",3
+1277,1376,Star Trek IV: The Voyage Home  ,"Action,Adventure,SciFi",4
+1278,1377,Batman Returns  ,"Action,Adventure,Comedy",3
+1279,1378,Young Guns  ,"Action,Comedy,Western",3
+1280,1379,Young Guns II  ,"Action,Comedy,Western",3
+1281,1380,Grease  ,"Comedy,Musical,Romance",4
+1282,1381,Grease 2  ,"Comedy,Musical,Romance",2
+1283,1382,Marked for Death  ,"Action,Drama",3
+1284,1383,Adrenalin: Fear the Rush  ,"Action,SciFi",2
+1285,1384,Substance of Fire,Drama,4
+1286,1385,Under Siege  ,Action,3
+1287,1386,Terror in a Texas Town  ,Western,1
+1288,1387,Jaws  ,"Action,Horror",4
+1289,1388,Jaws 2  ,"Action,Horror",3
+1290,1389,Jaws 3-D  ,"Action,Horror",2
+1291,1390,My Fellow Americans  ,Comedy,3
+1292,1391,Mars Attacks!  ,"Action,Comedy,SciFi",3
+1293,1392,Citizen Ruth  ,"Comedy,Drama",4
+1294,1393,Jerry Maguire  ,"Drama,Romance",4
+1295,1394,Raising Arizona  ,Comedy,4
+1296,1395,Tin Men  ,"Comedy,Drama",3
+1297,1396,Sneakers  ,"Crime,Drama,SciFi",4
+1298,1397,Bastard Out of Carolina  ,Drama,4
+1299,1398,In Love andWar,"Romance,War",3
+1300,1399,Marvin's Room  ,Drama,3
+1301,1401,Ghosts of Mississippi  ,Drama,4
+1302,1404,Night Falls on Manhattan  ,"Crime,Drama",3
+1303,1405,Beavis and Butt-head Do America  ,"Animation,Comedy",3
+1304,1406,Cérémonie,Drama,3
+1305,1407,Scream  ,"Horror,Thriller",4
+1306,1408,Last of the Mohicans,"Action,Romance",4
+1307,1409,Michael  ,"Comedy,Romance",3
+1308,1410,Evening Star,"Comedy,Drama",3
+1309,1411,Hamlet  ,Drama,4
+1310,1412,Some Mother's Son  ,Drama,4
+1311,1413,Whole Wide World,Drama,3
+1312,1414,Mother  ,Comedy,4
+1313,1415,Thieves (Voleurs,"Crime,Drama",4
+1314,1416,Evita  ,"Drama,Musical",3
+1315,1417,Portrait of a Lady,Drama,3
+1316,1419,Walkabout  ,Drama,4
+1317,1420,Message to Love: The Isle of Wight Festival  ,Documentary,4
+1318,1421,Grateful Dead  ,Documentary,3
+1319,1422,Murder at 1600  ,"Mystery,Thriller",3
+1320,1423,Hearts and Minds  ,Drama,4
+1321,1425,Fierce Creatures  ,Comedy,3
+1322,1426,Zeus and Roxanne  ,Children,3
+1323,1427,Turbulence  ,Thriller,2
+1324,1428,Angel Baby  ,Drama,3
+1325,1429,Jackie Chan's First Strike  ,Action,3
+1326,1430,Underworld  ,Thriller,1
+1327,1431,Beverly Hills Ninja  ,"Action,Comedy",3
+1328,1432,Metro  ,Action,3
+1329,1433,Machine,"Comedy,Horror",2
+1330,1434,Stranger,Action,4
+1331,1436,Falling in Love Again  ,Comedy,3
+1332,1437,Cement Garden,Drama,3
+1333,1438,Dante's Peak  ,"Action,Thriller",3
+1334,1439,Meet Wally Sparks  ,Comedy,2
+1335,1440,Amos & Andrew  ,Comedy,3
+1336,1441,Benny & Joon  ,"Comedy,Romance",3
+1337,1442,Prefontaine  ,Drama,3
+1338,1444,Guantanamera  ,Comedy,3
+1339,1445,McHale's Navy  ,"Comedy,War",2
+1340,1446,Kolya  ,Comedy,4
+1341,1447,Gridlock'd  ,Crime,3
+1342,1449,Waiting for Guffman  ,Comedy,4
+1343,1450,Prisoner of the Mountains (Kavkazsky Plennik)  ,War,4
+1344,1453,Beautician and the Beast,"Comedy,Romance",2
+1345,1454,SubUrbia  ,Comedy,3
+1346,1455,Hotel de Love  ,"Comedy,Romance",3
+1347,1456,Pest,Comedy,2
+1348,1457,Fools Rush In  ,"Comedy,Romance",3
+1349,1458,Touch  ,Romance,3
+1350,1459,Absolute Power  ,"Mystery,Thriller",3
+1351,1460,That Darn Cat!  ,"Children,Comedy,Mystery",3
+1352,1461,Vegas Vacation  ,Comedy,3
+1353,1463,That Old Feeling  ,"Comedy,Romance",3
+1354,1464,Lost Highway  ,Mystery,3
+1355,1465,Rosewood  ,Drama,3
+1356,1466,Donnie Brasco  ,"Crime,Drama",4
+1357,1468,Booty Call  ,"Comedy,Romance",3
+1358,1470,Rhyme & Reason  ,Documentary,4
+1359,1471,Boys Life 2  ,Drama,3
+1360,1472,City of Industry  ,"Crime,Thriller",3
+1361,1473,Best Men  ,"Action,Comedy,Crime",3
+1362,1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle)  ,"Children,Comedy",2
+1363,1475,Kama Sutra: A Tale of Love  ,Romance,3
+1364,1476,Private Parts  ,"Comedy,Drama",3
+1365,1477,Love Jones  ,Romance,3
+1366,1479,Saint,"Action,Romance",3
+1367,1480,Smilla's Sense of Snow  ,"Action,Drama,Thriller",3
+1368,1482,Van,"Comedy,Drama",3
+1369,1483,Crash  ,"Drama,Thriller",3
+1370,1484,Daytrippers,Mystery,4
+1371,1485,Liar Liar  ,Comedy,4
+1372,1486,Quiet Room,Drama,3
+1373,1487,Selena  ,"Drama,Musical",3
+1374,1488,Devil's Own,"Action,Drama,War",3
+1375,1489,Cats Don't Dance  ,"Animation,Children,Musical",3
+1376,1490,B*A*P*S  ,Comedy,2
+1377,1493,Love and Other Catastrophes  ,Romance,3
+1378,1494,Sixth Man,Comedy,2
+1379,1495,Turbo: A Power Rangers Movie  ,"Action,Adventure,Children",1
+1380,1496,Anna Karenina  ,"Drama,Romance",3
+1381,1497,Double Team  ,Action,2
+1382,1498,Inventing the Abbotts  ,"Drama,Romance",3
+1383,1499,Anaconda  ,"Action,Adventure,Thriller",2
+1384,1500,Grosse Pointe Blank  ,"Comedy,Crime",4
+1385,1501,Keys to Tulsa  ,Crime,3
+1386,1502,Kissed  ,Romance,3
+1387,1503,8 Heads in a Duffel Bag  ,Comedy,2
+1388,1504,Hollow Reed  ,Drama,4
+1389,1507,Paradise Road  ,"Drama,War",3
+1390,1508,Traveller  ,Drama,3
+1391,1509,All Over Me  ,Drama,4
+1392,1510,Brother's Kiss,Drama,2
+1393,1511,A Chef in Love  ,Comedy,4
+1394,1513,Romy and Michele's High School Reunion  ,Comedy,3
+1395,1514,Temptress Moon (Feng Yue)  ,Romance,3
+1396,1515,Volcano  ,"Drama,Thriller",3
+1397,1516,Children of the Revolution  ,Comedy,4
+1398,1517,Austin Powers: International Man ofMystery ,Comedy,4
+1399,1518,Breakdown  ,"Action,Thriller",3
+1400,1519,Broken English  ,Drama,3
+1401,1520,Commandments  ,Romance,2
+1402,1522,Ripe  ,Drama,2
+1403,1523,Truth or Consequences,"Action,Crime",3
+1404,1525,Warriors of Virtue  ,"Action,Adventure,Children",2
+1405,1526,Fathers' Day  ,Comedy,2
+1406,1527,Fifth Element,"Action,SciFi",4
+1407,1528,Intimate Relations  ,Comedy,2
+1408,1529,Nowhere  ,Drama,3
+1409,1531,Losing Chase  ,Drama,4
+1410,1532,Sprung  ,Comedy,3
+1411,1533,Promise,Drama,4
+1412,1534,Bonheur,Drama,4
+1413,1535,Love! Valour! Compassion!  ,"Drama,Romance",3
+1414,1537,Shall We Dance? (Shall We Dansu?)  ,Comedy,4
+1415,1538,Second Jungle Book: Mowgli & Baloo,"Adventure,Children",2
+1416,1539,Twin Town  ,"Comedy,Crime",3
+1417,1541,Addicted to Love  ,"Comedy,Romance",3
+1418,1542,Brassed Off  ,"Comedy,Drama,Romance",4
+1419,1543,Designated Mourner,Drama,3
+1420,1544,Lost World: Jurassic Park,"Action,Adventure,Thriller",3
+1421,1545,Ponette  ,Drama,4
+1422,1546,Schizopolis  ,Comedy,4
+1423,1547,Shiloh  ,"Children,Drama",3
+1424,1548,Warat Home,Drama,2
+1425,1549,Rough Magic  ,"Drama,Romance",3
+1426,1550,Trial and Error  ,"Comedy,Romance",3
+1427,1551,Buddy  ,"Adventure,Children,Drama",3
+1428,1552,Con Air  ,"Action,Adventure,Thriller",3
+1429,1553,Late Bloomers  ,Comedy,3
+1430,1554,Pillow Book,"Drama,Romance",3
+1431,1555,To Have,Drama,3
+1432,1556,Speed 2: Cruise Control  ,"Action,Romance,Thriller",2
+1433,1558,Sudden Manhattan  ,Comedy,2
+1434,1561,Wedding Bell Blues  ,Comedy,3
+1435,1562,Batman & Robin  ,"Action,Adventure,Crime",2
+1436,1563,Dream With the Fishes  ,Drama,4
+1437,1564,Roseanna's Grave (For Roseanna)  ,"Comedy,Romance",4
+1438,1565,Head Above Water  ,"Comedy,Thriller",3
+1439,1566,Hercules  ,"Adventure,Animation,Children,Musical",3
+1440,1567,Last Time I Committed Suicide,Drama,3
+1441,1569,My Best Friend's Wedding  ,"Comedy,Romance",3
+1442,1570,Tetsuo II: Body Hammer  ,SciFi,3
+1443,1571,When the Cats Away (Chacun cherche son chat)  ,"Comedy,Romance",4
+1444,1572,Contempt (Le Mépris)  ,Drama,4
+1445,1573,Face/Off  ,"Action,SciFi,Thriller",3
+1446,1574,Fall  ,Romance,3
+1447,1575,Gabbeh  ,Drama,3
+1448,1579,For Ever Mozart  ,Drama,3
+1449,1580,Men in Black  ,"Action,Adventure,Comedy",4
+1450,1581,Out to Sea  ,Comedy,3
+1451,1582,Wild America  ,"Adventure,Children",3
+1452,1583,Simple Wish,"Children,Fantasy",3
+1453,1584,Contact  ,"Drama,SciFi",4
+1454,1585,Love Serenade  ,Comedy,3
+1455,1586,G.I. Jane  ,"Action,Drama,War",3
+1456,1587,Conan the Barbarian  ,"Action,Adventure",3
+1457,1588,George of the Jungle  ,"Children,Comedy",3
+1458,1589,Cop Land  ,"Crime,Drama,Mystery",3
+1459,1590,Event Horizon  ,"Action,Mystery,SciFi",3
+1460,1591,Spawn  ,"Action,Adventure,SciFi",3
+1461,1592,Air Bud  ,"Children,Comedy",2
+1462,1593,Picture Perfect  ,"Comedy,Romance",3
+1463,1594,In the Company of Men  ,Drama,4
+1464,1595,Free Willy 3: The Rescue  ,"Adventure,Children,Drama",2
+1465,1596,Career Girls  ,Drama,3
+1466,1597,Conspiracy Theory  ,"Action,Mystery,Romance",3
+1467,1598,Desperate Measures  ,"Crime,Drama,Thriller",3
+1468,1599,Steel  ,Action,2
+1469,1600,She's So Lovely  ,"Drama,Romance",3
+1470,1601,Hoodlum  ,"Crime,Drama,Noir",3
+1471,1602,Leave It to Beaver  ,Comedy,2
+1472,1603,Mimic  ,"SciFi,Thriller",3
+1473,1604,Money Talks  ,"Action,Comedy",3
+1474,1605,Excess Baggage  ,"Adventure,Romance",3
+1475,1606,Kull the Conqueror  ,"Action,Adventure",2
+1476,1608,Air Force One  ,"Action,Thriller",4
+1477,1609,187,Drama,3
+1478,1610,Hunt for Red October,"Action,Thriller",4
+1479,1611,My Own Private Idaho  ,Drama,3
+1480,1612,Kiss Me,Comedy,3
+1481,1613,Star Maps  ,Drama,3
+1482,1614,In & Out  ,Comedy,3
+1483,1615,Edge,"Adventure,Thriller",4
+1484,1616,Peacemaker,"Action,Thriller",3
+1485,1617,L.A. Confidential  ,"Crime,Noir,Mystery",4
+1486,1619,Seven Years in Tibet  ,"Drama,War",3
+1487,1620,Kiss the Girls  ,"Crime,Drama,Thriller",3
+1488,1621,Soul Food  ,Drama,3
+1489,1622,Kicked in the Head  ,"Comedy,Drama",2
+1490,1623,Wishmaster  ,Horror,2
+1491,1624,Thousand Acres,Drama,3
+1492,1625,Game,"Mystery,Thriller",4
+1493,1626,Fire Down Below  ,"Action,Drama,Thriller",3
+1494,1627,U Turn  ,"Action,Crime,Mystery",3
+1495,1629,MatchMaker,"Comedy,Romance",3
+1496,1630,Lay of the Land,"Comedy,Drama",2
+1497,1631,Assignment,Thriller,4
+1498,1632,Smile Like Yours,"Comedy,Romance",2
+1499,1633,Ulee's Gold  ,Drama,4
+1500,1635,Ice Storm,Drama,4
+1501,1636,Stag  ,"Action,Thriller",2
+1502,1639,Chasing Amy  ,"Drama,Romance",4
+1503,1640,How to Be a Player  ,Comedy,3
+1504,1641,Full Monty,Comedy,4
+1505,1642,Indian Summer (a.k.a. Alive & Kicking)  ,"Comedy,Drama",3
+1506,1643,Mrs. Brown (Her Majesty,"Drama,Romance",4
+1507,1644,I Know What You Did Last Summer  ,"Horror,Mystery,Thriller",3
+1508,1645,Devil's Advocate,"Crime,Horror,Thriller",3
+1509,1646,Rocket Man  ,Comedy,3
+1510,1647,Playing God  ,"Crime,Thriller",3
+1511,1648,House of Yes,"Comedy,Drama",3
+1512,1649,Fast,Documentary,4
+1513,1650,Washington Square  ,Drama,3
+1514,1651,Telling Lies in America  ,Drama,3
+1515,1652,Year of the Horse  ,Documentary,3
+1516,1653,Gattaca  ,"Drama,SciFi,Thriller",4
+1517,1654,FairyTale: A True Story  ,"Children,Drama,Fantasy",3
+1518,1655,Phantoms  ,Horror,2
+1519,1656,Swept from the Sea  ,Romance,3
+1520,1657,Wonderland  ,Documentary,4
+1521,1658,Life Less Ordinary,"Romance,Thriller",3
+1522,1659,Hurricane Streets  ,Drama,3
+1523,1660,Eve's Bayou  ,Drama,4
+1524,1661,Switchback  ,Thriller,3
+1525,1662,Gang Related  ,Crime,3
+1526,1663,Stripes  ,Comedy,4
+1527,1664,Nénette et Boni  ,Drama,4
+1528,1665,Bean  ,Comedy,3
+1529,1666,Hugo Pool  ,Romance,3
+1530,1667,Mad City  ,"Action,Drama",3
+1531,1668,One Night Stand  ,Drama,3
+1532,1669,Tango Lesson,Romance,3
+1533,1670,Welcome To Sarajevo  ,"Drama,War",4
+1534,1671,Deceiver  ,Crime,3
+1535,1672,Rainmaker,Drama,4
+1536,1673,Boogie Nights  ,Drama,4
+1537,1674,Witness  ,"Drama,Romance,Thriller",4
+1538,1675,Incognito  ,"Crime,Thriller",3
+1539,1676,Starship Troopers  ,"Action,Adventure,SciFi",3
+1540,1677,Critical Care  ,Comedy,3
+1541,1678,Joy Luck Club,Drama,4
+1542,1679,Chairman of the Board  ,Comedy,2
+1543,1680,Sliding Doors  ,"Drama,Romance",4
+1544,1681,Mortal Kombat: Annihilation  ,"Action,Adventure",2
+1545,1682,Truman Show,Drama,4
+1546,1683,Wings of the Dove,"Drama,Romance",4
+1547,1684,Mrs. Dalloway  ,Romance,4
+1548,1685,I Love You,Romance,4
+1549,1686,Red Corner  ,"Crime,Thriller",3
+1550,1687,Jackal,"Action,Thriller",3
+1551,1688,Anastasia  ,"Animation,Children,Musical",4
+1552,1689,Man Who Knew Too Little,"Comedy,Mystery",3
+1553,1690,Alien: Resurrection  ,"Action,Horror,SciFi",3
+1554,1692,Alien Escape  ,"Horror,SciFi",3
+1555,1693,Amistad  ,Drama,4
+1556,1694,Apostle,Drama,4
+1557,1695,Artemisia  ,Drama,4
+1558,1696,Bent  ,"Drama,War",4
+1559,1699,Butcher Boy,Drama,4
+1560,1701,Deconstructing Harry  ,"Comedy,Drama",3
+1561,1702,Flubber  ,"Children,Comedy,Fantasy",3
+1562,1703,For Richer or Poorer  ,Comedy,3
+1563,1704,Good Will Hunting  ,Drama,4
+1564,1707,Home Alone 3  ,"Children,Comedy",2
+1565,1709,Legal Deceit  ,Thriller,2
+1566,1711,Midnight in the Garden of Good and Evil  ,"Comedy,Crime,Drama",3
+1567,1713,Mouse Hunt  ,"Children,Comedy",3
+1568,1714,Never Met Picasso  ,Romance,2
+1569,1715,Office Killer  ,Thriller,3
+1570,1717,Scream 2  ,"Horror,Thriller",3
+1571,1718,Stranger in the House  ,Thriller,3
+1572,1719,Sweet Hereafter,Drama,4
+1573,1720,Time Tracers  ,"Action,Adventure,SciFi",1
+1574,1721,Titanic  ,"Drama,Romance",4
+1575,1722,Tomorrow Never Dies  ,"Action,Romance,Thriller",3
+1576,1724,Full Speed  ,Drama,3
+1577,1725,Education of Little Tree,Drama,4
+1578,1726,Postman,Drama,3
+1579,1727,Horse Whisperer,Drama,3
+1580,1728,Winter Guest,Drama,3
+1581,1729,Jackie Brown  ,"Crime,Drama",4
+1582,1730,Kundun  ,Drama,4
+1583,1731,Mr. Magoo  ,Comedy,2
+1584,1732,Big Lebowski,"Comedy,Crime,Thriller",4
+1585,1733,Afterglow  ,"Drama,Romance",3
+1586,1734,My Life in Pink (Ma vie en rose)  ,"Comedy,Drama",4
+1587,1735,Great Expectations  ,"Drama,Romance",3
+1588,1739,3 Ninjas: High Noon On Mega Mountain  ,"Action,Children",1
+1589,1741,Midaq Alley (Callejón de los milagros,Drama,4
+1590,1743,Arguing the World  ,Documentary,4
+1591,1744,Firestorm  ,"Action,Adventure,Thriller",3
+1592,1746,Senseless  ,Comedy,3
+1593,1747,Wag the Dog  ,"Comedy,Drama",3
+1594,1748,Dark City  ,"Noir,SciFi,Thriller",4
+1595,1749,Leading Man,Romance,3
+1596,1750,Star Kid  ,"Adventure,Children,Fantasy",2
+1597,1752,Hard Rain  ,"Action,Thriller",3
+1598,1753,Half Baked  ,Comedy,3
+1599,1754,Fallen  ,"Action,Mystery,Thriller",3
+1600,1755,Shooting Fish  ,Romance,4
+1601,1756,Prophecy II,Horror,3
+1602,1758,Dangerous Beauty  ,Drama,4
+1603,1759,Four Days in September  ,Drama,4
+1604,1760,Spice World  ,"Comedy,Musical",2
+1605,1762,Deep Rising  ,"Action,Horror,SciFi",3
+1606,1764,Tainted  ,"Comedy,Thriller",3
+1607,1767,Music From Another Room  ,"Drama,Romance",3
+1608,1769,Replacement Killers,"Action,Thriller",3
+1609,1770,B. Monkey  ,"Romance,Thriller",3
+1610,1771,Night Flier  ,Horror,3
+1611,1772,Blues Brothers 2000  ,"Action,Comedy,Musical",2
+1612,1773,Tokyo Fist  ,"Action,Drama",2
+1613,1777,Wedding Singer,"Comedy,Romance",3
+1614,1779,Sphere  ,"Adventure,SciFi,Thriller",3
+1615,1780,Ayn Rand: A Sense of Life  ,Documentary,4
+1616,1782,Little City  ,"Comedy,Romance",2
+1617,1783,Palmetto  ,"Noir,Mystery,Thriller",3
+1618,1784,As Good As It Gets  ,"Comedy,Drama",4
+1619,1785,King of New York  ,"Action,Crime",3
+1620,1787,Paralyzing Fear: The Story of Polio in America,Documentary,4
+1621,1788,Men With Guns  ,"Action,Drama",4
+1622,1791,Twilight  ,"Crime,Drama",3
+1623,1792,U.S. Marshalls  ,"Action,Thriller",3
+1624,1793,Welcome to Woop-Woop  ,Comedy,2
+1625,1794,Love and Death on Long Island  ,"Comedy,Drama",3
+1626,1795,Callejón de los milagros,Drama,4
+1627,1796,In God's Hands  ,"Action,Drama",2
+1628,1797,Everest  ,Documentary,4
+1629,1798,Hush  ,Thriller,3
+1630,1799,Suicide Kings  ,"Crime,Drama",3
+1631,1801,Man in the Iron Mask,"Action,Drama",3
+1632,1804,Newton Boys,"Crime,Drama",3
+1633,1805,Wild Things  ,"Crime,Drama,Mystery",3
+1634,1806,Paulie  ,"Adventure,Children,Comedy",3
+1635,1807,Cool Dry Place,Drama,3
+1636,1809,Hana-bi  ,"Comedy,Crime,Drama",4
+1637,1810,Primary Colors  ,Drama,4
+1638,1811,Niagara,Drama,4
+1639,1812,Wide Awake  ,"Children,Comedy,Drama",3
+1640,1814,Price Above Rubies,Drama,3
+1641,1815,Eden  ,Drama,2
+1642,1816,Two Girls and a Guy  ,"Comedy,Drama",3
+1643,1817,No Looking Back  ,"Comedy,Drama,Romance",3
+1644,1820,Proposition,Drama,2
+1645,1821,Object of My Affection,"Comedy,Romance",3
+1646,1822,Meet the Deedles  ,"Children,Comedy",2
+1647,1824,Homegrown  ,"Comedy,Thriller",3
+1648,1825,Player's Club,"Action,Drama",3
+1649,1826,Barney's GreatAdventure ,"Adventure,Children",2
+1650,1827,Big One,"Comedy,Documentary",4
+1651,1829,Chinese Box  ,"Drama,Romance",3
+1652,1830,Follow the Bitch  ,Comedy,5
+1653,1831,Lost in Space  ,"Action,SciFi,Thriller",3
+1654,1832,Heaven's Burning  ,"Action,Drama",4
+1655,1833,Mercury Rising  ,"Action,Drama,Thriller",3
+1656,1834,Spanish Prisoner,"Drama,Thriller",4
+1657,1835,City of Angels  ,Romance,3
+1658,1836,Last Days of Disco,Drama,3
+1659,1837,Odd Couple II,Comedy,3
+1660,1839,My Giant  ,Comedy,2
+1661,1840,He Got Game  ,Drama,3
+1662,1841,Gingerbread Man,"Drama,Thriller",3
+1663,1842,Illtown  ,"Crime,Drama",4
+1664,1843,Slappy and the Stinkers  ,"Children,Comedy",3
+1665,1844,Live Flesh  ,Drama,4
+1666,1845,Zero Effect  ,"Comedy,Thriller",4
+1667,1846,Nil By Mouth  ,Drama,3
+1668,1848,Borrowers,"Adventure,Children,Fantasy",3
+1669,1849,Prince Valiant  ,Adventure,3
+1670,1850,I Love You,"Drama,Romance",3
+1671,1851,Leather Jacket Love Story  ,"Drama,Romance",4
+1672,1852,Love Walked In  ,"Drama,Thriller",2
+1673,1853,Alan Smithee Film: Burn Hollywood Burn,Comedy,2
+1674,1854,Kissing a Fool  ,"Comedy,Romance",3
+1675,1855,Krippendorf's Tribe  ,Comedy,2
+1676,1856,Kurt & Courtney  ,"Documentary,Musical",3
+1677,1857,Real Blonde,Comedy,3
+1678,1858,Mr. Nice Guy  ,"Action,Comedy",3
+1679,1859,Taste of Cherry  ,Drama,4
+1680,1860,Character (Karakter)  ,Drama,4
+1681,1861,Junk Mail  ,"Comedy,Thriller",3
+1682,1862,Species II  ,"Horror,SciFi",2
+1683,1863,Major League: Back to the Minors  ,Comedy,2
+1684,1864,Sour Grapes  ,Comedy,3
+1685,1865,Wild Man Blues  ,Documentary,4
+1686,1866,Big Hit,"Action,Comedy",3
+1687,1867,Tarzan and the Lost City  ,"Action,Adventure",2
+1688,1868,Truce,"Drama,War",2
+1689,1869,Black Dog  ,"Action,Thriller",2
+1690,1870,Dancer,"Comedy,Drama",4
+1691,1871,Friend of the Deceased,"Comedy,Drama",4
+1692,1872,Go Now  ,Drama,3
+1693,1873,Misérables,Drama,4
+1694,1874,Still Breathing  ,"Comedy,Romance",3
+1695,1875,Clockwatchers  ,Comedy,3
+1696,1876,Deep Impact  ,"Action,Drama,SciFi",3
+1697,1877,Little Men  ,Drama,2
+1698,1878,Woo  ,"Comedy,Romance",2
+1699,1879,Hanging Garden,Drama,4
+1700,1880,Lawn Dogs  ,Drama,3
+1701,1881,Quest for Camelot  ,"Adventure,Animation,Children",3
+1702,1882,Godzilla  ,"Action,SciFi",2
+1703,1883,Bulworth  ,Comedy,3
+1704,1884,Fear and Loathing in Las Vegas  ,"Comedy,Drama",3
+1705,1885,Opposite of Sex,"Comedy,Drama",4
+1706,1886,I Got the Hook Up  ,Comedy,3
+1707,1887,Almost Heroes  ,"Adventure,Comedy",2
+1708,1888,Hope Floats  ,"Comedy,Drama,Romance",3
+1709,1889,Insomnia  ,Thriller,4
+1710,1890,Little Boy Blue  ,Drama,2
+1711,1891,Ugly,"Horror,Thriller",2
+1712,1892,Perfect Murder,"Mystery,Thriller",3
+1713,1893,Beyond Silence  ,Drama,4
+1714,1894,Six Days Seven Nights  ,"Adventure,Comedy,Romance",3
+1715,1895,Can't Hardly Wait  ,"Comedy,Drama,Romance",3
+1716,1896,Cousin Bette  ,Comedy,3
+1717,1897,High Art  ,"Drama,Romance",4
+1718,1898,Land Girls,"Drama,War",4
+1719,1899,Passion in the Desert  ,"Adventure,Drama",3
+1720,1900,Children of Heaven,Drama,4
+1721,1901,Dear Jesse  ,Documentary,4
+1722,1902,Dream for an Insomniac  ,"Drama,Romance",3
+1723,1903,Hav Plenty  ,Comedy,3
+1724,1904,Henry Fool  ,"Comedy,Drama",3
+1725,1905,Marie Baie Des Anges  ,Drama,2
+1726,1906,Mr. Jealousy  ,"Comedy,Romance",3
+1727,1907,Mulan  ,"Animation,Children",4
+1728,1908,Resurrection Man  ,"Drama,Thriller",3
+1729,1909,X-Files: Fight the Future,"Mystery,SciFi",3
+1730,1910,I Went Down  ,"Action,Comedy,Crime",4
+1731,1911,Doctor Dolittle  ,Comedy,3
+1732,1912,Out of Sight  ,"Action,Crime,Romance",4
+1733,1913,Picnic at Hanging Rock  ,"Drama,Mystery",4
+1734,1914,Smoke Signals  ,"Comedy,Drama",4
+1735,1915,Voyage to the Beginning of the World  ,Drama,4
+1736,1916,Buffalo 66  ,"Action,Comedy,Drama",4
+1737,1917,Armageddon  ,"Action,Adventure,SciFi",3
+1738,1918,Lethal Weapon 4  ,"Action,Comedy,Crime",3
+1739,1919,Madeline  ,"Children,Comedy",3
+1740,1920,Small Soldiers  ,"Animation,Children,Fantasy",3
+1741,1921,Pi  ,"SciFi,Thriller",4
+1742,1922,Whatever  ,Drama,3
+1743,1923,There's Something About Mary  ,Comedy,4
+1744,1924,Plan 9 from Outer Space  ,"Horror,SciFi",3
+1745,1925,Wings  ,"Drama,Romance,War",4
+1746,1926,Broadway Melody,Musical,3
+1747,1927,All Quiet on theWesternFront  ,War,4
+1748,1928,Cimarron  ,Western,3
+1749,1929,Grand Hotel  ,Drama,4
+1750,1930,Cavalcade  ,Drama,3
+1751,1931,Mutiny on the Bounty  ,Adventure,4
+1752,1932,Great Ziegfeld,Musical,3
+1753,1933,Life of Émile Zola,Drama,3
+1754,1934,You Can't Take It With You  ,Comedy,4
+1755,1935,How Green Was My Valley  ,Drama,4
+1756,1936,Mrs. Miniver  ,"Drama,War",4
+1757,1937,Going My Way  ,Comedy,4
+1758,1938,Lost Weekend,Drama,4
+1759,1939,Best Years of Our Lives,"Drama,War",4
+1760,1940,Gentleman's Agreement  ,Drama,4
+1761,1941,Hamlet  ,Drama,4
+1762,1942,All the King's Men  ,Drama,4
+1763,1943,Greatest Show on Earth,Drama,3
+1764,1944,From Here to Eternity  ,"Drama,Romance,War",4
+1765,1945,On the Waterfront  ,"Crime,Drama",4
+1766,1946,Marty  ,"Drama,Romance",4
+1767,1947,West Side Story  ,"Musical,Romance",4
+1768,1948,Tom Jones  ,Comedy,4
+1769,1949,Man for All Seasons,Drama,4
+1770,1950,In the Heat of the Night  ,"Drama,Mystery",4
+1771,1951,Oliver!  ,Musical,4
+1772,1952,Midnight Cowboy  ,Drama,4
+1773,1953,French Connection,"Action,Crime,Thriller",4
+1774,1954,Rocky  ,"Action,Drama",4
+1775,1955,Kramer Vs. Kramer  ,Drama,4
+1776,1956,Ordinary People  ,Drama,4
+1777,1957,Chariots of Fire  ,Drama,4
+1778,1958,Terms of Endearment  ,"Comedy,Drama",4
+1779,1959,Out of Africa  ,"Drama,Romance",4
+1780,1960,Last Emperor,"Drama,War",4
+1781,1961,Rain Man  ,Drama,4
+1782,1962,Driving Miss Daisy  ,Drama,4
+1783,1963,Take the Money and Run  ,Comedy,4
+1784,1964,Klute  ,"Drama,Mystery",4
+1785,1965,Repo Man  ,"Comedy,SciFi",4
+1786,1966,Metropolitan  ,Comedy,4
+1787,1967,Labyrinth  ,"Adventure,Children,Fantasy",4
+1788,1968,Breakfast Club,"Comedy,Drama",4
+1789,1969,Nightmare on Elm Street Part 2: Freddy's Revenge,Horror,2
+1790,1970,Nightmare on Elm Street 3: DreamWarriors,Horror,3
+1791,1971,Nightmare on Elm Street 4: The Dream Master,Horror,2
+1792,1972,Nightmare on Elm Street 5: The Dream Child,Horror,2
+1793,1973,Freddy's Dead: The Final Nightmare  ,Horror,2
+1794,1974,Friday the 13th  ,Horror,3
+1795,1975,Friday the 13th Part 2  ,Horror,2
+1796,1976,Friday the 13th Part 3: 3D  ,Horror,2
+1797,1977,Friday the 13th: The Final Chapter  ,Horror,2
+1798,1978,Friday the 13th Part V: A New Beginning  ,Horror,2
+1799,1979,Friday the 13th Part VI: Jason Lives  ,Horror,2
+1800,1980,Friday the 13th Part VII: The New Blood  ,Horror,2
+1801,1981,Friday the 13th Part VIII: Jason Takes Manhattan  ,Horror,2
+1802,1982,Halloween  ,Horror,4
+1803,1983,Halloween II  ,Horror,3
+1804,1984,Halloween III: Season of the Witch  ,Horror,2
+1805,1985,Halloween 4: The Return of Michael Myers  ,Horror,2
+1806,1986,Halloween 5: The Revenge of Michael Myers  ,Horror,2
+1807,1987,Prom Night  ,Horror,2
+1808,1988,Hello Mary Lou: Prom Night II  ,Horror,2
+1809,1989,Prom Night III: The Last Kiss  ,Horror,1
+1810,1990,Prom Night IV: Deliver Us From Evil  ,Horror,2
+1811,1991,Child's Play  ,Horror,3
+1812,1992,Child's Play 2  ,Horror,2
+1813,1993,Child's Play 3  ,Horror,2
+1814,1994,Poltergeist  ,"Horror,Thriller",4
+1815,1995,Poltergeist II: The Other Side  ,"Horror,Thriller",2
+1816,1996,Poltergeist III  ,"Horror,Thriller",2
+1817,1997,Exorcist,Horror,4
+1818,1998,Exorcist II: The Heretic  ,Horror,2
+1819,1999,Exorcist III,Horror,3
+1820,2000,Lethal Weapon  ,"Action,Comedy,Crime",4
+1821,2001,Lethal Weapon 2  ,"Action,Comedy,Crime",4
+1822,2002,Lethal Weapon 3  ,"Action,Comedy,Crime",3
+1823,2003,Gremlins  ,"Comedy,Horror",3
+1824,2004,Gremlins 2: The New Batch  ,"Comedy,Horror",3
+1825,2005,Goonies,"Adventure,Children",3
+1826,2006,Mask of Zorro,"Action,Adventure",4
+1827,2007,Polish Wedding  ,Comedy,3
+1828,2008,This World,"Crime,Drama",3
+1829,2009,Soylent Green  ,"SciFi,Thriller",4
+1830,2010,Metropolis  ,SciFi,4
+1831,2011,Back to the Future Part II  ,"Comedy,SciFi",3
+1832,2012,Back to the Future Part III  ,"Comedy,SciFi,Western",3
+1833,2013,PoseidonAdventure,"Action,Adventure",3
+1834,2014,Freaky Friday  ,"Children,Comedy",3
+1835,2015,Absent Minded Professor,"Children,Comedy",3
+1836,2016,Apple Dumpling Gang Rides Again,"Children,Comedy",3
+1837,2017,Babes in Toyland  ,"Children,Fantasy,Musical",3
+1838,2018,Bambi  ,"Animation,Children",4
+1839,2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai)  ,"Action,Drama",5
+1840,2020,Dangerous Liaisons  ,"Drama,Romance",4
+1841,2021,Dune  ,"Fantasy,SciFi",3
+1842,2022,Last Temptation of Christ,Drama,4
+1843,2023,Godfather: Part III,"Action,Crime",3
+1844,2024,Rapture,"Drama,Mystery",3
+1845,2025,Lolita  ,"Drama,Romance",3
+1846,2026,Disturbing Behavior  ,"Horror,Thriller",3
+1847,2027,Mafia!  ,"Comedy,Crime",2
+1848,2028,Saving Private Ryan  ,"Action,Drama,War",4
+1849,2029,Billy's Hollywood Screen Kiss  ,"Comedy,Romance",4
+1850,2031,$1,",,Children",3
+1851,2032,Barefoot Executive,"Children,Comedy",3
+1852,2033,Black Cauldron,"Animation,Children",3
+1853,2034,Black Hole,SciFi,3
+1854,2035,Blackbeard's Ghost  ,"Children,Comedy",3
+1855,2036,Blank Check  ,"Children,Comedy",2
+1856,2037,Candleshoe  ,"Adventure,Children,Comedy",4
+1857,2038,Cat from Outer Space,"Children,Comedy",3
+1858,2039,Cheetah  ,"Adventure,Children",1
+1859,2040,Computer Wore Tennis Shoes,"Children,Comedy",3
+1860,2041,Condorman  ,"Action,Adventure,Children",3
+1861,2042,D2: The Mighty Ducks  ,"Children,Comedy",3
+1862,2043,Darby O'Gill and the Little People  ,"Adventure,Children,Fantasy",3
+1863,2044,Devil and Max Devlin,Comedy,3
+1864,2045,Far Off Place,"Adventure,Children,Romance",3
+1865,2046,Flight of the Navigator  ,"Adventure,Children,SciFi",3
+1866,2047,Gnome-Mobile,Children,3
+1867,2048,Great Mouse Detective,"Animation,Children",3
+1868,2049,Happiest Millionaire,"Comedy,Musical",3
+1869,2050,Herbie Goes Bananas  ,"Adventure,Children,Comedy",3
+1870,2051,Herbie Goes to Monte Carlo  ,"Adventure,Children,Comedy",3
+1871,2052,Hocus Pocus  ,"Children,Comedy",3
+1872,2053,Honey,"Children,Comedy",2
+1873,2054,Honey,"Adventure,Children,Fantasy,SciFi",3
+1874,2055,Hot Lead and Cold Feet  ,"Comedy,Western",3
+1875,2056,In Search of the Castaways  ,"Adventure,Children",4
+1876,2057,Incredible Journey,"Adventure,Children",3
+1877,2058,Negotiator,"Action,Thriller",4
+1878,2059,Parent Trap,"Children,Drama",3
+1879,2060,BASEketball  ,Comedy,3
+1880,2061,Full Tilt Boogie  ,Documentary,4
+1881,2062,Governess,"Drama,Romance",3
+1882,2063,Seventh Heaven (Le Septième ciel)  ,"Drama,Romance",2
+1883,2064,Roger & Me  ,"Comedy,Documentary",4
+1884,2065,Purple Rose of Cairo,"Comedy,Drama",4
+1885,2066,Out of the Past  ,Noir,4
+1886,2067,Doctor Zhivago  ,"Drama,Romance,War",4
+1887,2068,Fanny and Alexander  ,Drama,4
+1888,2069,Trip to Bountiful,Drama,4
+1889,2070,Tender Mercies  ,Drama,4
+1890,2071,And the Band Played On  ,Drama,4
+1891,2072,'burbs,Comedy,3
+1892,2073,Fandango  ,Comedy,4
+1893,2074,Night Porter,Drama,4
+1894,2075,Mephisto  ,"Drama,War",4
+1895,2076,Blue Velvet  ,"Drama,Mystery",4
+1896,2077,Journey of Natty Gann,"Adventure,Children",3
+1897,2078,Jungle Book,"Animation,Children,Musical",4
+1898,2079,Kidnapped  ,"Children,Drama",4
+1899,2080,Lady and the Tramp  ,"Animation,Children,Comedy,Romance",4
+1900,2081,Little Mermaid,"Animation,Children,Musical,Romance",4
+1901,2082,Mighty Ducks,"Children,Comedy",3
+1902,2083,Muppet Christmas Carol,"Children,Musical",4
+1903,2084,Newsies  ,"Children,Musical",3
+1904,2085,101 Dalmatians  ,"Animation,Children",4
+1905,2086,One Magic Christmas  ,"Drama,Fantasy",4
+1906,2087,Peter Pan  ,"Animation,Children,Fantasy",4
+1907,2088,Popeye  ,"Adventure,Comedy,Musical",3
+1908,2089,Rescuers Down Under,"Animation,Children",3
+1909,2090,Rescuers,"Animation,Children",3
+1910,2091,Return from Witch Mountain  ,"Children,SciFi",3
+1911,2092,Return of Jafar,"Animation,Children",2
+1912,2093,Return to Oz  ,"Adventure,Children,Fantasy",3
+1913,2094,Rocketeer,"Action,Adventure",3
+1914,2095,Shaggy D.A.,"Children,Comedy",3
+1915,2096,Sleeping Beauty  ,"Animation,Children,Musical",4
+1916,2097,Something Wicked This Way Comes  ,"Children,Horror",3
+1917,2098,Son of Flubber  ,"Children,Comedy",3
+1918,2099,Song of the South  ,"Adventure,Animation,Children",4
+1919,2100,Splash  ,"Comedy,Fantasy,Romance",3
+1920,2101,Squanto: AWarrior's Tale  ,"Adventure,Drama",4
+1921,2102,Steamboat Willie  ,"Animation,Children,Comedy",3
+1922,2103,Tall Tale  ,"Adventure,Children",3
+1923,2104,Tex  ,Drama,3
+1924,2105,Tron  ,"Action,Adventure,Fantasy",3
+1925,2106,Swing Kids  ,"Drama,War",3
+1926,2107,Halloween: H20  ,"Horror,Thriller",3
+1927,2108,L.A. Story  ,"Comedy,Romance",4
+1928,2109,Jerk,Comedy,4
+1929,2110,Dead Men Don't Wear Plaid  ,"Comedy,Crime,Thriller",3
+1930,2111,Man with Two Brains,Comedy,3
+1931,2112,Grand Canyon  ,"Crime,Drama",3
+1932,2113,Graveyard Shift  ,"Horror,Thriller",2
+1933,2114,Outsiders,Drama,4
+1934,2115,Indiana Jones and the Temple of Doom  ,"Action,Adventure",4
+1935,2116,Lord of the Rings,"Adventure,Animation,SciFi",3
+1936,2117,Nineteen Eighty-Four  ,"Drama,SciFi",4
+1937,2118,Dead Zone,"Horror,Thriller",4
+1938,2119,Maximum Overdrive  ,Horror,2
+1939,2120,Needful Things  ,"Drama,Horror",3
+1940,2121,Cujo  ,"Horror,Thriller",3
+1941,2122,Children of the Corn  ,"Horror,Thriller",2
+1942,2123,All Dogs Go to Heaven  ,"Animation,Children",3
+1943,2124,Addams Family,Comedy,3
+1944,2125,Ever After: A Cinderella Story  ,"Drama,Romance",4
+1945,2126,Snake Eyes  ,"Action,Crime,Mystery",3
+1946,2127,First Love,"Drama,Romance",4
+1947,2128,Safe Men  ,Comedy,3
+1948,2129,Saltmen of Tibet,Documentary,4
+1949,2130,Atlantic City  ,"Crime,Drama,Romance",4
+1950,2131,Autumn Sonata (Höstsonaten )  ,Drama,4
+1951,2132,Who's Afraid of Virginia Woolf?  ,Drama,4
+1952,2133,Adventures in Babysitting  ,"Adventure,Comedy",3
+1953,2134,Weird Science  ,Comedy,3
+1954,2135,Doctor Dolittle  ,"Adventure,Musical",3
+1955,2136,Nutty Professor,Comedy,3
+1956,2137,Charlotte's Web  ,"Animation,Children",4
+1957,2138,Watership Down  ,"Animation,Children,Drama",4
+1958,2139,Secret of NIMH,"Animation,Children",4
+1959,2140,Dark Crystal,"Children,Fantasy",4
+1960,2141,American Tail,"Animation,Children",3
+1961,2142,American Tail: Fievel Goes West,"Animation,Children",3
+1962,2143,Legend  ,"Adventure,Fantasy,Romance",3
+1963,2144,Sixteen Candles  ,Comedy,4
+1964,2145,Pretty in Pink  ,"Comedy,Drama,Romance",3
+1965,2146,St. Elmo's Fire  ,"Drama,Romance",3
+1966,2147,Clan of the Cave Bear,Drama,3
+1967,2148,House  ,"Comedy,Horror",3
+1968,2149,House II: The Second Story  ,"Comedy,Horror",2
+1969,2150,Gods Must Be Crazy,Comedy,4
+1970,2151,Gods Must Be Crazy II,Comedy,3
+1971,2152,Air Bud: Golden Receiver  ,"Children,Comedy",2
+1972,2153,Avengers,"Action,Adventure",2
+1973,2154,How Stella Got Her Groove Back  ,"Drama,Romance",3
+1974,2155,Slums of Beverly Hills,Comedy,3
+1975,2156,Best Man,"Comedy,Drama",4
+1976,2157,Chambermaid on the Titanic,Romance,3
+1977,2158,Henry: Portrait of a Serial Killer,"Crime,Horror",3
+1978,2159,Henry: Portrait of a Serial Killer  ,"Crime,Horror",3
+1979,2160,Rosemary's Baby  ,"Horror,Thriller",4
+1980,2161,NeverEnding Story,"Adventure,Children",4
+1981,2162,NeverEnding Story II: The Next Chapter,"Adventure,Children",2
+1982,2163,Attack of the Killer Tomatoes!  ,"Comedy,Horror",3
+1983,2164,Surf Nazis Must Die  ,Drama,2
+1984,2165,Your Friends and Neighbors  ,Drama,3
+1985,2166,Return to Paradise  ,"Drama,Romance",4
+1986,2167,Blade  ,"Action,Adventure,Horror",3
+1987,2168,Dance with Me  ,"Drama,Romance",3
+1988,2169,Dead Man on Campus  ,Comedy,3
+1989,2170,Wrongfully Accused  ,"Action,Comedy",3
+1990,2171,Next Stop,"Comedy,Drama",4
+1991,2172,Strike! (a.k.a. All I Wanna Do,Comedy,3
+1992,2173,Navigator: A Mediaeval Odyssey,"Adventure,Fantasy",4
+1993,2174,Beetlejuice  ,"Comedy,Fantasy",4
+1994,2175,Déjà Vu  ,"Drama,Romance",4
+1995,2176,Rope  ,Thriller,4
+1996,2177,Family Plot  ,"Comedy,Thriller",3
+1997,2178,Frenzy  ,Thriller,4
+1998,2179,Topaz  ,Thriller,3
+1999,2180,Torn Curtain  ,Thriller,3
+2000,2181,Marnie  ,Thriller,4
+2001,2182,Wrong Man,"Drama,Noir",4
+2002,2183,Man Who Knew Too Much,Thriller,4
+2003,2184,Trouble with Harry,"Mystery,Thriller",4
+2004,2185,I Confess  ,Thriller,4
+2005,2186,Strangers on a Train  ,"Noir,Thriller",4
+2006,2187,Stage Fright  ,"Mystery,Thriller",4
+2007,2188,54,Drama,3
+2008,2189,I Married A Strange Person  ,Animation,4
+2009,2190,Why Do Fools Fall In Love?  ,Drama,3
+2010,2191,MerryWar,Comedy,3
+2011,2192,See the Sea (Regarde la mer)  ,Drama,3
+2012,2193,Willow  ,"Action,Adventure,Fantasy",3
+2013,2194,Untouchables,"Action,Crime",4
+2014,2195,Dirty Work  ,Comedy,3
+2015,2196,Knock Off  ,Action,2
+2016,2197,Firelight  ,Drama,4
+2017,2198,Modulations  ,Documentary,4
+2018,2200,Under Capricorn  ,Drama,2
+2019,2201,Paradine Case,Drama,3
+2020,2202,Lifeboat  ,"Drama,Thriller,War",4
+2021,2203,Shadow of a Doubt  ,"Noir,Thriller",4
+2022,2204,Saboteur  ,Thriller,4
+2023,2205,Mr. & Mrs. Smith  ,Comedy,4
+2024,2206,Suspicion  ,"Mystery,Thriller",4
+2025,2207,Jamaica Inn  ,Drama,3
+2026,2208,Lady Vanishes,"Comedy,Mystery,Thriller",4
+2027,2209,Young and Innocent  ,"Crime,Thriller",3
+2028,2210,Sabotage  ,Thriller,4
+2029,2211,Secret Agent  ,Thriller,4
+2030,2212,Man Who Knew Too Much,Thriller,4
+2031,2213,Waltzes from Vienna  ,"Comedy,Musical",1
+2032,2214,Number Seventeen  ,Thriller,3
+2033,2215,Rich and Strange  ,"Comedy,Romance",4
+2034,2217,Elstree Calling  ,"Comedy,Musical",1
+2035,2218,Juno and Paycock  ,Drama,2
+2036,2219,Murder!  ,"Mystery,Thriller",3
+2037,2221,Blackmail  ,Thriller,3
+2038,2223,Farmer's Wife,Comedy,3
+2039,2226,Ring,Drama,3
+2040,2227,Lodger,Thriller,4
+2041,2231,Rounders  ,"Crime,Drama",4
+2042,2232,Cube  ,"SciFi,Thriller",3
+2043,2233,Digging to China  ,Drama,2
+2044,2234,Let's Talk About Sex  ,Drama,2
+2045,2235,One Man's Hero  ,"Drama,War",2
+2046,2236,Simon Birch  ,Drama,4
+2047,2237,Without Limits  ,Drama,4
+2048,2238,Seven Beauties (Pasqualino Settebellezze)  ,"Comedy,Drama",4
+2049,2239,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto)  ,"Comedy,Drama",4
+2050,2240,My Bodyguard  ,Drama,4
+2051,2241,Class  ,Comedy,3
+2052,2242,Grandview,Drama,2
+2053,2243,Broadcast News  ,"Comedy,Drama,Romance",4
+2054,2244,Allnighter,"Comedy,Romance",2
+2055,2245,Working Girl  ,"Comedy,Drama",3
+2056,2246,Stars and Bars  ,Comedy,3
+2057,2247,Married to the Mob  ,Comedy,3
+2058,2248,Say Anything...  ,"Comedy,Drama,Romance",4
+2059,2249,My Blue Heaven  ,Comedy,3
+2060,2250,Men Don't Leave  ,Drama,3
+2061,2251,Cabinet of Dr. Ramirez,Comedy,4
+2062,2252,Hero  ,"Comedy,Drama",3
+2063,2253,Toys  ,"Action,Comedy,Fantasy",3
+2064,2254,Choices  ,Drama,2
+2065,2255,Young Doctors in Love  ,Comedy,3
+2066,2256,Parasite  ,"Horror,SciFi",2
+2067,2257,No Small Affair  ,"Comedy,Romance",3
+2068,2258,Master Ninja I  ,Action,3
+2069,2259,Blame It on Rio  ,"Comedy,Romance",3
+2070,2260,Wisdom  ,"Action,Crime",3
+2071,2261,One Crazy Summer  ,Comedy,3
+2072,2262,About Last Night...  ,"Comedy,Drama,Romance",3
+2073,2263,Seventh Sign,Thriller,3
+2074,2264,We're No Angels  ,Drama,3
+2075,2265,Nothing But Trouble  ,"Adventure,Comedy",2
+2076,2266,Butcher's Wife,"Comedy,Romance",3
+2077,2267,Mortal Thoughts  ,"Mystery,Thriller",3
+2078,2268,Few Good Men,"Crime,Drama",4
+2079,2269,Indecent Proposal  ,Drama,3
+2080,2271,Permanent Midnight  ,Drama,3
+2081,2272,One True Thing  ,Drama,3
+2082,2273,Rush Hour  ,"Action,Thriller",4
+2083,2275,Six-String Samurai  ,"Action,Adventure,SciFi",3
+2084,2276,Soldier's Daughter Never Cries,Drama,4
+2085,2277,Somewhere in the City  ,Drama,2
+2086,2278,Ronin  ,"Action,Crime,Thriller",4
+2087,2279,Urban Legend  ,"Horror,Thriller",3
+2088,2280,Clay Pigeons  ,Crime,3
+2089,2281,Monument Ave.  ,Crime,3
+2090,2282,Pecker  ,"Comedy,Drama",4
+2091,2283,Sheltering Sky,Drama,3
+2092,2284,Bandit Queen  ,Drama,4
+2093,2285,If....  ,Drama,4
+2094,2286,Fiendish Plot of Dr. Fu Manchu,Comedy,3
+2095,2287,Them!  ,"SciFi,Thriller,War",3
+2096,2288,Thing,"Action,Horror,Thriller",4
+2097,2289,Player,"Comedy,Drama",4
+2098,2290,Stardust Memories  ,"Comedy,Drama",3
+2099,2291,Edward Scissorhands  ,"Drama,Romance",4
+2100,2292,Overnight Delivery  ,Romance,2
+2101,2293,Shadrach  ,Drama,3
+2102,2294,Antz  ,"Animation,Children",3
+2103,2295,Impostors,Comedy,4
+2104,2296,Night at the Roxbury,Comedy,2
+2105,2297,What Dreams May Come  ,"Drama,Romance",3
+2106,2298,Strangeland  ,Thriller,2
+2107,2299,Battle of the Sexes,Comedy,4
+2108,2300,Producers,"Comedy,Musical",4
+2109,2301,History of the World: Part I  ,Comedy,4
+2110,2302,My Cousin Vinny  ,Comedy,4
+2111,2303,Nashville  ,"Drama,Musical",4
+2112,2304,Love Is the Devil  ,Drama,4
+2113,2305,Slam  ,Drama,3
+2114,2306,Holy Man  ,Comedy,2
+2115,2307,One Tough Cop  ,"Action,Drama",3
+2116,2308,Detroit 9000  ,"Action,Crime",2
+2117,2309,Inheritors,Drama,4
+2118,2310,Mighty,Drama,4
+2119,2311,2010,"Mystery,SciFi",3
+2120,2312,Children of a Lesser God  ,Drama,4
+2121,2313,Elephant Man,Drama,4
+2122,2314,Beloved  ,Drama,3
+2123,2315,Bride of Chucky  ,"Horror,Thriller",2
+2124,2316,Practical Magic  ,"Drama,Romance",3
+2125,2317,Alarmist,Comedy,3
+2126,2318,Happiness  ,Comedy,4
+2127,2320,Apt Pupil  ,"Drama,Thriller",3
+2128,2321,Pleasantville  ,Comedy,4
+2129,2322,Soldier  ,"Action,Adventure,SciFi,War",3
+2130,2323,Cruise,Documentary,4
+2131,2324,Life Is Beautiful (La Vita è bella)  ,"Comedy,Drama",4
+2132,2325,Orgazmo  ,Comedy,3
+2133,2326,Shattered Image  ,"Drama,Thriller",3
+2134,2327,Tales from the Darkside: The Movie  ,Horror,3
+2135,2328,Vampires  ,Horror,3
+2136,2329,American History X  ,Drama,4
+2137,2330,Hands on a Hard Body  ,Documentary,4
+2138,2331,Living Out Loud  ,"Comedy,Romance",3
+2139,2332,Belly  ,"Crime,Drama",3
+2140,2333,Gods and Monsters  ,Drama,4
+2141,2334,Siege,"Action,Thriller",3
+2142,2335,Waterboy,Comedy,3
+2143,2336,Elizabeth  ,Drama,4
+2144,2337,Velvet Goldmine  ,Drama,3
+2145,2338,I Still Know What You Did Last Summer  ,"Horror,Mystery,Thriller",2
+2146,2339,I'll Be Home For Christmas  ,"Comedy,Romance",3
+2147,2340,Meet Joe Black  ,Romance,3
+2148,2341,Dancing at Lughnasa  ,Drama,3
+2149,2342,Hard Core Logo  ,Comedy,4
+2150,2343,Naked Man,Drama,2
+2151,2344,Runaway Train  ,"Action,Adventure,Drama",3
+2152,2345,Desert Bloom  ,Drama,3
+2153,2346,Stepford Wives,"SciFi,Thriller",3
+2154,2347,Pope of Greenwich Village,Action,4
+2155,2348,Sid and Nancy  ,Drama,4
+2156,2349,Mona Lisa  ,"Comedy,Thriller",4
+2157,2350,Heart Condition  ,Comedy,3
+2158,2351,Nights of Cabiria (Le Notti di Cabiria)  ,Drama,4
+2159,2352,Big Chill,"Comedy,Drama",4
+2160,2353,Enemy of the State  ,"Action,Thriller",4
+2161,2354,Rugrats Movie,"Animation,Children",3
+2162,2355,Bug's Life,"Animation,Children",4
+2163,2356,Celebrity  ,Comedy,3
+2164,2357,Central Station (Central do Brasil)  ,Drama,4
+2165,2358,Savior  ,Drama,4
+2166,2359,Waking Ned Devine  ,Comedy,4
+2167,2360,Celebration,Drama,4
+2168,2361,Pink Flamingos  ,Comedy,3
+2169,2362,Glen or Glenda  ,Drama,3
+2170,2363,Godzilla (Gojira)  ,"Action,SciFi",3
+2171,2364,Godzilla (Gojira)  ,"Action,SciFi",3
+2172,2365,King Kong vs. Godzilla (Kingukongu tai Gojira)  ,"Action,SciFi",3
+2173,2366,King Kong  ,"Action,Adventure,Horror",4
+2174,2367,King Kong  ,"Action,Adventure,Horror",3
+2175,2368,King Kong Lives  ,"Action,Adventure,Horror",2
+2176,2369,Desperately Seeking Susan  ,"Comedy,Romance",3
+2177,2370,Emerald Forest,"Action,Adventure",4
+2178,2371,Fletch  ,Comedy,4
+2179,2372,Fletch Lives  ,Comedy,3
+2180,2373,Red Sonja  ,"Action,Adventure",2
+2181,2374,Gung Ho  ,"Comedy,Drama",3
+2182,2375,Money Pit,Comedy,3
+2183,2376,View to a Kill,Action,3
+2184,2377,Lifeforce  ,"Horror,SciFi",3
+2185,2378,Police Academy  ,Comedy,3
+2186,2379,Police Academy 2: Their First Assignment  ,Comedy,2
+2187,2380,Police Academy 3: Back in Training  ,Comedy,2
+2188,2381,Police Academy 4: Citizens on Patrol  ,Comedy,2
+2189,2382,Police Academy 5: Assignment: Miami Beach  ,Comedy,2
+2190,2383,Police Academy 6: City Under Siege  ,Comedy,2
+2191,2384,Babe: Pig in the City  ,"Children,Comedy",3
+2192,2385,Home Fries  ,"Comedy,Romance",3
+2193,2386,Jerry Springer: Ringmaster  ,Drama,2
+2194,2387,Very Bad Things  ,"Comedy,Crime",3
+2195,2388,Steam: The Turkish Bath (Hamam)  ,"Drama,Romance",3
+2196,2389,Psycho  ,"Crime,Horror,Thriller",3
+2197,2390,Little Voice  ,Comedy,4
+2198,2391,Simple Plan,"Crime,Thriller",4
+2199,2392,Jack Frost  ,"Comedy,Drama",2
+2200,2393,Star Trek: Insurrection  ,"Action,SciFi",3
+2201,2394,Prince of Egypt,"Animation,Musical",4
+2202,2395,Rushmore  ,Comedy,4
+2203,2396,Shakespeare in Love  ,"Comedy,Romance",4
+2204,2397,Mass Appeal  ,Drama,3
+2205,2398,Miracle on 34th Street  ,Drama,4
+2206,2399,Santa Claus: The Movie  ,"Adventure,Children,Fantasy",3
+2207,2400,Prancer  ,"Children,Drama",3
+2208,2401,Pale Rider  ,Western,4
+2209,2402,Rambo: First Blood Part II  ,"Action,War",3
+2210,2403,First Blood  ,Action,4
+2211,2404,Rambo III  ,"Action,War",2
+2212,2405,Jewel of the Nile,"Action,Adventure,Romance",3
+2213,2406,Romancing the Stone  ,"Action,Adventure,Comedy",4
+2214,2407,Cocoon  ,"Comedy,SciFi",4
+2215,2408,Cocoon: The Return  ,"Comedy,SciFi",3
+2216,2409,Rocky II  ,"Action,Drama",3
+2217,2410,Rocky III  ,"Action,Drama",3
+2218,2411,Rocky IV  ,"Action,Drama",3
+2219,2412,Rocky V  ,"Action,Drama",2
+2220,2413,Clue  ,"Comedy,Mystery",3
+2221,2414,Young Sherlock Holmes  ,"Action,Adventure,Mystery",3
+2222,2415,Violets Are Blue...  ,"Drama,Romance",3
+2223,2416,Back to School  ,Comedy,3
+2224,2417,Heartburn  ,"Comedy,Drama",3
+2225,2418,Nothing in Common  ,Comedy,3
+2226,2419,Extremities  ,"Drama,Thriller",3
+2227,2420,Karate Kid,Drama,3
+2228,2421,Karate Kid,",,Action,Drama",3
+2229,2422,Karate Kid III,"Action,Adventure",2
+2230,2423,Christmas Vacation  ,Comedy,4
+2231,2424,You've Got Mail  ,"Comedy,Romance",3
+2232,2425,General,Crime,4
+2233,2426,Theory of Flight,"Comedy,Drama",3
+2234,2427,Thin Red Line,"Action,Drama",3
+2235,2428,Faculty,"Horror,SciFi",3
+2236,2429,Mighty Joe Young  ,"Adventure,Children,Drama",3
+2237,2430,Mighty Joe Young  ,"Adventure,Children,Drama",3
+2238,2431,Patch Adams  ,"Comedy,Drama",3
+2239,2432,Stepmom  ,Drama,3
+2240,2433,CivilAction,Drama,3
+2241,2434,Down in the Delta  ,Drama,4
+2242,2435,Hurlyburly  ,Drama,3
+2243,2436,Tea with Mussolini  ,Comedy,4
+2244,2437,Wilde  ,Drama,4
+2245,2438,Outside Ozona  ,"Drama,Thriller",4
+2246,2439,Affliction  ,Drama,4
+2247,2440,Another Day in Paradise  ,Drama,3
+2248,2441,Hi-Lo Country,"Drama,Western",3
+2249,2442,Hilary and Jackie  ,Drama,4
+2250,2443,Playing by Heart  ,"Drama,Romance",4
+2251,2444,24 7: Twenty Four Seven  ,"Comedy,Drama",4
+2252,2445,At First Sight  ,Drama,3
+2253,2446,In Dreams  ,Thriller,3
+2254,2447,Varsity Blues  ,"Comedy,Drama",3
+2255,2448,Virus  ,"Horror,SciFi",2
+2256,2449,Garbage Pail Kids Movie,"Adventure,Children",2
+2257,2450,Howard the Duck  ,"Adventure,Children,SciFi",2
+2258,2451,Gate,Horror,3
+2259,2452,Gate II: Trespassers,Horror,2
+2260,2453,Boy Who Could Fly,"Drama,Fantasy",3
+2261,2454,Fly,"Horror,SciFi",3
+2262,2455,Fly,"Horror,SciFi",3
+2263,2456,Fly II,"Horror,SciFi",2
+2264,2457,Running Scared  ,"Action,Comedy",3
+2265,2458,Armed and Dangerous  ,"Comedy,Crime",2
+2266,2459,Texas Chainsaw Massacre,Horror,3
+2267,2460,Texas Chainsaw Massacre 2,Horror,2
+2268,2461,Leatherface: Texas Chainsaw Massacre III  ,Horror,2
+2269,2462,Return of the Texas Chainsaw Massacre,Horror,2
+2270,2463,Ruthless People  ,Comedy,3
+2271,2464,Trick or Treat  ,Horror,3
+2272,2465,Deadly Friend  ,Horror,2
+2273,2466,Belizaire the Cajun  ,Drama,3
+2274,2467,Name of the Rose,Mystery,4
+2275,2468,Jumpin' Jack Flash  ,"Action,Comedy,Romance",3
+2276,2469,Peggy Sue Got Married  ,"Comedy,Romance",3
+2277,2470,Crocodile Dundee  ,"Adventure,Comedy",3
+2278,2471,Crocodile Dundee II  ,"Adventure,Comedy",3
+2279,2472,Tough Guys  ,Comedy,3
+2280,2473,Soul Man  ,Comedy,2
+2281,2474,Color of Money,Drama,3
+2282,2475,52 Pick-Up  ,"Action,Mystery,Thriller",3
+2283,2476,Heartbreak Ridge  ,"Action,War",3
+2284,2477,Firewalker  ,Adventure,2
+2285,2478,Three Amigos!  ,"Comedy,Western",3
+2286,2479,Gloria  ,"Drama,Thriller",2
+2287,2480,Dry Cleaning (Nettoyage à sec)  ,Drama,4
+2288,2481,My Name Is Joe  ,"Drama,Romance",4
+2289,2482,Still Crazy  ,"Comedy,Romance",3
+2290,2483,Day of the Beast,"Comedy,Horror",3
+2291,2484,Tinseltown  ,Comedy,2
+2292,2485,She's All That  ,"Comedy,Romance",3
+2293,2486,24-hour Woman  ,Drama,2
+2294,2487,Blood,", ,Action",2
+2295,2488,Peeping Tom  ,"Drama,Horror,Thriller",4
+2296,2490,Payback  ,"Action,Thriller",4
+2297,2491,Simply Irresistible  ,"Comedy,Romance",3
+2298,2492,20 Dates  ,Comedy,3
+2299,2493,Harmonists,Drama,4
+2300,2494,Last Days,Documentary,4
+2301,2495,Fantastic Planet,"Animation,SciFi",4
+2302,2496,Blast from the Past  ,"Comedy,Romance",3
+2303,2497,Message in a Bottle  ,Romance,3
+2304,2498,My Favorite Martian  ,"Comedy,SciFi",2
+2305,2499,God Said 'Ha!'  ,Comedy,4
+2306,2500,Jawbreaker  ,Comedy,3
+2307,2501,October Sky  ,Drama,4
+2308,2502,Office Space  ,"Comedy,Romance",4
+2309,2503,Apple,Drama,5
+2310,2504,200 Cigarettes  ,"Comedy,Drama",3
+2311,2505,8MM  ,Thriller,3
+2312,2506,Other Sister,"Comedy,Drama",3
+2313,2507,Breakfast of Champions  ,Comedy,3
+2314,2509,Eight Days a Week  ,Comedy,3
+2315,2510,Just the Ticket  ,"Comedy,Romance",4
+2316,2511,Long Goodbye,Crime,4
+2317,2512,Ballad of Narayama,Drama,4
+2318,2513,Pet Sematary  ,Horror,3
+2319,2514,Pet Sematary II  ,Horror,2
+2320,2515,Children of the Corn II: The Final Sacrifice  ,Horror,2
+2321,2516,Children of the Corn III  ,Horror,2
+2322,2517,Christine  ,Horror,3
+2323,2518,Night Shift  ,Comedy,3
+2324,2519,House on Haunted Hill  ,Horror,3
+2325,2520,Airport  ,Drama,3
+2326,2521,Airport 1975  ,Drama,3
+2327,2522,Airport '77  ,Drama,2
+2328,2523,Rollercoaster  ,"Drama,Thriller",2
+2329,2524,Towering Inferno,"Action,Drama",3
+2330,2525,Alligator  ,"Action,Horror,SciFi",2
+2331,2526,Meteor  ,SciFi,2
+2332,2527,Westworld  ,"Action,SciFi,Thriller",3
+2333,2528,Logan's Run  ,"Action,Adventure,SciFi",3
+2334,2529,Planet of the Apes  ,"Action,SciFi",4
+2335,2530,Beneath the Planet of the Apes  ,"Action,SciFi",3
+2336,2531,Battle for the Planet of the Apes  ,"Action,SciFi",3
+2337,2532,Conquest of the Planet of the Apes  ,"Action,SciFi",3
+2338,2533,Escape from the Planet of the Apes  ,"Action,SciFi",3
+2339,2534,Avalanche  ,Action,3
+2340,2535,Earthquake  ,Action,3
+2341,2536,Concorde: Airport '79,Drama,2
+2342,2537,Beyond the PoseidonAdventure ,Adventure,2
+2343,2538,Dancemaker  ,Documentary,4
+2344,2539,Analyze This  ,Comedy,3
+2345,2540,Corruptor,"Action,Crime,Thriller",3
+2346,2541,Cruel Intentions  ,Drama,3
+2347,2542,Lock,"Comedy,Crime",4
+2348,2543,Six Ways to Sunday  ,Comedy,4
+2349,2544,School of Flesh,Drama,3
+2350,2545,Relax... It's Just Sex  ,Comedy,3
+2351,2546,Deep End of the Ocean,Drama,3
+2352,2548,Rage: Carrie 2,Horror,2
+2353,2549,Wing Commander  ,"Action,SciFi",2
+2354,2550,Haunting,"Horror,Thriller",4
+2355,2551,Dead Ringers  ,"Drama,Thriller",3
+2356,2552,My Boyfriend's Back  ,Comedy,2
+2357,2553,Village of the Damned  ,"Horror,SciFi,Thriller",3
+2358,2554,Children of the Damned  ,"Horror,SciFi,Thriller",3
+2359,2555,Baby Geniuses  ,Comedy,2
+2360,2556,Telling You  ,"Comedy,Drama,Romance",3
+2361,2557,I Stand Alone (Seul contre tous)  ,Drama,3
+2362,2558,Forces of Nature  ,"Comedy,Romance",3
+2363,2559,King and I,"Animation,Children",3
+2364,2560,Ravenous  ,"Drama,Horror",3
+2365,2561,TrueCrime,"Crime,Thriller",3
+2366,2562,Bandits  ,Drama,4
+2367,2563,Beauty  ,Drama,3
+2368,2565,King and I,Musical,4
+2369,2566,Doug's 1st Movie  ,"Animation,Children",2
+2370,2567,EDtv  ,Comedy,3
+2371,2568,Mod Squad,"Action,Crime",2
+2372,2569,Among Giants  ,"Drama,Romance",4
+2373,2570,Walk on the Moon,"Drama,Romance",4
+2374,2571,Matrix,"Action,SciFi",4
+2375,2572,10 Things I Hate About You  ,"Comedy,Romance",3
+2376,2573,Tango  ,Drama,3
+2377,2574,Out-of-Towners,Comedy,3
+2378,2575,Dreamlife of Angels,Drama,4
+2379,2576,Love,Drama,2
+2380,2577,Metroland  ,"Comedy,Drama",3
+2381,2578,Sticky Fingers of Time,SciFi,4
+2382,2579,Following  ,Drama,4
+2383,2580,Go  ,Crime,4
+2384,2581,Never Been Kissed  ,"Comedy,Romance",3
+2385,2582,Twin Dragons (Shuang long hui)  ,"Action,Comedy",3
+2386,2583,Cookie's Fortune  ,Mystery,4
+2387,2584,Foolish  ,Comedy,3
+2388,2585,Lovers of the Arctic Circle,"Drama,Romance",4
+2389,2586,Goodbye,"Comedy,Crime",3
+2390,2587,Life  ,Comedy,3
+2391,2589,Friends & Lovers  ,"Comedy,Drama,Romance",3
+2392,2590,Hideous Kinky  ,Drama,3
+2393,2591,Jeanne and the Perfect Guy (Jeanne et le garçon formidable)  ,"Comedy,Romance",2
+2394,2592,Joyriders,Drama,3
+2395,2593,Monster,Comedy,4
+2396,2594,Open Your Eyes (Abre los ojos)  ,"Drama,Romance,SciFi",4
+2397,2596,SLC Punk!  ,"Comedy,Drama",4
+2398,2597,Lost & Found  ,"Comedy,Romance",3
+2399,2598,Pushing Tin  ,Comedy,3
+2400,2599,Election  ,Comedy,4
+2401,2600,eXistenZ  ,"Action,SciFi,Thriller",3
+2402,2602,Mighty Peking Man (Hsing hsing wang)  ,"Adventure,SciFi",3
+2403,2605,Entrapment  ,"Crime,Thriller",3
+2404,2606,Idle Hands  ,"Comedy,Horror",3
+2405,2607,Get Real  ,Drama,4
+2406,2608,Heaven  ,Thriller,3
+2407,2609,King of Masks,Drama,4
+2408,2610,Three Seasons  ,Drama,4
+2409,2611,Winslow Boy,Drama,4
+2410,2612,Mildred Pierce  ,Drama,4
+2411,2613,Night of the Comet  ,"Action,Horror,SciFi",3
+2412,2614,Chopping Mall (a.k.a. Killbots)  ,"Action,Horror,SciFi",2
+2413,2615,My Science Project  ,"Adventure,SciFi",3
+2414,2616,Dick Tracy  ,"Action,Crime",3
+2415,2617,Mummy,"Action,Adventure,Thriller",3
+2416,2618,Castle,Comedy,4
+2417,2619,Mascara  ,Drama,3
+2418,2620,This Is My Father  ,"Drama,Romance",4
+2419,2621,Xiu Xiu: The Sent-Down Girl (Tian yu)  ,"Drama,Romance",4
+2420,2622,Midsummer Night's Dream,"Comedy,Fantasy",3
+2421,2623,Trippin'  ,Comedy,3
+2422,2624,After Life  ,Drama,4
+2423,2625,Black Mask (Hak hap)  ,Action,3
+2424,2626,Edge of Seventeen  ,"Comedy,Drama,Romance",4
+2425,2627,Endurance  ,"Documentary,Drama",3
+2426,2628,StarWars: Episode I - The Phantom Menace  ,"Action,Adventure,Fantasy",3
+2427,2629,Love Letter,"Comedy,Romance",3
+2428,2630,Besieged (L' Assedio)  ,Drama,4
+2429,2631,Frogs for Snakes  ,"Comedy,Noir,Thriller",2
+2430,2632,Saragossa Manuscript,Drama,3
+2431,2633,Mummy,"Horror,Romance",4
+2432,2634,Mummy,Horror,3
+2433,2635,Mummy's Curse,Horror,3
+2434,2636,Mummy's Ghost,Horror,2
+2435,2637,Mummy's Hand,Horror,3
+2436,2638,Mummy's Tomb,Horror,3
+2437,2639,Mommie Dearest  ,Drama,3
+2438,2640,Superman  ,"Action,Adventure,SciFi",4
+2439,2641,Superman II  ,"Action,Adventure,SciFi",3
+2440,2642,Superman III  ,"Action,Adventure,SciFi",2
+2441,2643,Superman IV: The Quest for Peace  ,"Action,Adventure,SciFi",2
+2442,2644,Dracula  ,Horror,4
+2443,2645,Dracula  ,Horror,3
+2444,2646,House of Dracula  ,Horror,3
+2445,2647,House of Frankenstein  ,Horror,3
+2446,2648,Frankenstein  ,Horror,4
+2447,2649,Son of Frankenstein  ,Horror,3
+2448,2650,Ghost of Frankenstein,Horror,3
+2449,2651,Frankenstein Meets the Wolf Man  ,Horror,3
+2450,2652,Curse of Frankenstein,Horror,3
+2451,2653,Son of Dracula  ,Horror,3
+2452,2654,Wolf Man,Horror,4
+2453,2655,Howling II: Your Sister Is a Werewolf  ,Horror,2
+2454,2656,Tarantula  ,"Horror,SciFi",3
+2455,2657,RockyHorrorPicture Show,"Comedy,Horror,SciFi",3
+2456,2658,Flying Saucer,SciFi,3
+2457,2659,It Came from Hollywood  ,"Comedy,Documentary",3
+2458,2660,Thing From Another World,SciFi,4
+2459,2661,It Came from Outer Space  ,SciFi,3
+2460,2662,Warof the Worlds,"Action,SciFi",4
+2461,2663,It Came from Beneath the Sea  ,SciFi,3
+2462,2664,Invasion of the Body Snatchers  ,"Horror,SciFi",4
+2463,2665,Earth Vs. the Flying Saucers  ,SciFi,3
+2464,2666,It Conquered the World  ,SciFi,3
+2465,2667,Mole People,SciFi,3
+2466,2668,Swamp Thing  ,"Horror,SciFi",3
+2467,2669,Pork Chop Hill  ,War,4
+2468,2670,Run Silent,War,4
+2469,2671,Notting Hill  ,"Comedy,Romance",4
+2470,2672,Thirteenth Floor,"Drama,SciFi",3
+2471,2673,Eternity and a Day (Mia eoniotita ke mia mera )  ,Drama,4
+2472,2674,Loss of Sexual Innocence,Drama,3
+2473,2675,Twice Upon a Yesterday  ,"Comedy,Drama,Romance",3
+2474,2676,Instinct  ,"Drama,Thriller",3
+2475,2677,Buena Vista Social Club  ,Documentary,4
+2476,2678,Desert Blue  ,Drama,3
+2477,2679,Finding North  ,"Drama,Romance",3
+2478,2681,Free Enterprise  ,"Comedy,Romance,SciFi",4
+2479,2682,Limbo  ,Drama,4
+2480,2683,Austin Powers: The Spy Who Shagged Me  ,Comedy,3
+2481,2685,Red Dwarf,"Comedy,Drama",3
+2482,2686,Red Violin,"Drama,Mystery",4
+2483,2687,Tarzan  ,"Animation,Children",4
+2484,2688,General's Daughter,"Drama,Thriller",3
+2485,2689,Get Bruce  ,Documentary,3
+2486,2690,Ideal Husband,Comedy,4
+2487,2691,Legend of 1900,Drama,3
+2488,2692,Run Lola Run (Lola rennt)  ,"Action,Crime,Romance",4
+2489,2693,Trekkies  ,Documentary,4
+2490,2694,Big Daddy  ,Comedy,3
+2491,2695,Boys,Drama,2
+2492,2696,Dinner Game,Comedy,4
+2493,2697,My Son the Fanatic  ,"Comedy,Drama,Romance",4
+2494,2699,Arachnophobia  ,"Action,Comedy,SciFi",3
+2495,2700,South Park: Bigger,"Animation,Comedy",4
+2496,2701,Wild Wild West  ,"Action,SciFi,Western",2
+2497,2702,Summer of Sam  ,Drama,3
+2498,2703,Broken Vessels  ,Drama,3
+2499,2704,Lovers on the Bridge,"Drama,Romance",3
+2500,2705,Late August,",,Drama",3
+2501,2706,American Pie  ,Comedy,4
+2502,2707,Arlington Road  ,Thriller,4
+2503,2708,Autumn Tale,Romance,4
+2504,2709,Muppets From Space  ,"Children,Comedy",3
+2505,2710,Blair Witch Project,Horror,3
+2506,2711,My Life So Far  ,Drama,4
+2507,2712,Eyes Wide Shut  ,Drama,3
+2508,2713,Lake Placid  ,"Horror,Thriller",3
+2509,2714,Wood,Drama,3
+2510,2715,Velocity of Gary,"Comedy,Romance",2
+2511,2716,Ghostbusters  ,"Comedy,Horror",4
+2512,2717,Ghostbusters II  ,"Comedy,Horror",3
+2513,2718,Drop Dead Gorgeous  ,Comedy,3
+2514,2719,Haunting,"Horror,Thriller",2
+2515,2720,Inspector Gadget  ,"Action,Adventure,Children",2
+2516,2721,Trick  ,Romance,4
+2517,2722,Deep Blue Sea  ,"Action,SciFi,Thriller",3
+2518,2723,Mystery Men  ,"Action,Adventure,Comedy",3
+2519,2724,Runaway Bride  ,"Comedy,Romance",3
+2520,2725,Twin Falls Idaho  ,Drama,4
+2521,2726,Killing,"Crime,Noir",4
+2522,2727,Killer's Kiss  ,Noir,3
+2523,2728,Spartacus  ,Drama,4
+2524,2729,Lolita  ,Drama,4
+2525,2730,Barry Lyndon  ,Drama,4
+2526,2731,400 Blows,Drama,4
+2527,2732,Jules and Jim (Jules et Jim)  ,Drama,4
+2528,2733,Vibes  ,"Adventure,Comedy",2
+2529,2734,Mosquito Coast,Drama,3
+2530,2735,Golden Child,"Action,Adventure",3
+2531,2736,Brighton Beach Memoirs  ,Comedy,3
+2532,2737,Assassination  ,Action,3
+2533,2738,Crimes of the Heart  ,"Comedy,Drama",3
+2534,2739,Color Purple,Drama,4
+2535,2740,Kindred,Horror,3
+2536,2741,No Mercy  ,"Action,Thriller",3
+2537,2742,Ménage (Tenue de soirée)  ,"Comedy,Drama",2
+2538,2743,Native Son  ,Drama,3
+2539,2744,Otello  ,Drama,4
+2540,2745,Mission,Drama,4
+2541,2746,Little Shop ofHorrors  ,"Comedy,Horror,Musical",3
+2542,2747,Little Shop ofHorrors,"Comedy,Horror",3
+2543,2748,Allan Quartermain and the Lost City of Gold  ,"Action,Adventure",2
+2544,2749,Morning After,"Drama,Mystery",3
+2545,2750,Radio Days  ,"Comedy,Drama",4
+2546,2751,From the Hip  ,Comedy,3
+2547,2752,Outrageous Fortune  ,"Comedy,Mystery",3
+2548,2753,Bedroom Window,Thriller,3
+2549,2754,Deadtime Stories  ,Horror,2
+2550,2755,Light of Day  ,Drama,3
+2551,2756,Wanted: Dead or Alive  ,Action,3
+2552,2757,Frances  ,Drama,4
+2553,2758,Plenty  ,Drama,3
+2554,2759,Dick  ,Comedy,3
+2555,2760,Gambler,Drama,3
+2556,2761,Iron Giant,"Animation,Children",4
+2557,2762,Sixth Sense,Thriller,4
+2558,2763,Thomas Crown Affair,"Action,Thriller",4
+2559,2764,Thomas Crown Affair,"Crime,Drama",4
+2560,2765,Acid House,"Comedy,Drama",3
+2561,2766,Adventures of Sebastian Cole,"Comedy,Drama",4
+2562,2767,Illuminata  ,Comedy,3
+2563,2768,Stiff Upper Lips  ,Comedy,3
+2564,2769,Yards,"Crime,Mystery",3
+2565,2770,Bowfinger  ,Comedy,3
+2566,2771,Brokedown Palace  ,Drama,3
+2567,2772,Detroit Rock City  ,Comedy,3
+2568,2773,Alice and Martin (Alice et Martin)  ,Drama,3
+2569,2774,Better Than Chocolate  ,"Comedy,Romance",4
+2570,2775,Head On  ,Drama,3
+2571,2776,Marcello Mastroianni: I Remember Yes,Documentary,4
+2572,2777,Cobra  ,Drama,2
+2573,2778,Never Talk to Strangers  ,Thriller,3
+2574,2779,Heaven Can Wait  ,Comedy,4
+2575,2780,Raven,"Comedy,Horror",3
+2576,2781,Tingler,Horror,3
+2577,2782,Pit and the Pendulum  ,Horror,4
+2578,2783,Tomb of Ligeia,Horror,3
+2579,2784,Masque of the Red Death,Horror,3
+2580,2785,Tales of Terror  ,Horror,3
+2581,2786,Haunted Honeymoon  ,Comedy,2
+2582,2787,Cat's Eye  ,Horror,3
+2583,2788,And Now for Something Completely Different  ,Comedy,4
+2584,2789,Damien: Omen II  ,Horror,3
+2585,2790,Final Conflict,Horror,3
+2586,2791,Airplane!  ,Comedy,4
+2587,2792,Airplane II: The Sequel  ,Comedy,3
+2588,2793,American Werewolf in Paris,"Comedy,Horror",3
+2589,2794,European Vacation  ,Comedy,3
+2590,2795,Vacation  ,Comedy,4
+2591,2796,Funny Farm  ,Comedy,3
+2592,2797,Big  ,"Comedy,Fantasy",4
+2593,2798,Problem Child  ,Comedy,2
+2594,2799,Problem Child 2  ,Comedy,2
+2595,2800,Little Nemo:Adventures in Slumberland  ,"Animation,Children",3
+2596,2801,Oscar and Lucinda (a.k.a. Oscar & Lucinda)  ,"Drama,Romance",4
+2597,2802,Tequila Sunrise  ,"Action,Romance,Thriller",3
+2598,2803,Pelican Brief,Thriller,3
+2599,2804,Christmas Story,"Comedy,Drama",4
+2600,2805,Mickey Blue Eyes  ,"Comedy,Romance",3
+2601,2806,Teaching Mrs. Tingle  ,"Comedy,Thriller",3
+2602,2807,Universal Soldier: The Return  ,"Action,SciFi",2
+2603,2808,Universal Soldier  ,"Action,SciFi",3
+2604,2809,Love Stinks  ,Comedy,3
+2605,2810,Perfect Blue  ,"Animation,Mystery",4
+2606,2811,With Friends Like These...  ,Comedy,4
+2607,2812,In Too Deep  ,"Action,Thriller",3
+2608,2813,Source,Documentary,4
+2609,2814,Bat,Horror,3
+2610,2815,Iron Eagle  ,"Action,War",3
+2611,2816,Iron Eagle II  ,"Action,War",2
+2612,2817,Aces: Iron Eagle III  ,"Action,War",2
+2613,2818,Iron Eagle IV  ,"Action,War",2
+2614,2819,Three Days of the Condor  ,Thriller,4
+2615,2820,Hamlet  ,Drama,4
+2616,2821,Male and Female  ,"Adventure,Drama",3
+2617,2822,Medicine Man  ,"Adventure,Romance",3
+2618,2823,Spiders,",,Action",2
+2619,2824,On the Ropes  ,Documentary,4
+2620,2825,Rosie  ,Drama,3
+2621,2826,13thWarrior,"Action,Horror",3
+2622,2827,Astronaut's Wife,"SciFi,Thriller",2
+2623,2828,Dudley Do-Right  ,"Children,Comedy",2
+2624,2829,Muse,"Comedy,Drama",3
+2625,2830,Cabaret Balkan (Bure Baruta)  ,Drama,4
+2626,2831,Dog of Flanders,Drama,3
+2627,2833,Lucie Aubrac  ,"Romance,War",4
+2628,2834,Very Thought of You,"Comedy,Romance",4
+2629,2835,Chill Factor  ,"Action,Thriller",3
+2630,2836,Outside Providence  ,Comedy,3
+2631,2837,Bedrooms & Hallways  ,"Comedy,Romance",3
+2632,2839,West Beirut (West Beyrouth)  ,Drama,4
+2633,2840,Stigmata  ,Thriller,3
+2634,2841,Stir of Echoes  ,Thriller,4
+2635,2842,Best Laid Plans  ,"Crime,Drama",3
+2636,2843,Black Cat,",,Comedy",4
+2637,2844,Minus Man,"Drama,Mystery",3
+2638,2845,White Boys  ,Drama,1
+2639,2846,Adventures of Milo and Otis,Children,3
+2640,2847,Only Angels Have Wings  ,Drama,4
+2641,2848,Othello  ,Drama,4
+2642,2849,Queens Logic  ,"Comedy,Drama",3
+2643,2850,Public Access  ,"Drama,Thriller",3
+2644,2851,Saturn 3  ,"Adventure,SciFi,Thriller",2
+2645,2852,Soldier's Story,Drama,4
+2646,2853,Communion (a.k.a. Alice,Horror,3
+2647,2854,Don't Look in the Basement!  ,Horror,2
+2648,2855,Nightmares  ,Horror,2
+2649,2856,I Saw What You Did  ,Thriller,3
+2650,2857,Yellow Submarine  ,"Animation,Musical",4
+2651,2858,American Beauty  ,"Comedy,Drama",4
+2652,2859,Stop Making Sense  ,Documentary,4
+2653,2860,Blue Streak  ,Comedy,3
+2654,2861,For Love of the Game  ,"Comedy,Drama",3
+2655,2862,Caligula  ,Drama,3
+2656,2863,Hard Day's Night,"Comedy,Musical",4
+2657,2864,Splendor  ,Comedy,3
+2658,2865,Sugar Town  ,Comedy,3
+2659,2866,Buddy Holly Story,Drama,4
+2660,2867,Fright Night  ,"Comedy,Horror",3
+2661,2868,Fright Night Part II  ,Horror,2
+2662,2869,Separation,Drama,3
+2663,2870,Barefoot in the Park  ,Comedy,4
+2664,2871,Deliverance  ,"Adventure,Thriller",4
+2665,2872,Excalibur  ,"Action,Drama,Fantasy",4
+2666,2873,Lulu on the Bridge  ,"Drama,Mystery,Romance",3
+2667,2874,Pajama Game,Comedy,4
+2668,2875,Sommersby  ,"Drama,Mystery,Romance",3
+2669,2876,Thumbelina  ,"Animation,Children",3
+2670,2877,Tommy  ,"Drama,Musical",3
+2671,2878,Hell Night  ,Horror,2
+2672,2879,Operation Condor (Feiying gaiwak)  ,"Action,Adventure,Comedy",3
+2673,2880,Operation Condor 2 (Longxiong hudi)  ,"Action,Adventure,Comedy",3
+2674,2881,Double Jeopardy  ,"Action,Thriller",3
+2675,2882,Jakob the Liar  ,Drama,3
+2676,2883,Mumford  ,Comedy,4
+2677,2884,Dog Park  ,"Comedy,Romance",3
+2678,2885,Guinevere  ,"Drama,Romance",3
+2679,2886,Adventures of Elmo in Grouchland,"Children,Comedy",2
+2680,2887,Simon Sez  ,Drama,2
+2681,2888,Drive Me Crazy  ,"Comedy,Romance",3
+2682,2889,Mystery,Comedy,3
+2683,2890,Three Kings  ,"Drama,War",4
+2684,2891,Happy,Comedy,3
+2685,2892,New Rose Hotel  ,"Action,Drama",2
+2686,2893,Plunkett & MaCleane  ,"Action,Drama",3
+2687,2894,Romance ,"Drama,Romance",3
+2688,2895,Napoleon and Samantha  ,Adventure,3
+2689,2896,Alvarez Kelly  ,Western,3
+2690,2897,And the Ship Sails On (E la nave va)  ,"Comedy,War",3
+2691,2898,Dark Half,"Horror,Mystery",3
+2692,2899,Gulliver's Travels  ,"Adventure,Animation,Children",4
+2693,2900,Monkey Shines  ,"Horror,SciFi",3
+2694,2901,Phantasm  ,"Horror,SciFi",3
+2695,2902,Psycho II  ,"Horror,Thriller",2
+2696,2903,Psycho III  ,"Horror,Thriller",2
+2697,2904,Rain  ,Drama,4
+2698,2905,Sanjuro  ,"Action,Adventure",5
+2699,2906,Random Hearts  ,"Drama,Romance",2
+2700,2907,Superstar  ,Comedy,2
+2701,2908,Boys Don't Cry  ,Drama,4
+2702,2909,Five Wives,Documentary,4
+2703,2911,Grandfather,Drama,3
+2704,2912,Limey,"Action,Crime",4
+2705,2913,Mating Habits of the Earthbound Human,Comedy,3
+2706,2914,Molly  ,"Comedy,Drama",2
+2707,2915,Risky Business  ,Comedy,4
+2708,2916,Total Recall  ,"Action,Adventure,SciFi",4
+2709,2917,Body Heat  ,"Crime,Thriller",4
+2710,2918,Ferris Bueller's Day Off  ,Comedy,4
+2711,2919,Year of Living Dangerously  ,"Drama,Romance",4
+2712,2920,Children of Paradise (Les enfants du paradis)  ,"Drama,Romance",4
+2713,2921,High Plains Drifter  ,Western,4
+2714,2922,Hang 'em High  ,Western,4
+2715,2923,Citizen's Band (a.k.a. Handle with Care)  ,Comedy,3
+2716,2924,Drunken Master (Zui quan)  ,"Action,Comedy",4
+2717,2925,Conformist,Drama,4
+2718,2926,Hairspray  ,"Comedy,Drama",3
+2719,2927,Brief Encounter  ,"Drama,Romance",4
+2720,2928,Razor's Edge,Drama,3
+2721,2929,Reds  ,Drama,3
+2722,2930,Return with Honor  ,Documentary,4
+2723,2931,Time of the Gypsies (Dom za vesanje)  ,Drama,4
+2724,2932,Days of Heaven  ,Drama,4
+2725,2933,Fire Within,Drama,3
+2726,2934,Love Bewitched,Musical,2
+2727,2935,Lady Eve,"Comedy,Romance",4
+2728,2936,Sullivan's Travels  ,Comedy,4
+2729,2937,Palm Beach Story,Comedy,4
+2730,2938,Man Facing Southeast (Hombre Mirando al Sudeste)  ,Drama,4
+2731,2939,Niagara  ,"Drama,Thriller",4
+2732,2940,Gilda  ,Noir,4
+2733,2941,South Pacific  ,"Musical,Romance,War",4
+2734,2942,Flashdance  ,"Drama,Romance",3
+2735,2943,Indochine  ,"Drama,Romance",4
+2736,2944,Dirty Dozen,"Action,War",4
+2737,2945,Mike's Murder  ,Mystery,3
+2738,2946,Help!  ,"Comedy,Musical",4
+2739,2947,Goldfinger  ,Action,4
+2740,2948,From Russia with Love  ,Action,4
+2741,2949,Dr. No  ,Action,4
+2742,2950,Blue Lagoon,"Adventure,Drama",2
+2743,2951,Fistful of Dollars,"Action,Western",4
+2744,2952,Hard 8 (a.k.a. Sydney,"Crime,Thriller",4
+2745,2953,Home Alone 2: Lost in New York  ,"Children,Comedy",2
+2746,2955,Penitentiary II  ,Drama,2
+2747,2956,Someone to Watch Over Me  ,"Action,Crime,Thriller",3
+2748,2959,Fight Club  ,Drama,4
+2749,2960,Beefcake  ,Drama,3
+2750,2961,Story of Us,"Comedy,Drama",3
+2751,2962,Fever Pitch  ,"Comedy,Romance",3
+2752,2963,Joe the King  ,"Crime,Drama",4
+2753,2964,Julien Donkey-Boy  ,Drama,3
+2754,2965,Omega Code,Action,2
+2755,2966,Straight Story,Drama,4
+2756,2967,Bad Seed,"Drama,Thriller",4
+2757,2968,Time Bandits  ,"Adventure,Fantasy,SciFi",4
+2758,2969,Man and a Woman,"Drama,Romance",4
+2759,2970,Fitzcarraldo  ,"Adventure,Drama",4
+2760,2971,All That Jazz  ,Musical,4
+2761,2972,Red Sorghum (Hong Gao Liang)  ,"Drama,War",4
+2762,2973,Crimes and Misdemeanors  ,Comedy,4
+2763,2974,Bats  ,"Horror,Thriller",2
+2764,2975,Best Man,Drama,3
+2765,2976,Bringing Out the Dead  ,"Drama,Horror",3
+2766,2977,Crazy in Alabama  ,"Comedy,Drama",3
+2767,2978,Three to Tango  ,"Comedy,Romance",3
+2768,2979,Body Shots  ,Drama,2
+2769,2981,Brother,Documentary,4
+2770,2982,Guardian,"Horror,Thriller",2
+2771,2983,Ipcress File,Thriller,4
+2772,2984,On Any Sunday  ,Documentary,3
+2773,2985,Robocop  ,"Action,Crime,SciFi",3
+2774,2986,Robocop 2  ,"Action,Crime,SciFi",2
+2775,2987,Who Framed Roger Rabbit?  ,"Adventure,Animation,Noir",4
+2776,2988,Melvin and Howard  ,Drama,4
+2777,2989,For Your Eyes Only  ,Action,4
+2778,2990,Licence to Kill  ,Action,3
+2779,2991,Live and Let Die  ,Action,4
+2780,2992,Rawhead Rex  ,"Horror,Thriller",2
+2781,2993,Thunderball  ,Action,4
+2782,2994,City,Drama,4
+2783,2995,House on Haunted Hill,Horror,2
+2784,2996,Music of the Heart  ,Drama,3
+2785,2997,Being John Malkovich  ,Comedy,4
+2786,2998,Dreaming of Joseph Lees  ,Romance,4
+2787,2999,Man of the Century  ,Comedy,4
+2788,3000,Princess Mononoke,"Action,Adventure",4
+2789,3001,Suburbans,Drama,2
+2790,3002,My Best Fiend (Mein liebster Feind)  ,Documentary,4
+2791,3003,Train of Life (Train De Vie)  ,"Comedy,Drama",3
+2792,3004,Bachelor,"Comedy,Romance",2
+2793,3005,Bone Collector,Thriller,3
+2794,3006,Insider,Drama,4
+2795,3007,American Movie  ,Documentary,4
+2796,3008,Last Night  ,Thriller,4
+2797,3010,Rosetta  ,Drama,4
+2798,3011,They Shoot Horses,Drama,4
+2799,3012,Battling Butler  ,Comedy,3
+2800,3013,Bride of Re-Animator  ,"Comedy,Horror",3
+2801,3014,Bustin' Loose  ,Comedy,3
+2802,3015,Coma  ,Thriller,3
+2803,3016,Creepshow  ,Horror,3
+2804,3017,Creepshow 2  ,Horror,3
+2805,3018,Re-Animator  ,Horror,3
+2806,3019,Drugstore Cowboy  ,"Crime,Drama",4
+2807,3020,Falling Down  ,"Action,Drama",3
+2808,3021,Funhouse,Horror,3
+2809,3022,General,Comedy,4
+2810,3024,Piranha  ,"Horror,SciFi",2
+2811,3025,Rough Night in Jericho  ,Western,3
+2812,3026,Slaughterhouse  ,Horror,2
+2813,3027,Slaughterhouse 2  ,Horror,1
+2814,3028,Taming of the Shrew,Comedy,4
+2815,3029,Nighthawks  ,"Action,Drama",3
+2816,3030,Yojimbo  ,"Comedy,Drama,Western",4
+2817,3031,Repossessed  ,Comedy,2
+2818,3032,Omega Man,SciFi,4
+2819,3033,Spaceballs  ,"Comedy,SciFi",3
+2820,3034,Robin Hood  ,"Animation,Children",4
+2821,3035,Mister Roberts  ,"Comedy,Drama,War",4
+2822,3036,Quest for Fire  ,Adventure,3
+2823,3037,Little Big Man  ,"Comedy,Drama,Western",4
+2824,3038,Face in the Crowd,Drama,4
+2825,3039,Trading Places  ,Comedy,4
+2826,3040,Meatballs  ,Comedy,3
+2827,3041,Meatballs Part II  ,Comedy,2
+2828,3042,Meatballs III  ,Comedy,2
+2829,3043,Meatballs 4  ,Comedy,2
+2830,3044,Dead Again  ,"Mystery,Romance,Thriller",4
+2831,3045,Peter's Friends  ,"Comedy,Drama",3
+2832,3046,Incredibly TrueAdventureof Two Girls in Love,"Comedy,Romance",3
+2833,3047,Experience Preferred... But Not Essential  ,Drama,4
+2834,3048,Under the Rainbow  ,Comedy,2
+2835,3049,How I Won theWar,"Comedy,War",3
+2836,3050,Light It Up  ,Drama,3
+2837,3051,Anywhere But Here  ,Drama,3
+2838,3052,Dogma  ,Comedy,4
+2839,3053,Messenger: The Story of Joan of Arc,"Drama,War",3
+2840,3054,Pokémon: The First Movie  ,"Animation,Children",2
+2841,3055,Felicia's Journey  ,Thriller,3
+2842,3056,Oxygen  ,Thriller,4
+2843,3057,Where's Marlowe?  ,Comedy,4
+2844,3058,Ape,"Horror,SciFi",2
+2845,3060,Commitments,"Comedy,Drama",4
+2846,3061,Holiday Inn  ,"Comedy,Musical",4
+2847,3062,Longest Day,"Action,Drama",4
+2848,3063,Poison Ivy  ,Thriller,3
+2849,3064,Poison Ivy: New Seduction  ,Thriller,2
+2850,3065,Ten Benny  ,Drama,4
+2851,3066,Tora! Tora! Tora!  ,War,4
+2852,3067,Women on the Verge of a Nervous Breakdown  ,"Comedy,Drama",4
+2853,3068,Verdict,Drama,4
+2854,3069,Effect of Gamma Rays on Man-in-the-Moon Marigolds,Drama,4
+2855,3070,Adventures of Buckaroo Bonzai Across the 8th Dimension,"Adventure,Comedy",3
+2856,3071,Stand and Deliver  ,Drama,4
+2857,3072,Moonstruck  ,Comedy,4
+2858,3073,Sandpiper,"Drama,Romance",3
+2859,3074,Jeremiah Johnson  ,Western,4
+2860,3075,Repulsion  ,Thriller,4
+2861,3076,Irma la Douce  ,Comedy,4
+2862,3077,42 Up  ,Documentary,4
+2863,3078,Liberty Heights  ,Drama,4
+2864,3079,Mansfield Park  ,Drama,4
+2865,3081,Sleepy Hollow  ,"Horror,Romance",4
+2866,3082,World Is Not Enough,"Action,Thriller",3
+2867,3083,All About My Mother (Todo Sobre Mi Madre)  ,"Comedy,Drama",4
+2868,3084,Home Page  ,Documentary,4
+2869,3085,Living Dead Girl,Horror,2
+2870,3086,March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland)  ,Comedy,4
+2871,3087,Scrooged  ,Comedy,3
+2872,3088,Harvey  ,Comedy,4
+2873,3089,Bicycle Thief,Drama,4
+2874,3090,Matewan  ,Drama,4
+2875,3091,Kagemusha  ,"Drama,War",4
+2876,3092,Chushingura  ,Drama,4
+2877,3093,McCabe & Mrs. Miller  ,"Drama,Western",4
+2878,3094,Maurice  ,"Drama,Romance",4
+2879,3095,Grapes of Wrath,Drama,4
+2880,3096,My Man Godfrey  ,Comedy,4
+2881,3097,Shop Around the Corner,"Comedy,Romance",4
+2882,3098,Natural,Drama,4
+2883,3099,Shampoo  ,"Comedy,Romance",3
+2884,3100,River Runs Through It,Drama,4
+2885,3101,Fatal AttrAction ,Thriller,4
+2886,3102,Jagged Edge  ,Thriller,4
+2887,3103,Stanley & Iris  ,"Drama,Romance",3
+2888,3104,Midnight Run  ,"Action,Adventure,Comedy",4
+2889,3105,Awakenings  ,Drama,4
+2890,3106,Come See the Paradise  ,"Drama,Romance",3
+2891,3107,Backdraft  ,"Action,Drama",3
+2892,3108,Fisher King,"Comedy,Drama",4
+2893,3109,River,Drama,3
+2894,3110,Country  ,Drama,3
+2895,3111,Places in the Heart  ,Drama,4
+2896,3112,Night Mother  ,Drama,3
+2897,3113,End of Days  ,"Action,Thriller",3
+2898,3114,Toy Story 2  ,"Animation,Children,Comedy",4
+2899,3115,Flawless  ,Drama,3
+2900,3116,Miss Julie  ,Drama,3
+2901,3117,Ride with the Devil  ,"Drama,Romance,War",3
+2902,3118,Tumbleweeds  ,Drama,4
+2903,3119,Bay of Blood (Reazione a catena)  ,Horror,2
+2904,3120,Distinguished Gentleman,Comedy,3
+2905,3121,Hitch-Hiker,Noir,4
+2906,3122,Santa Fe Trail  ,"Drama,Romance,Western",3
+2907,3123,Spring Fever USA (a.k.a. Lauderdale)  ,Comedy,1
+2908,3124,Agnes Browne  ,"Comedy,Drama",3
+2909,3125,End of the Affair,Drama,4
+2910,3126,End of the Affair,Drama,4
+2911,3127,Holy Smoke  ,Drama,3
+2912,3128,Map of the World,Drama,3
+2913,3129,Sweet and Lowdown  ,"Comedy,Drama",4
+2914,3130,Bonfire of the Vanities  ,Comedy,2
+2915,3131,Broadway Damage  ,Comedy,4
+2916,3132,Daddy Long Legs  ,Comedy,4
+2917,3133,Go West  ,Comedy,4
+2918,3134,Grand Illusion (Grande illusion,"Drama,War",4
+2919,3135,Great Santini,Drama,4
+2920,3136,James Dean Story,Documentary,3
+2921,3137,Sea Wolves,"Action,War",4
+2922,3138,Stealing Home  ,Drama,3
+2923,3139,Tarzan the Fearless  ,"Action,Adventure",3
+2924,3140,Three Ages,Comedy,3
+2925,3141,Two Jakes,Drama,3
+2926,3142,U2: Rattle and Hum  ,"Documentary,Musical",3
+2927,3143,Hell in the Pacific  ,"Drama,War",4
+2928,3144,Glass Bottom Boat,"Comedy,Romance",3
+2929,3145,Cradle Will Rock,Drama,3
+2930,3146,Deuce Bigalow: Male Gigolo  ,Comedy,3
+2931,3147,Green Mile,"Drama,Thriller",4
+2932,3148,Cider House Rules,Drama,4
+2933,3149,Diamonds  ,Mystery,2
+2934,3150,WarZone,Drama,4
+2935,3151,Bat Whispers,"Crime,Drama",2
+2936,3152,Last Picture Show,Drama,4
+2937,3153,7th Voyage of Sinbad,"Action,Adventure",4
+2938,3154,Blood on the Sun  ,"Drama,War",4
+2939,3155,Anna and the King  ,"Drama,Romance",3
+2940,3156,Bicentennial Man  ,"Comedy,Drama,SciFi",3
+2941,3157,Stuart Little  ,"Children,Comedy",3
+2942,3158,Emperor and the Assassin,Drama,4
+2943,3159,Fantasia 2000  ,"Animation,Children,Musical",4
+2944,3160,Magnolia  ,Drama,4
+2945,3161,Onegin  ,Drama,3
+2946,3162,Simpatico  ,"Comedy,Drama",2
+2947,3163,Topsy-Turvy  ,Drama,4
+2948,3164,Alley Cats,Drama,4
+2949,3165,Boiling Point  ,"Action,Drama",3
+2950,3166,Brenda Starr  ,Adventure,1
+2951,3167,Carnal Knowledge  ,Drama,4
+2952,3168,Easy Rider  ,"Adventure,Drama",4
+2953,3169,Falcon and the Snowman,Drama,4
+2954,3171,Room at the Top  ,Drama,4
+2955,3172,Ulysses (Ulisse)  ,Adventure,5
+2956,3173,Any Given Sunday  ,Drama,3
+2957,3174,Man on the Moon  ,"Comedy,Drama",3
+2958,3175,Galaxy Quest  ,"Adventure,Comedy,SciFi",4
+2959,3176,Talented Mr. Ripley,"Drama,Mystery",4
+2960,3177,Next Friday  ,Comedy,3
+2961,3178,Hurricane,Drama,4
+2962,3179,Angela's Ashes  ,Drama,3
+2963,3180,Play it to the Bone  ,"Comedy,Drama",2
+2964,3181,Titus  ,Drama,4
+2965,3182,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.  ,Documentary,4
+2966,3183,Third Miracle,Drama,4
+2967,3184,Montana  ,"Action,Comedy,Crime",3
+2968,3185,Snow Falling on Cedars  ,Drama,3
+2969,3186,Girl,Drama,3
+2970,3187,Trans  ,Drama,3
+2971,3188,Life and Times of Hank Greenberg,Documentary,4
+2972,3189,My Dog Skip  ,Comedy,4
+2973,3190,Supernova  ,"Adventure,SciFi",2
+2974,3192,Terrorist,Drama,4
+2975,3194,Way We Were,Drama,3
+2976,3196,Stalag 17  ,"Drama,War",4
+2977,3197,Presidio,Action,3
+2978,3198,Papillon  ,Drama,4
+2979,3199,Pal Joey  ,"Comedy,Musical,Romance",3
+2980,3200,Last Detail,"Comedy,Drama",4
+2981,3201,Five Easy Pieces  ,Drama,4
+2982,3202,Even Dwarfs Started Small (Auch Zwerge haben klein angefangen)  ,Drama,1
+2983,3203,Dead Calm  ,Thriller,4
+2984,3204,Boys from Brazil,Thriller,4
+2985,3205,Black Sunday (La Maschera Del Demonio)  ,Horror,2
+2986,3206,Against All Odds  ,Romance,3
+2987,3207,Snows of Kilimanjaro,Adventure,3
+2988,3208,Loaded Weapon 1  ,"Action,Comedy",3
+2989,3209,Loves of Carmen,Drama,1
+2990,3210,Fast Times at Ridgemont High  ,Comedy,4
+2991,3211,Cry in the Dark,Drama,4
+2992,3212,Born to Win  ,Drama,2
+2993,3213,Batman: Mask of the Phantasm  ,"Animation,Children",4
+2994,3214,American Flyers  ,Drama,3
+2995,3215,Voyage of the Damned  ,Drama,3
+2996,3216,Vampyros Lesbos (Las Vampiras)  ,Horror,3
+2997,3217,Star Is Born,Drama,3
+2998,3218,Poison  ,Drama,3
+2999,3219,Pacific Heights  ,Thriller,3
+3000,3220,Night Tide  ,Drama,2
+3001,3221,Draughtsman's Contract,Drama,3
+3002,3222,Carmen  ,Drama,4
+3003,3223,Zed & Two Noughts,Drama,3
+3004,3224,Woman in the Dunes (Suna no onna)  ,Drama,4
+3005,3225,Down to You  ,"Comedy,Romance",3
+3006,3228,Wirey Spindell  ,Comedy,1
+3007,3229,Another Man's Poison  ,"Crime,Drama",4
+3008,3230,Odessa File,Thriller,4
+3009,3232,Seven Chances  ,Comedy,4
+3010,3233,Smashing Time  ,Comedy,5
+3011,3235,Where the Buffalo Roam  ,Comedy,3
+3012,3236,Zachariah  ,Western,4
+3013,3237,Kestrel's Eye (Falkens öga)  ,Documentary,1
+3014,3238,Eye of the Beholder  ,Thriller,2
+3015,3239,Isn't She Great?  ,Comedy,2
+3016,3240,Big Tease,Comedy,3
+3017,3241,Cup,Comedy,4
+3018,3242,Santitos  ,Comedy,4
+3019,3243,Encino Man  ,Comedy,3
+3020,3244,Goodbye Girl,"Comedy,Romance",4
+3021,3245,I Am Cuba (Soy Cuba/Ya Kuba)  ,Drama,5
+3022,3246,Malcolm X  ,Drama,4
+3023,3247,Sister Act  ,"Comedy,Crime",3
+3024,3248,Sister Act 2: Back in the Habit  ,Comedy,3
+3025,3249,Hand That Rocks the Cradle,Thriller,3
+3026,3250,Alive  ,Drama,3
+3027,3251,Agnes of God  ,"Drama,Mystery",3
+3028,3252,Scent of a Woman  ,Drama,4
+3029,3253,Wayne's World  ,Comedy,4
+3030,3254,Wayne's World 2  ,Comedy,3
+3031,3255,League of Their Own,"Comedy,Drama",4
+3032,3256,Patriot Games  ,"Action,Thriller",4
+3033,3257,Bodyguard,"Action,Drama,Thriller",3
+3034,3258,Death Becomes Her  ,Comedy,3
+3035,3259,Far and Away  ,"Drama,Romance",3
+3036,3260,Howards End  ,Drama,4
+3037,3261,Singles  ,"Comedy,Drama,Romance",3
+3038,3262,Twin Peaks: Fire Walk with Me  ,"Drama,Mystery",3
+3039,3263,White Men Can't Jump  ,Comedy,3
+3040,3264,Buffy the Vampire Slayer  ,"Comedy,Horror",3
+3041,3265,Hard-Boiled (Lashou shentan)  ,"Action,Crime",4
+3042,3266,Man Bites Dog (C'est arrivé près de chez vous)  ,"Action,Comedy,Crime",4
+3043,3267,Mariachi,"Action,Thriller",4
+3044,3268,Stop! Or My Mom Will Shoot  ,"Action,Comedy",2
+3045,3269,Forever Young  ,"Adventure,Romance,SciFi",3
+3046,3270,Cutting Edge,Drama,3
+3047,3271,Of Mice and Men  ,Drama,4
+3048,3272,Bad Lieutenant  ,"Crime,Drama",3
+3049,3273,Scream 3  ,"Horror,Mystery,Thriller",3
+3050,3274,Single White Female  ,Action,3
+3051,3275,Boondock Saints,"Action,Comedy",4
+3052,3276,Gun Shy  ,Comedy,3
+3053,3277,Beloved/Friend (Amigo/Amado)  ,Drama,4
+3054,3280,Baby,Horror,5
+3055,3281,Brandon Teena Story,Documentary,4
+3056,3282,Different for Girls  ,Comedy,4
+3057,3283,Minnie and Moskowitz  ,Action,3
+3058,3284,They Might Be Giants  ,"Comedy,Romance",4
+3059,3285,Beach,"Adventure,Drama",3
+3060,3286,Snow Day  ,Comedy,2
+3061,3287,Tigger Movie,"Animation,Children",3
+3062,3288,Cotton Mary  ,Drama,3
+3063,3289,Not One Less (Yi ge dou bu neng shao)  ,Drama,4
+3064,3290,Soft Toilet Seats  ,Comedy,3
+3065,3291,Trois  ,Thriller,2
+3066,3292,Big Combo,Noir,4
+3067,3293,Conceiving Ada  ,"Drama,SciFi",3
+3068,3294,Eaten Alive  ,Horror,2
+3069,3295,Raining Stones  ,Drama,4
+3070,3296,To Sir with Love  ,Drama,4
+3071,3297,With Byrd at the South Pole  ,Documentary,2
+3072,3298,Boiler Room  ,Drama,3
+3073,3299,Hanging Up  ,"Comedy,Drama",2
+3074,3300,Pitch Black  ,"Action,SciFi",3
+3075,3301,Whole Nine Yards,"Comedy,Crime",3
+3076,3302,Beautiful People  ,Comedy,3
+3077,3303,Black Tar Heroin: The Dark End of the Street  ,Documentary,4
+3078,3304,Blue Collar  ,"Crime,Drama",4
+3079,3305,Bluebeard  ,"Noir,Horror",4
+3080,3306,Circus,Comedy,4
+3081,3307,City Lights  ,"Comedy,Drama,Romance",4
+3082,3308,Flamingo Kid,"Comedy,Drama",3
+3083,3309,Dog's Life,Comedy,4
+3084,3310,Kid,Action,4
+3085,3311,Man from Laramie,Western,4
+3086,3312,McCullochs,Drama,1
+3087,3313,Class Reunion  ,Comedy,2
+3088,3314,Big Trees,"Action,Drama",3
+3089,3315,Happy Go Lovely  ,Musical,2
+3090,3316,Reindeer Games  ,"Action,Thriller",3
+3091,3317,Wonder Boys  ,"Comedy,Drama",4
+3092,3318,Deterrence  ,Thriller,3
+3093,3319,Judy Berlin  ,Drama,3
+3094,3320,Mifune (Mifunes sidste sang)  ,"Comedy,Romance",4
+3095,3321,Waiting Game,Comedy,2
+3096,3322,3 Strikes  ,Comedy,3
+3097,3323,Chain of Fools  ,"Comedy,Crime",3
+3098,3324,Drowning Mona  ,Comedy,3
+3099,3325,Next Best Thing,"Comedy,Drama",2
+3100,3326,What Planet Are You From?  ,"Comedy,SciFi",3
+3101,3327,Beyond the Mat  ,Documentary,4
+3102,3328,Ghost Dog: The Way of the Samurai  ,"Crime,Drama",4
+3103,3329,Year My Voice Broke,Drama,4
+3104,3330,Splendor in the Grass  ,Drama,4
+3105,3331,My Tutor  ,Drama,2
+3106,3333,Killing of Sister George,Drama,4
+3107,3334,Key Largo  ,"Crime,Drama,Noir",4
+3108,3335,Jail Bait  ,"Crime,Drama",3
+3109,3336,It Happened Here  ,Drama,3
+3110,3337,I'll Never Forget What's 'is Name  ,"Comedy,Drama",4
+3111,3338,For All Mankind  ,Documentary,4
+3112,3339,Cross of Iron  ,War,4
+3113,3340,Bride of the Monster  ,"Horror,SciFi",3
+3114,3341,Born Yesterday  ,Comedy,4
+3115,3342,Birdy  ,"Drama,War",4
+3116,3343,And God Created Woman  ,"Comedy,Drama,Romance",2
+3117,3344,Blood Feast  ,Horror,3
+3118,3345,Charlie,"Adventure,Children",3
+3119,3346,Color Me Blood Red  ,Horror,3
+3120,3347,Never Cry Wolf  ,Drama,4
+3121,3349,Perils of Pauline,Comedy,3
+3122,3350,Raisin in the Sun,Drama,4
+3123,3351,Two Thousand Maniacs!  ,Horror,3
+3124,3352,Brown's Requiem  ,Drama,3
+3125,3353,Closer You Get,"Comedy,Romance",4
+3126,3354,Mission to Mars  ,SciFi,3
+3127,3355,Ninth Gate,Thriller,3
+3128,3357,East-West (Est-ouest)  ,"Drama,Romance",4
+3129,3358,Defending Your Life  ,"Comedy,Romance",4
+3130,3359,Breaking Away  ,Drama,4
+3131,3360,Hoosiers  ,Drama,4
+3132,3361,Bull Durham  ,Comedy,4
+3133,3362,Dog Day Afternoon  ,"Comedy,Crime,Drama",4
+3134,3363,American Graffiti  ,"Comedy,Drama",4
+3135,3364,Asphalt Jungle,"Crime,Noir",4
+3136,3365,Searchers,Western,4
+3137,3366,Where Eagles Dare  ,"Action,Adventure,War",4
+3138,3367,Devil's Brigade,War,3
+3139,3368,Big Country,"Romance,Western",4
+3140,3370,Betrayed  ,"Drama,Thriller",3
+3141,3371,Bound for Glory  ,Drama,4
+3142,3372,Bridge at Remagen,"Action,War",4
+3143,3373,Buck and the Preacher  ,Western,3
+3144,3374,Daughters of the Dust  ,Drama,3
+3145,3375,Destination Moon  ,SciFi,3
+3146,3376,Fantastic Night,Romance,1
+3147,3377,Hangmen Also Die  ,"Drama,War",4
+3148,3378,Ogre,Drama,3
+3149,3379,On the Beach  ,Drama,4
+3150,3380,Railroaded!  ,Noir,3
+3151,3381,Slaves to the Underground  ,"Comedy,Drama",4
+3152,3382,Song of Freedom  ,Drama,5
+3153,3384,Taking of Pelham One Two Three,Action,4
+3154,3385,Volunteers  ,Comedy,3
+3155,3386,JFK  ,"Drama,Mystery",4
+3156,3387,Who's Harry Crumb?  ,Comedy,3
+3157,3388,Harry and the Hendersons  ,Comedy,3
+3158,3389,Let's Get Harry  ,"Action,Adventure",3
+3159,3390,Shanghai Surprise  ,Adventure,2
+3160,3391,Who's That Girl?  ,Comedy,2
+3161,3392,She-Devil  ,Comedy,2
+3162,3393,Date with an Angel  ,"Comedy,Fantasy",2
+3163,3394,Blind Date  ,"Comedy,Romance",3
+3164,3395,Nadine  ,Comedy,3
+3165,3396,Muppet Movie,"Children,Comedy",4
+3166,3397,Great Muppet Caper,"Children,Comedy",4
+3167,3398,Muppets Take Manhattan,"Children,Comedy",4
+3168,3399,Sesame Street Presents Follow That Bird  ,"Children,Comedy",3
+3169,3400,We're Back! A Dinosaur's Story  ,"Animation,Children",3
+3170,3401,Baby... Secret of the Lost Legend  ,"Adventure,SciFi",2
+3171,3402,Turtle Diary  ,Drama,3
+3172,3403,Raise the Titanic  ,"Drama,Thriller",3
+3173,3404,Titanic  ,"Action,Drama",3
+3174,3405,Night to Remember,"Action,Drama",4
+3175,3406,Captain Horatio Hornblower  ,"Action,Adventure,War",4
+3176,3407,Carriers Are Waiting,"Comedy,Drama",2
+3177,3408,Erin Brockovich  ,Drama,4
+3178,3409,Final Destination  ,"Drama,Thriller",3
+3179,3410,Soft Fruit  ,"Comedy,Drama",4
+3180,3412,Bear,Adventure,3
+3181,3413,Impact  ,"Crime,Drama",4
+3182,3414,Love Is a Many-Splendored Thing  ,Romance,3
+3183,3415,Mirror,Drama,4
+3184,3416,Trial,Drama,4
+3185,3417,Crimson Pirate,"Adventure,Comedy",4
+3186,3418,Thelma & Louise  ,"Action,Drama",4
+3187,3419,Something for Everyone  ,"Comedy,Crime",3
+3188,3420,...And Justice for All  ,"Drama,Thriller",4
+3189,3421,Animal House  ,Comedy,4
+3190,3422,She's Gotta Have It  ,"Comedy,Romance",3
+3191,3423,School Daze  ,Drama,3
+3192,3424,Do the Right Thing  ,"Comedy,Drama",4
+3193,3425,Mo' Better Blues  ,Drama,3
+3194,3426,Jungle Fever  ,"Drama,Romance",3
+3195,3427,Coogan's Bluff  ,Crime,3
+3196,3428,Champ,Drama,3
+3197,3429,Creature Comforts  ,"Animation,Comedy",4
+3198,3430,Death Wish  ,"Action,Drama",3
+3199,3431,Death Wish II  ,"Action,Drama",3
+3200,3432,Death Wish 3  ,"Action,Drama",2
+3201,3433,Death Wish 4: The Crackdown  ,"Action,Drama",2
+3202,3434,Death Wish V: The Face of Death  ,"Action,Drama",2
+3203,3435,Double Indemnity  ,"Crime,Noir",4
+3204,3436,Dying Young  ,"Drama,Romance",3
+3205,3437,Cool as Ice  ,Drama,2
+3206,3438,Teenage Mutant Ninja Turtles  ,"Action,Children,Fantasy",3
+3207,3439,Teenage Mutant Ninja Turtles II: The Secret of the Ooze  ,"Action,Children,Fantasy",2
+3208,3440,Teenage Mutant Ninja Turtles III  ,"Action,Children,Fantasy",2
+3209,3441,Red Dawn  ,"Action,War",3
+3210,3442,Band of the Hand  ,Action,2
+3211,3443,Born American  ,"Action,Drama,Thriller",4
+3212,3444,Bloodsport  ,Action,3
+3213,3445,Eyes of Laura Mars  ,"Mystery,Thriller",3
+3214,3446,Funny Bones  ,Comedy,3
+3215,3447,Good Earth,Drama,4
+3216,3448,Good Morning,"Comedy,Drama",4
+3217,3449,Good Mother,Drama,3
+3218,3450,Grumpy Old Men  ,Comedy,3
+3219,3451,Guess Who's Coming to Dinner  ,"Comedy,Drama",4
+3220,3452,Romeo Must Die  ,"Action,Romance",3
+3221,3453,Here on Earth  ,"Drama,Romance",2
+3222,3454,Whatever It Takes  ,"Comedy,Romance",3
+3223,3456,Color of Paradise,Drama,4
+3224,3457,Waking the Dead  ,Drama,3
+3225,3458,Blood and Sand (Sangre y Arena)  ,"Drama,Romance",3
+3226,3459,Gothic  ,"Drama,Horror",3
+3227,3460,Hillbillys in a Haunted House  ,Comedy,1
+3228,3461,Lord of the Flies  ,"Adventure,Drama,Thriller",4
+3229,3462,Modern Times  ,Comedy,4
+3230,3463,Last Resort  ,Comedy,2
+3231,3464,Solar Crisis  ,"SciFi,Thriller",2
+3232,3465,That's Life!  ,Drama,3
+3233,3466,Heart and Souls  ,"Comedy,Fantasy",4
+3234,3467,Hud  ,"Drama,Western",4
+3235,3468,Hustler,Drama,4
+3236,3469,Inherit the Wind  ,Drama,4
+3237,3470,Dersu Uzala  ,"Adventure,Drama",4
+3238,3471,Close Encounters of the Third Kind  ,"Drama,SciFi",4
+3239,3472,HorrorHotel (a.k.a. The City of the Dead)  ,Horror,2
+3240,3473,Jonah Who Will Be 25 in the Year 2000  ,Comedy,3
+3241,3474,Retroactive  ,"SciFi,Thriller",3
+3242,3475,Place in the Sun,"Drama,Romance",4
+3243,3476,Jacob's Ladder  ,"Horror,Mystery,Thriller",4
+3244,3477,Empire Records  ,"Comedy,Drama",3
+3245,3478,Bamba,Drama,3
+3246,3479,Ladyhawke  ,"Adventure,Fantasy,Romance",4
+3247,3480,Lucas  ,Drama,4
+3248,3481,High Fidelity  ,Comedy,4
+3249,3482,Price of Glory  ,Drama,3
+3250,3483,Road to El Dorado,"Animation,Children",3
+3251,3484,Skulls,Thriller,3
+3252,3485,Autopsy (Macchie Solari)  ,Horror,2
+3253,3486,Devil Girl From Mars  ,SciFi,3
+3254,3487,Dorado,Western,4
+3255,3488,Hideous Sun Demon,"Horror,SciFi",2
+3256,3489,Hook  ,"Adventure,Fantasy",3
+3257,3490,HorrorExpress  ,Horror,3
+3258,3491,My Chauffeur  ,Comedy,3
+3259,3492,Son of the Sheik,Adventure,4
+3260,3493,Torso (Corpi Presentano Tracce di Violenza Carnale)  ,Horror,1
+3261,3494,True Grit  ,"Adventure,Western",4
+3262,3495,Roadside Prophets  ,"Comedy,Drama",4
+3263,3496,Madame Sousatzka  ,Drama,3
+3264,3497,Max Dugan Returns  ,Comedy,3
+3265,3498,Midnight Express  ,Drama,4
+3266,3499,Misery  ,Horror,4
+3267,3500,Mr. Saturday Night  ,"Comedy,Drama",3
+3268,3501,Murphy'sRomance,"Comedy,Romance",4
+3269,3502,My Life  ,Drama,4
+3270,3503,Solaris (Solyaris)  ,"Drama,SciFi",3
+3271,3504,Network  ,"Comedy,Drama",4
+3272,3505,No Way Out  ,Thriller,4
+3273,3506,North Dallas Forty  ,"Comedy,Drama",3
+3274,3507,Odd Couple,Comedy,4
+3275,3508,Outlaw Josey Wales,Western,4
+3276,3509,Black and White  ,Drama,3
+3277,3510,Frequency  ,"Drama,Thriller",4
+3278,3511,Ready to Rumble  ,Comedy,3
+3279,3512,Return to Me  ,"Drama,Romance",4
+3280,3513,Rules of Engagement  ,"Drama,Thriller",3
+3281,3514,Joe Gould's Secret  ,Drama,3
+3282,3515,Me Myself I  ,Comedy,3
+3283,3516,Bell,"Comedy,Romance",4
+3284,3517,Bells,"Crime,Drama",4
+3285,3518,End of Violence,"Drama,Thriller",3
+3286,3519,Force 10 from Navarone  ,"Action,War",3
+3287,3520,How to Stuff a Wild Bikini  ,Comedy,3
+3288,3521,Mystery Train  ,"Comedy,Crime,Drama",4
+3289,3522,Sacco and Vanzetti (Sacco e Vanzetti)  ,Drama,4
+3290,3523,Taffin  ,"Action,Thriller",3
+3291,3524,Arthur  ,"Comedy,Romance",3
+3292,3525,Bachelor Party  ,Comedy,3
+3293,3526,Parenthood  ,"Comedy,Drama",4
+3294,3527,Predator  ,"Action,SciFi,Thriller",4
+3295,3528,Prince of Tides,"Drama,Romance",3
+3296,3529,Postman Always Rings Twice,"Crime,Thriller",3
+3297,3530,Smoking/No Smoking  ,Comedy,4
+3298,3531,All the Vermeers in New York  ,"Comedy,Drama,Romance",3
+3299,3532,Freedom for Us (À nous la liberté )  ,Comedy,4
+3300,3533,Actor's Revenge,Drama,3
+3301,3534,28 Days  ,Comedy,3
+3302,3535,American Psycho  ,"Comedy,Horror,Thriller",3
+3303,3536,Keeping the Faith  ,"Comedy,Romance",4
+3304,3537,Where the Money Is  ,"Comedy,Drama",3
+3305,3538,East is East  ,Comedy,4
+3306,3539,Filth and the Fury,Documentary,4
+3307,3540,Passion of Mind  ,"Romance,Thriller",3
+3308,3542,Coming Apart  ,Drama,3
+3309,3543,Diner  ,"Comedy,Drama",4
+3310,3544,Shakes the Clown  ,Comedy,3
+3311,3545,Cabaret  ,"Musical,War",4
+3312,3546,What Ever Happened to Baby Jane?  ,"Drama,Thriller",4
+3313,3547,Prick Up Your Ears  ,Drama,4
+3314,3548,Auntie Mame  ,"Comedy,Drama",4
+3315,3549,Guys and Dolls  ,Musical,4
+3316,3550,Hunger,Horror,3
+3317,3551,Marathon Man  ,Thriller,4
+3318,3552,Caddyshack  ,Comedy,4
+3319,3553,Gossip  ,"Drama,Thriller",3
+3320,3554,Love and Basketball  ,"Drama,Romance",3
+3321,3555,U-571  ,"Action,Thriller",4
+3322,3556,Virgin Suicides,"Comedy,Drama",4
+3323,3557,Jennifer 8  ,Thriller,3
+3324,3559,Limelight  ,Drama,4
+3325,3562,Committed  ,"Comedy,Drama",3
+3326,3563,Crow: Salvation,"Action,Horror",2
+3327,3564,Flintstones in Viva Rock Vegas,"Children,Comedy",2
+3328,3565,Where the Heart Is  ,"Comedy,Drama",3
+3329,3566,Big Kahuna,"Comedy,Drama",3
+3330,3567,Bossa Nova  ,Comedy,3
+3331,3568,Smiling Fish and Goat on Fire  ,Drama,3
+3332,3569,Idiots,"Comedy,Drama",3
+3333,3570,Last September,Drama,4
+3334,3571,Time Code  ,Drama,3
+3335,3572,Carnosaur  ,"Horror,SciFi",2
+3336,3573,Carnosaur 2  ,"Horror,SciFi",1
+3337,3574,Carnosaur 3: Primal Species  ,"Horror,SciFi",1
+3338,3575,Defying Gravity  ,Drama,3
+3339,3576,Hidden,"Action,Horror",4
+3340,3577,Two Moon Juction  ,Drama,3
+3341,3578,Gladiator  ,"Action,Drama",4
+3342,3579,I Dreamed of Africa  ,Drama,2
+3343,3580,Up at the Villa  ,Drama,3
+3344,3581,Human Traffic  ,Drama,3
+3345,3584,Breathless  ,"Action,Drama,Romance",3
+3346,3585,Great Locomotive Chase,"Adventure,War",4
+3347,3586,Idolmaker,Drama,3
+3348,3587,Inferno  ,Horror,3
+3349,3588,King of Marvin Gardens,"Crime,Drama",3
+3350,3590,Lords of Flatbush,Comedy,3
+3351,3591,Mr. Mom  ,"Comedy,Drama",3
+3352,3592,Time Masters (Les Maîtres du Temps)  ,"Animation,SciFi",2
+3353,3593,Battlefield Earth  ,"Action,SciFi",2
+3354,3594,Center Stage  ,Drama,3
+3355,3595,Held Up  ,Comedy,3
+3356,3596,Screwed  ,Comedy,3
+3357,3597,Whipped  ,Comedy,3
+3358,3598,Hamlet  ,Drama,3
+3359,3599,Anchors Aweigh  ,"Comedy,Musical",4
+3360,3600,Blue Hawaii  ,"Comedy,Musical",3
+3361,3601,Castaway Cowboy,"Comedy,Western",4
+3362,3602,G. I. Blues  ,Musical,3
+3363,3603,Gay Deceivers,Comedy,3
+3364,3604,Gypsy  ,Musical,4
+3365,3605,King Creole  ,"Drama,Musical",3
+3366,3606,On the Town  ,Musical,4
+3367,3607,One Little Indian  ,"Comedy,Drama,Western",5
+3368,3608,Pee-wee's BigAdventure ,Comedy,3
+3369,3609,Regret to Inform  ,Documentary,4
+3370,3610,Roustabout  ,Musical,3
+3371,3611,Saludos Amigos  ,"Animation,Children,Comedy",3
+3372,3612,Slipper and the Rose,"Adventure,Musical",4
+3373,3613,Things Change  ,Comedy,4
+3374,3614,Honeymoon in Vegas  ,"Comedy,Romance",3
+3375,3615,Dinosaur  ,"Animation,Children",3
+3376,3616,Loser  ,"Comedy,Romance",2
+3377,3617,Road Trip  ,Comedy,3
+3378,3618,Small Time Crooks  ,Comedy,3
+3379,3619,Hollywood Knights,Comedy,3
+3380,3620,Myth of Fingerprints,"Comedy,Drama",3
+3381,3621,Possession  ,"Drama,Horror",2
+3382,3622,Twelve Chairs,Comedy,4
+3383,3623,Mission: Impossible 2  ,"Action,Thriller",3
+3384,3624,Shanghai Noon  ,Action,4
+3385,3625,Better Living Through Circuitry  ,Documentary,4
+3386,3626,8 1/2 Women  ,Comedy,2
+3387,3627,Carnival of Souls  ,"Horror,Thriller",3
+3388,3628,Flying Tigers  ,"Action,Drama,War",3
+3389,3629,Gold Rush,Comedy,4
+3390,3631,It's in the Water  ,Comedy,3
+3391,3632,Monsieur Verdoux  ,Comedy,4
+3392,3633,On Her Majesty's Secret Service  ,Action,3
+3393,3634,Seven Days in May  ,Thriller,4
+3394,3635,Spy Who Loved Me,Action,4
+3395,3636,Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train)  ,Drama,3
+3396,3637,Vagabond (Sans toit ni loi)  ,Drama,4
+3397,3638,Moonraker  ,"Action,Romance,SciFi",3
+3398,3639,Man with the Golden Gun,Action,4
+3399,3640,King in New York,"Comedy,Drama",3
+3400,3641,Woman of Paris,Drama,3
+3401,3642,In Old California  ,Western,3
+3402,3643,Fighting Seabees,"Action,Drama",3
+3403,3644,Dark Command  ,Western,3
+3404,3645,Cleo From 5 to 7 (Cléo de 5 à 7)  ,Drama,4
+3405,3646,Big Momma's House  ,Comedy,2
+3406,3647,Running Free  ,Drama,4
+3407,3648,Abominable Snowman,"Horror,SciFi",3
+3408,3649,American Gigolo  ,Drama,3
+3409,3651,Blood Spattered Bride,Horror,1
+3410,3652,City of the Living Dead (Paura nella città dei morti viventi)  ,Horror,3
+3411,3653,Endless Summer,Documentary,4
+3412,3654,Guns of Navarone,"Action,Drama",4
+3413,3655,Blow-Out (La Grande Bouffe)  ,Drama,4
+3414,3656,Lured  ,Crime,5
+3415,3657,Pandora and the Flying Dutchman  ,Drama,4
+3416,3658,Quatermass and the Pit  ,SciFi,4
+3417,3659,Quatermass II  ,"SciFi,Thriller",3
+3418,3660,Puppet Master  ,"Horror,SciFi,Thriller",3
+3419,3661,Puppet Master II  ,"Horror,SciFi,Thriller",2
+3420,3662,Puppet Master III: Toulon's Revenge  ,"Horror,SciFi,Thriller",2
+3421,3663,Puppet Master 4  ,"Horror,SciFi,Thriller",2
+3422,3664,Puppet Master 5: The Final Chapter  ,"Horror,SciFi,Thriller",2
+3423,3665,Curse of the Puppet Master  ,"Horror,SciFi,Thriller",2
+3424,3666,Retro Puppetmaster  ,"Horror,SciFi,Thriller",2
+3425,3667,Rent-A-Cop  ,"Action,Comedy",2
+3426,3668,Romeo and Juliet  ,"Drama,Romance",4
+3427,3669,Stay Tuned  ,Comedy,2
+3428,3670,Story of G.I. Joe,War,4
+3429,3671,Blazing Saddles  ,"Comedy,Western",4
+3430,3672,Benji  ,"Adventure,Children",3
+3431,3673,Benji the Hunted  ,"Adventure,Children",2
+3432,3674,For the Love of Benji  ,"Adventure,Children",3
+3433,3675,White Christmas  ,Musical,4
+3434,3676,Eraserhead  ,"Drama,Horror",3
+3435,3677,Baraka  ,Documentary,4
+3436,3678,Man with the Golden Arm,Drama,4
+3437,3679,Decline ofWesternCivilization,Documentary,4
+3438,3680,Decline ofWesternCivilization Part II: The Metal Years,Documentary,4
+3439,3681,For a Few Dollars More  ,Western,4
+3440,3682,Magnum Force  ,Western,4
+3441,3683,Blood Simple  ,"Drama,Noir",4
+3442,3684,Fabulous Baker Boys,"Drama,Romance",3
+3443,3685,Prizzi's Honor  ,"Comedy,Drama,Romance",4
+3444,3686,Flatliners  ,Thriller,3
+3445,3687,Light Years  ,SciFi,2
+3446,3688,Porky's  ,Comedy,3
+3447,3689,Porky's II: The Next Day  ,Comedy,2
+3448,3690,Porky's Revenge  ,Comedy,2
+3449,3691,Private School  ,Comedy,3
+3450,3692,Class of Nuke 'Em High  ,"Comedy,Horror",2
+3451,3693,Toxic Avenger,"Comedy,Horror",3
+3452,3694,Toxic Avenger,",,Comedy",2
+3453,3695,Toxic Avenger Part III: The Last Temptation of Toxie,"Comedy,Horror",2
+3454,3696,Night of the Creeps  ,"Comedy,Horror,SciFi",3
+3455,3697,Predator 2  ,"Action,SciFi,Thriller",3
+3456,3698,Running Man,"Action,Adventure",3
+3457,3699,Starman  ,"Adventure,Drama,Romance",3
+3458,3700,Brother from Another Planet,"Drama,SciFi",4
+3459,3701,Alien Nation  ,"Crime,Drama,SciFi",3
+3460,3702,Mad Max  ,"Action,SciFi",4
+3461,3703,Mad Max 2 (a.k.a. The RoadWarrior)  ,"Action,SciFi",4
+3462,3704,Mad Max Beyond Thunderdome  ,"Action,SciFi",3
+3463,3705,Bird on a Wire  ,"Action,Adventure,Romance",3
+3464,3706,Angel Heart  ,"Noir,Mystery,Thriller",3
+3465,3707,Nine 1/2 Weeks  ,Drama,3
+3466,3708,Firestarter  ,"Horror,Thriller",3
+3467,3709,Sleepwalkers  ,Horror,2
+3468,3710,ActionJackson  ,"Action,Comedy",2
+3469,3711,Sarafina!  ,Drama,3
+3470,3712,Soapdish  ,Comedy,3
+3471,3713,Long Walk Home,Drama,4
+3472,3714,Clara's Heart  ,Drama,3
+3473,3715,Burglar  ,Comedy,2
+3474,3716,Fatal Beauty  ,"Action,Crime",2
+3475,3717,Gone in 60 Seconds  ,"Action,Crime",3
+3476,3718,American Pimp  ,Documentary,3
+3477,3719,Love's Labour's Lost  ,"Comedy,Romance",3
+3478,3720,Sunshine  ,Drama,4
+3479,3721,Trixie  ,Comedy,3
+3480,3722,Live Virgin  ,Comedy,2
+3481,3723,Hamlet  ,Drama,4
+3482,3724,Coming Home  ,"Drama,War",4
+3483,3725,American Pop  ,"Animation,Musical",3
+3484,3726,Assault on Precinct 13  ,"Action,Thriller",4
+3485,3727,Near Dark  ,"Comedy,Horror",4
+3486,3728,One False Move  ,Thriller,4
+3487,3729,Shaft  ,"Action,Crime",3
+3488,3730,Conversation,"Drama,Mystery",4
+3489,3731,Cutter's Way  ,"Drama,Thriller",3
+3490,3732,Fury,Horror,3
+3491,3733,Paper Chase,Drama,4
+3492,3734,Prince of the City  ,Drama,3
+3493,3735,Serpico  ,"Crime,Drama",4
+3494,3736,Big Carnival,Drama,4
+3495,3737,Lonely Are the Brave  ,"Drama,Western",4
+3496,3738,Sugarland Express,Drama,3
+3497,3739,Trouble in Paradise  ,"Comedy,Romance",4
+3498,3740,Big Trouble in Little China  ,"Action,Comedy",3
+3499,3741,Badlands  ,"Crime,Drama",4
+3500,3742,Battleship Potemkin,"Drama,War",4
+3501,3743,Boys and Girls  ,"Comedy,Romance",3
+3502,3744,Shaft  ,"Action,Crime",3
+3503,3745,Titan A.E.  ,"Adventure,Animation,SciFi",3
+3504,3746,Butterfly (La Lengua de las Mariposas)  ,"Drama,War",4
+3505,3747,Jesus' Son  ,Drama,4
+3506,3748,Match,"Comedy,Romance",3
+3507,3749,Time Regained (Le Temps Retrouvé)  ,Drama,3
+3508,3751,Chicken Run  ,"Animation,Children,Comedy",4
+3509,3752,Me,Comedy,3
+3510,3753,Patriot,"Action,Drama",4
+3511,3754,Adventures of Rocky and Bullwinkle,"Animation,Children",2
+3512,3755,Perfect Storm,"Action,Adventure",3
+3513,3756,Golden Bowl,Drama,4
+3514,3757,Asylum  ,Horror,3
+3515,3758,Communion  ,"Drama,SciFi,Thriller",3
+3516,3759,Fun and Fancy Free  ,"Animation,Children,Musical",3
+3517,3760,Kentucky Fried Movie,Comedy,3
+3518,3761,Blood In,"Crime,Drama",3
+3519,3762,Daughter of Dr. Jeckyll  ,Horror,1
+3520,3763,F/X  ,"Action,Crime,Thriller",4
+3521,3764,F/X 2  ,"Action,Crime,Thriller",3
+3522,3765,Hot Spot,"Drama,Romance",3
+3523,3766,Missing inAction ,"Action,War",3
+3524,3767,Missing inAction2: The Beginning  ,"Action,War",2
+3525,3768,Braddock: Missing inActionIII  ,"Action,War",2
+3526,3769,Thunderbolt and Lightfoot  ,Action,3
+3527,3770,Dreamscape  ,"Adventure,Crime,SciFi",3
+3528,3771,Golden Voyage of Sinbad,"Action,Adventure",3
+3529,3772,Hatchet For the Honeymoon (Rosso Segno Della Follia)  ,Horror,2
+3530,3773,House Party  ,Comedy,3
+3531,3774,House Party 2  ,Comedy,2
+3532,3775,Make Mine Music  ,"Animation,Children,Musical",3
+3533,3776,Melody Time  ,"Animation,Children,Musical",3
+3534,3777,Nekromantik  ,"Comedy,Horror",2
+3535,3778,On Our Merry Way  ,"Comedy,Drama",3
+3536,3779,Project Moon Base  ,SciFi,3
+3537,3780,Rocketship X-M  ,SciFi,3
+3538,3781,Shaft in Africa  ,"Action,Crime",3
+3539,3782,Shaft's Big Score!  ,"Action,Crime",3
+3540,3783,Croupier  ,"Crime,Drama",4
+3541,3784,Kid,Comedy,3
+3542,3785,Scary Movie  ,"Comedy,Horror",3
+3543,3786,But I'm a Cheerleader  ,Comedy,3
+3544,3787,Shower (Xizhao)  ,Comedy,4
+3545,3788,Blowup  ,"Drama,Mystery",4
+3546,3789,Pawnbroker,Drama,4
+3547,3790,Groove  ,Drama,3
+3548,3791,Footloose  ,Drama,3
+3549,3792,Duel in the Sun  ,Western,4
+3550,3793,X-Men  ,"Action,SciFi",4
+3551,3794,Chuck & Buck  ,"Comedy,Drama",3
+3552,3795,Five Senses,Drama,3
+3553,3796,Wisdom of Crocodiles,"Romance,Thriller",3
+3554,3797,In Crowd,Thriller,2
+3555,3798,What Lies Beneath  ,Thriller,3
+3556,3799,Pokémon the Movie 2000  ,"Animation,Children",2
+3557,3800,Criminal Lovers (Les Amants Criminels)  ,"Drama,Romance",2
+3558,3801,Anatomy of a Murder  ,"Drama,Mystery",4
+3559,3802,Freejack  ,"Action,SciFi",2
+3560,3803,Greaser's Palace  ,Drama,4
+3561,3804,H.O.T.S.  ,Comedy,3
+3562,3805,Knightriders  ,"Action,Adventure,Drama",3
+3563,3806,MacKenna's Gold  ,Western,3
+3564,3807,Sinbad and the Eye of the Tiger  ,"Action,Adventure",3
+3565,3808,Two Women (La Ciociara)  ,"Drama,War",4
+3566,3809,What About Bob?  ,Comedy,3
+3567,3810,White Sands  ,"Drama,Thriller",3
+3568,3811,Breaker Morant  ,"Drama,War",4
+3569,3812,Everything You Always Wanted to Know About Sex  ,Comedy,4
+3570,3813,Interiors  ,Drama,3
+3571,3814,Love and Death  ,Comedy,4
+3572,3816,Official Story,Drama,4
+3573,3817,Other Side of Sunday,"Comedy,Drama",3
+3574,3818,Pot O' Gold  ,"Comedy,Musical",2
+3575,3819,Tampopo  ,Comedy,4
+3576,3820,Thomas and the Magic Railroad  ,Children,2
+3577,3821,Nutty Professor II: The Klumps  ,Comedy,3
+3578,3822,Girl on the Bridge,"Drama,Romance",4
+3579,3823,Wonderland  ,Drama,4
+3580,3824,Autumn in New York  ,"Drama,Romance",2
+3581,3825,Coyote Ugly  ,Drama,3
+3582,3826,Hollow Man  ,"Horror,SciFi,Thriller",3
+3583,3827,Space Cowboys  ,"Action,SciFi",3
+3584,3828,Better Living  ,Comedy,2
+3585,3830,Psycho Beach Party  ,"Comedy,Horror,Thriller",3
+3586,3831,Saving Grace  ,Comedy,4
+3587,3832,Black Sabbath (Tre Volti Della Paura,Horror,3
+3588,3833,Brain That Wouldn't Die,"Horror,SciFi",3
+3589,3834,Bronco Billy  ,"Adventure,Drama,Romance",3
+3590,3835,Crush,Thriller,3
+3591,3836,Kelly's Heroes  ,"Action,Comedy,War",4
+3592,3837,Phantasm II  ,Horror,3
+3593,3838,Phantasm III: Lord of the Dead  ,Horror,3
+3594,3839,Phantasm IV: Oblivion  ,Horror,3
+3595,3840,Pumpkinhead  ,Horror,3
+3596,3841,Air America  ,"Action,Comedy",3
+3597,3842,Make Them Die Slowly (Cannibal Ferox)  ,Horror,3
+3598,3843,Sleepaway Camp  ,Horror,3
+3599,3844,Steel Magnolias  ,Drama,4
+3600,3845,"And God Created Woman (Et Dieu&#8230,Créa la Femme)  ",Drama,3
+3601,3846,Easy Money  ,Comedy,3
+3602,3847,Ilsa,Horror,3
+3603,3848,Silent Fall  ,"Drama,Thriller",3
+3604,3849,Spiral Staircase,Thriller,4
+3605,3850,Whatever Happened to Aunt Alice?  ,"Crime,Thriller",3
+3606,3851,I'm the One That I Want  ,Comedy,4
+3607,3852,Tao of Steve,Comedy,4
+3608,3853,Tic Code,Drama,4
+3609,3854,Aimée & Jaguar  ,"Drama,Romance",4
+3610,3855,Affair of Love,"Drama,Romance",4
+3611,3857,Bless the Child  ,Thriller,3
+3612,3858,Cecil B. Demented  ,Comedy,3
+3613,3859,Eyes of Tammy Faye,Documentary,4
+3614,3860,Opportunists,Crime,3
+3615,3861,Replacements,Comedy,3
+3616,3862,About Adam  ,Comedy,3
+3617,3863,Cell,"SciFi,Thriller",3
+3618,3864,Godzilla 2000 (Gojira ni-sen mireniamu)  ,"Action,Adventure,SciFi",3
+3619,3865,Original Kings ofComedy,"Comedy,Documentary",3
+3620,3866,Sunset Strip  ,Comedy,3
+3621,3867,All the Rage (a.k.a. It's the Rage)  ,Drama,3
+3622,3868,Naked Gun: From the Files of Police Squad!,Comedy,4
+3623,3869,Naked Gun 2 1/2: The Smell of Fear,Comedy,3
+3624,3870,Our Town  ,Drama,4
+3625,3871,Shane  ,"Drama,Western",4
+3626,3872,Suddenly,Drama,4
+3627,3873,Cat Ballou  ,"Comedy,Western",4
+3628,3874,Couch in New York,"Comedy,Romance",3
+3629,3875,Devil Rides Out,Horror,3
+3630,3876,Jerry & Tom  ,Drama,2
+3631,3877,Supergirl  ,"Action,Adventure,Fantasy",2
+3632,3878,X: The Unknown  ,SciFi,3
+3633,3879,Art ofWar,Action,3
+3634,3880,Ballad of Ramblin' Jack,Documentary,4
+3635,3881,Bittersweet Motel  ,Documentary,5
+3636,3882,Bring It On  ,Comedy,3
+3637,3883,Catfish in Black Bean Sauce  ,"Comedy,Drama",3
+3638,3884,Crew,Comedy,2
+3639,3885,Love & Sex  ,"Comedy,Romance",3
+3640,3886,Steal This Movie!  ,Drama,3
+3641,3887,Went to Coney Island on a Mission From God... Be Back by Five  ,Drama,3
+3642,3888,Skipped Parts  ,"Drama,Romance",4
+3643,3889,Highlander: Endgame  ,"Action,Adventure,Fantasy",2
+3644,3890,Back Stage  ,Documentary,3
+3645,3891,Turn It Up  ,"Crime,Drama",2
+3646,3892,Anatomy (Anatomie)  ,Horror,3
+3647,3893,Nurse Betty  ,"Comedy,Thriller",4
+3648,3894,Solas  ,Drama,3
+3649,3895,Watcher,"Crime,Thriller",2
+3650,3896,Way of the Gun,"Crime,Thriller",3
+3651,3897,Almost Famous  ,"Comedy,Drama",4
+3652,3898,Bait  ,"Action,Comedy",3
+3653,3899,Circus  ,Comedy,2
+3654,3900,Crimeand Punishment in Suburbia  ,"Comedy,Drama",3
+3655,3901,Duets  ,"Comedy,Drama",3
+3656,3902,Goya in Bordeaux (Goya en Bodeos)  ,Drama,3
+3657,3903,Urbania  ,Drama,4
+3658,3904,Uninvited Guest,Drama,1
+3659,3905,Specials,Comedy,4
+3660,3906,Under Suspicion  ,Crime,3
+3661,3908,Urban Legends: Final Cut  ,Horror,2
+3662,3909,Woman on Top  ,"Comedy,Romance",3
+3663,3910,Dancer in the Dark  ,"Drama,Musical",4
+3664,3911,Best in Show  ,Comedy,4
+3665,3912,Beautiful  ,"Comedy,Drama",2
+3666,3913,Barenaked in America  ,Documentary,3
+3667,3914,Broken Hearts Club,Drama,3
+3668,3915,Girlfight  ,Drama,4
+3669,3916,Remember the Titans  ,Drama,4
+3670,3917,Hellraiser  ,Horror,3
+3671,3918,Hellbound: Hellraiser II  ,Horror,3
+3672,3919,Hellraiser III: Hell on Earth  ,Horror,2
+3673,3920,Faraway,Drama,4
+3674,3921,Beach Party  ,Comedy,3
+3675,3922,Bikini Beach  ,Comedy,3
+3676,3923,Return of the Fly  ,"Horror,SciFi",3
+3677,3924,Pajama Party  ,Comedy,3
+3678,3925,Stranger Than Paradise  ,Comedy,4
+3679,3926,Voyage to the Bottom of the Sea  ,"Adventure,SciFi",3
+3680,3927,Fantastic Voyage  ,"Adventure,SciFi",4
+3681,3928,Abbott and Costello Meet Frankenstein  ,"Comedy,Horror",3
+3682,3929,Bank Dick,Comedy,4
+3683,3930,Creature From the Black Lagoon,Horror,3
+3684,3931,Giant Gila Monster,"Horror,SciFi",2
+3685,3932,Invisible Man,"Horror,SciFi",4
+3686,3933,Killer Shrews,"Horror,SciFi",2
+3687,3934,Kronos  ,SciFi,3
+3688,3935,Kronos  ,Horror,3
+3689,3936,Phantom of the Opera,"Drama,Thriller",4
+3690,3937,Runaway  ,"SciFi,Thriller",3
+3691,3938,Slumber Party Massacre,Horror,2
+3692,3939,Slumber Party Massacre II,Horror,2
+3693,3940,Slumber Party Massacre III,Horror,2
+3694,3941,Sorority House Massacre  ,Horror,2
+3695,3942,Sorority House Massacre II  ,Horror,2
+3696,3943,Bamboozled  ,Comedy,3
+3697,3944,Bootmen  ,"Comedy,Drama",2
+3698,3945,Digimon: The Movie  ,"Adventure,Animation,Children",1
+3699,3946,Get Carter  ,"Action,Drama,Thriller",2
+3700,3947,Get Carter  ,Thriller,3
+3701,3948,Meet the Parents  ,Comedy,4
+3702,3949,Requiem for a Dream  ,Drama,4
+3703,3950,Tigerland  ,Drama,4
+3704,3951,Two Family House  ,Drama,4
+3705,3952,Contender,"Drama,Thriller",4
